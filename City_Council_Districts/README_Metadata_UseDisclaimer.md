@@ -16,7 +16,7 @@ This data details City of San Jose council districts.  It is up to date and upda
 
 ## Metadata
 ###Attribute Fields
-`CITY_CD_ID` City council district ID number
+`CITY_CD_ID` City council district ID number  
 `DISTRICTS` District number  
 `CO_MEMBER` Current city council member representing district  
 `TELEPHONE` Telephone number for council member (area code 408)  
