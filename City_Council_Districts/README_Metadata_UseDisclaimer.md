@@ -16,13 +16,13 @@ This data details City of San José council districts.  It is up to date and upda
 
 ## Metadata
 ###Attribute Fields
-'CITY_CD_ID' City council district ID number
-'DISTRICTS' District number
-'CO_MEMBER' Current city council member representing district
-'TELEPHONE' Telephone number for council member (area code 408)
-'POP_2010' Population of council district in 2010 (Census 2010)
-'UNITS_2010' Number of housing units in district (Census 2010)
-'SQ_MILES' Total area in square miles of district
+CITY_CD_ID | City council district ID number
+DISTRICTS | District number
+CO_MEMBER | Current city council member representing district
+TELEPHONE | Telephone number for council member (area code 408)
+POP_2010 | Population of council district in 2010 (Census 2010)
+UNITS_2010 | Number of housing units in district (Census 2010)
+SQ_MILES | Total area in square miles of district
 
 
 ### Projections

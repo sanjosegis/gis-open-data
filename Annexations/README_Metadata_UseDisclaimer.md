@@ -16,17 +16,17 @@ This data details City of San José annexations and disannexations through the hi
 
 ## Metadata
 ###Attribute Fields
-'ANEX_NAME' Annexation name
-'ANEX_NUM' Annexation number
-'RESOLUTION' City council resolution number detailing annexation
-'ORDINANCE' Ordinance code of the City of San José
-'ACREAGE' Acreage of annexation
-'ANEX_DATE' Annexation date in format "YYYYMMDD000000"
-'CUR_STATUS' Current status of annexation
-'DANEX_DATE' Disannexation date in format "YYYYMMDD000000"
-'PART_AREA' Partitioned Area (Yes/No)
-'CUM_SQ_MI' Cumulative square miles of annexation
-'ANNEX_ID' Annexation ID
+ANEX_NAME | Annexation name 
+ANEX_NUM | Annexation number
+RESOLUTION | City council resolution number detailing annexation
+ORDINANC | Ordinance code of the City of San José
+ACREAGE | Acreage of annexation
+ANEX_DATE | Annexation date in format "YYYYMMDD000000"
+CUR_STATUS | Current status of annexation
+DANEX_DATE | Disannexation date in format "YYYYMMDD000000"
+PART_AREA | Partitioned Area (Yes/No)
+CUM_SQ_MI | Cumulative square miles of annexation
+ANNEX_ID | Annexation ID
 
 
 ### Projections
