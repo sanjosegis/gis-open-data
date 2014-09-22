@@ -1,9 +1,4 @@
 ST_PUMP_ID,COMPKEY,COMPTYPE,LOCATION,UNDERPASS,OWNER,QTR_PANEL,WATERWAY,MAJ_W_SHED,NU_OF_PUMP,N_CAP_GPM,NOMINAL_HP,DETAL_LINK,QUALTY_LEV,REC_DRAW,OTH_PN_CRE,OTH_PN_MOD,CONST_DATE,ACCEP_DATE,YEAR_UPGRD,AT_MOD_DAT,GE_MOD_DAT,MESSAGE
-77754,,48,Duckett Wy & Hummingbird Pl,,Private,96D,Calabazas Creek,Calabazas,,,,,D2,0,1-9995,,20090915000000,,,20130104135059,20110613104820,
-31330,,48,215' NORTH END OF Blossom River DR,,Private,128B,Guadalupe Creek,Guadalupe River,,,,,C2,0,DD-0179,,20030826000000,,,20130104134409,20110614110229,Blossom River
-2406,,48,Capitol Expressway @ Old Almaden Road ,,San Jose,114B,Guadalupe River,Guadalupe River,2,2000,,,C2,0,MGE,,,,,20130102143857,20110614124059,Capitol
-22568,,48,RXR UNDERCROSSING BETWEEN COLEMAN AND STOCKTON,,San Jose,83A,Guadalupe River,Guadalupe River,2,2000,2x20,,C2,0,D-0011,,,,,20130108134414,20100824015629,Taylor
-22749,,48,Julian @ SPRR east of Stockton Ave,,San Jose,83A,Guadalupe River,Guadalupe River,2,900,2x5,,C2,0,D-0015,,19910702000000,,,20130102152532,20101019184416,Julian
 6124,,48,900' w/o west end of River Oaks Place ,,San Jose,35C,Guadalupe River,Guadalupe River,3,30070,180,,C2,0,DD-0428,DD-2276,20080226000000,,,20130102152839,20110105150504,River Oaks
 22522,,48,Hedding Street Under Xing at Highway 880 ,,San Jose,82B,Guadalupe River,Guadalupe River,2,10000,30,,C2,0,D-0005,,,,,20130102145326,20110105150505,Hedding
 22565,,48,N/E corner of Gold Street @ Elizabeth Street ,,San Jose,19D,Alviso Slough,Guadalupe River,4,20196,140,,C2,0,Gold Street A,,,,2003,20130102145233,20110916090131,Gold
@@ -19,7 +14,7 @@ ST_PUMP_ID,COMPKEY,COMPTYPE,LOCATION,UNDERPASS,OWNER,QTR_PANEL,WATERWAY,MAJ_W_SH
 76906,,48,Flickinger Park,,Private,51B,Coyote Creek,Coyote,,,,,D2,-1,1-16_FLCKNGER_PK_FLCK0584,,19850831000000,,,20130104135048,20110106163901,
 76901,,48,N/S Trimble Road w/o N. 1st Street ,,San Jose,50D,Guadalupe River,Guadalupe River,5,269280,2675,,D2,0,MGE,,,,,20130102152805,20110105150508,Rincon 2
 76903,,48,West side of Highway 87 under SE quadrant of Taylor ,,San Jose,67C,Guadalupe River,Guadalupe River,2,3200,25,,D2,0,MGE,,,,,20130102140122,20110105150508,87-Taylor
-76904,,48,Skyport Ave at Airport Blvd.,,San Jose,66B,Guadalupe River,Guadalupe River,2,2600,,,D2,0,MGE,,,,,20130102152858,20110105150509,Skyport
+76904,,48,Skyport Ave at Airport Blvd.,,San Jose,66B,Guadalupe River,Guadalupe River,2,2600,,,D2,-1,051632,,,,,20140825130930,20140825130428,Skyport
 22564,,48,RxR Undercrossing between Jerome and Fuller,,San Jose,83C,Guadalupe River,Guadalupe River,2,800,2x5,,C2,0,D-0006,,,,2004,20130102145128,20100824015629,Delmas
 4015,,48,Bascom Avenue Under Xing at Highway 880 ,,San Jose,82B,Guadalupe River,Guadalupe River,2,2800,40,,C2,0,D-0013,,,,,20130102144109,20110105150504,Bascom
 34557,,48,,,San Jose,66D,Guadalupe River,Guadalupe River,,,,,D2,-1,3-8138,,,,,,20120329134826,
@@ -44,3 +39,8 @@ ST_PUMP_ID,COMPKEY,COMPTYPE,LOCATION,UNDERPASS,OWNER,QTR_PANEL,WATERWAY,MAJ_W_SH
 3055,,48,Forest Avenue Under Xing at Highway 880 ,,San Jose,82D,Guadalupe River,Guadalupe River,2,1400,20,,C2,0,MGE,,,,1995,20130102143912,20110222170523,Forest
 22753,,48,Willow @ SPRR/Hwy87,,San Jose,83D,Guadalupe River,Guadalupe River,2,,30,,D2,-1,CPMS3542,D-0018,20071002000000,,,20140612094630,20101112011752,Willow
 34561,,48,,,Private,35A,Guadalupe River,Guadalupe River,,,,,D1,,3-11445F,,20110224000000,,,20130307150131,20130307095413,
+77754,,48,Duckett Wy & Hummingbird Pl,,Private,96D,Calabazas Creek,Calabazas,,,,,D2,0,1-9995,,20090915000000,,,20130104135059,20110613104820,
+31330,,48,215' NORTH END OF Blossom River DR,,Private,128B,Guadalupe Creek,Guadalupe River,,,,,C2,0,DD-0179,,20030826000000,,,20130104134409,20110614110229,Blossom River
+2406,,48,Capitol Expressway @ Old Almaden Road ,,San Jose,114B,Guadalupe River,Guadalupe River,2,2000,,,C2,0,MGE,,,,,20130102143857,20110614124059,Capitol
+22568,,48,RXR UNDERCROSSING BETWEEN COLEMAN AND STOCKTON,,San Jose,83A,Guadalupe River,Guadalupe River,2,2000,2x20,,C2,0,D-0011,,,,,20130108134414,20100824015629,Taylor
+22749,,48,Julian @ SPRR east of Stockton Ave,,San Jose,83A,Guadalupe River,Guadalupe River,2,900,2x5,,C2,0,D-0015,,19910702000000,,,20130102152532,20101019184416,Julian
