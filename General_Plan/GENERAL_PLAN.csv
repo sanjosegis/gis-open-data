@@ -1515,7 +1515,7 @@ Combined Industrial/Commercial,CIC,,26.63,,"212, 97, 252",8,4999
 Public/Quasi-Public,PQP,,0.89,,"209, 255, 240",12,2004
 Residential Neighborhood,RN,,11.71,,"255, 255, 133",17,3869
 Combined Industrial/Commercial,CIC,,0.32,,"212, 97, 252",8,5000
-Neighborhood/Community Commercial,NCC,,0.13,,"255, 125, 189",7,5001
+Downtown,DT,,0,,"255, 125, 189",7,5001
 Public/Quasi-Public,PQP,,8.7,Midtown Specific Plan,"209, 255, 240",12,2008
 Mixed Use Neighborhood,MUN,,6.4,Urban Village,"207, 161, 22",16,2009
 Residential Neighborhood,RN,,7.24,,"255, 255, 133",17,3870
@@ -1774,7 +1774,6 @@ Residential Neighborhood,RN,,2.26,,"255, 255, 133",17,7815
 Public/Quasi-Public,PQP,,1.2,,"209, 255, 240",12,1875
 Public/Quasi-Public,PQP,,0.36,,"209, 255, 240",12,1876
 Mixed Use Neighborhood,MUN,,0.06,,"207, 161, 22",16,1877
-Neighborhood/Community Commercial,NCC,,0.39,,"255, 125, 189",7,1878
 Residential Neighborhood,RN,,3.79,,"255, 255, 133",17,5599
 Mixed Use Neighborhood,MUN,,1.88,,"207, 161, 22",16,1881
 Residential Neighborhood,RN,,13.81,,"255, 255, 133",17,7750
@@ -2156,7 +2155,7 @@ Combined Industrial/Commercial,CIC,,26.62,,"212, 97, 252",8,1504
 Combined Industrial/Commercial,CIC,,14.75,,"212, 97, 252",8,1505
 Public/Quasi-Public,PQP,,37.36,,"209, 255, 240",12,1581
 Mixed Use Neighborhood,MUN,,0.79,,"207, 161, 22",16,3462
-Transit Employment Center,TEC,,7.71,,"0, 85, 255",4,2811
+Urban Village,UV,,7.71,,"0, 85, 255",4,2811
 Transit Employment Center,TEC,,5.4,,"0, 85, 255",4,2812
 Transit Employment Center,TEC,,5.15,,"0, 85, 255",4,2813
 Residential Neighborhood,RN,,10.9,Communication Hill Specific Plan,"255, 255, 133",17,11452
@@ -3000,7 +2999,7 @@ Residential Neighborhood,RN,,0.11,Urban Village,"255, 255, 133",17,2279
 Mixed Use Commercial,MUC,,1.1,,"255, 177, 96",6,4842
 Residential Neighborhood,RN,,0.17,Urban Village,"255, 255, 133",17,2281
 Mixed Use Commercial,MUC,,6.82,,"255, 177, 96",6,4843
-Mixed Use Commercial,MUC,,6.08,Urban Village,"255, 177, 96",6,2283
+Urban Village,UV,,6.08,Urban Village,"255, 113, 65",6,2283
 "Open Space, Parklands and Habitat",OSPH,,1.91,,"96, 160, 0",22,2369
 Industrial Park,IP,,23.39,,"138, 194, 230",9,2950
 Industrial Park,IP,,15.77,,"138, 194, 230",9,2951
@@ -4764,12 +4763,12 @@ Residential Neighborhood,RN,,3.51,,"255, 255, 133",17,4647
 Residential Neighborhood,RN,,3.33,,"255, 255, 133",17,4648
 Residential Neighborhood,RN,,3.04,,"255, 255, 133",17,4649
 Residential Neighborhood,RN,,7.41,,"255, 255, 133",17,4656
-Neighborhood/Community Commercial,NCC,,1.6,,"255, 125, 189",7,4981
-Neighborhood/Community Commercial,NCC,,1.26,,"255, 125, 189",7,4982
+Downtown,DT,,1.26,,"232, 208, 255",7,4981
+Downtown,DT,,1.26,,"255, 125, 189",7,4982
 Neighborhood/Community Commercial,NCC,,1.17,,"255, 125, 189",7,4983
-Neighborhood/Community Commercial,NCC,,0.92,,"255, 125, 189",7,4984
-Neighborhood/Community Commercial,NCC,,0.91,,"255, 125, 189",7,4985
-Neighborhood/Community Commercial,NCC,,0.63,,"255, 125, 189",7,4986
+Downtown,DT,,0.92,,"232, 208, 255",7,4984
+Downtown,DT,,0.91,,"255, 125, 189",7,4985
+Downtown,DT,,0.63,,"232, 208, 255",7,4986
 Neighborhood/Community Commercial,NCC,,0.36,,"255, 125, 189",7,4987
 Neighborhood/Community Commercial,NCC,,2.52,Urban Village,"255, 125, 189",7,5048
 Neighborhood/Community Commercial,NCC,,2.49,Urban Village,"255, 125, 189",7,5049
@@ -4955,8 +4954,8 @@ Urban Village,UV,,6.88,Urban Village,"255, 113, 65",3,4869
 Neighborhood/Community Commercial,NCC,,0.34,Urban Village,"255, 125, 189",7,4942
 Transit Residential,TR,,2.12,Midtown Specific Plan,"100, 64, 0",14,4945
 Mixed Use Commercial,MUC,,4.18,Midtown Specific Plan,"255, 177, 96",6,4949
-Mixed Use Commercial,MUC,,2.69,Midtown Specific Plan,"255, 177, 96",6,4950
-Mixed Use Commercial,MUC,,2.65,Midtown Specific Plan,"255, 177, 96",6,4951
+Transit Residential,TR,,2.69,Midtown Specific Plan,"100, 64, 0",6,4950
+Transit Residential,TR,,2.65,Midtown Specific Plan,"100, 64, 0",6,4951
 Urban Village,UV,,2.34,Rincon South Specific Plan,"255, 113, 65",3,5033
 Urban Village,UV,,2.31,Rincon South Specific Plan,"255, 113, 65",3,5034
 Urban Village,UV,,1.88,Rincon South Specific Plan,"255, 113, 65",3,5035
@@ -5019,7 +5018,6 @@ Urban Village,UV,,1.23,Urban Village,"255, 113, 65",3,4889
 Urban Village,UV,,1.2,Urban Village,"255, 113, 65",3,4890
 Urban Village,UV,,1.2,Urban Village,"255, 113, 65",3,4891
 Urban Village,UV,,1.16,Urban Village,"255, 113, 65",3,4892
-Residential Neighborhood,RN,,3.66,,"255, 255, 133",17,4972
 Residential Neighborhood,RN,,2.31,,"255, 255, 133",17,4973
 Residential Neighborhood,RN,,2.12,,"255, 255, 133",17,4974
 Residential Neighborhood,RN,,2.07,,"255, 255, 133",17,4975
@@ -9256,8 +9254,8 @@ Residential Neighborhood,RN,,3.57,,"255, 255, 133",17,10442
 Residential Neighborhood,RN,,3.32,,"255, 255, 133",17,10443
 Residential Neighborhood,RN,,3.28,,"255, 255, 133",17,10444
 Urban Village,UV,,14.1,Urban Village,"255, 113, 65",3,10250
+Transit Residential,TR,,4.18,,"100, 64, 0",6,11825
 Industrial Park,IP,,107.58,,"138, 194, 230",9,11678
-Combined Industrial/Commercial,CIC,,8.25,,"212, 97, 252",8,11681
 Regional Commercial,RC,,12.21,Urban Village,"225, 55, 0",5,10318
 Regional Commercial,RC,,8.98,Urban Village,"225, 55, 0",5,10319
 Residential Neighborhood,RN,,0.59,,"255, 255, 133",17,10366
@@ -9893,7 +9891,10 @@ Residential Neighborhood,RN,,0.15,,"255, 255, 133",17,11297
 "Open Space, Parklands and Habitat",OSPH,,5.39,,"96, 160, 0",22,11786
 Industrial Park,IP,,5.02,,"138, 194, 230",9,11768
 Industrial Park,IP,,6.38,,"138, 194, 230",9,11769
-Combined Industrial/Commercial,CIC,,62.87,,"212, 97, 252",8,11680
+Downtown,DT,,0,,,0,11822
+Downtown,DT,,0.39,,"232, 208, 255",7,11823
+Neighborhood/Community Commercial,NCC,,0.39,,"255, 125, 189",7,11824
+Combined Industrial/Commercial,CIC,,28,,"212, 97, 252",8,11680
 Residential Neighborhood,RN,,0.72,,"255, 255, 133",17,11813
 "Open Space, Parklands and Habitat",OSPH,,4.04,,"96, 160, 0",22,11789
 Transit Residential,TR,,0.85,,"100, 64, 0",14,11778
@@ -9909,5 +9910,10 @@ Rural Residential,RR,,0.6,,"255, 255, 208",18,11796
 Residential Neighborhood,RN,,1.8,,"255, 255, 133",17,11797
 Light Industrial,LI,,38.13,,"207, 224, 217",10,11783
 Industrial Park,IP,,10.46,,"138, 194, 230",9,11767
+Downtown,DT,,3.66,,"232, 208, 255",17,11826
+Downtown,DT,,3.66,,"232, 208, 255",17,11827
+Downtown,DT,,3.66,,"232, 208, 255",17,11828
 Mixed Use Neighborhood,MUN,,1,Alviso Specific Plan Area,"207, 161, 22",16,11817
 Downtown,DT,,1.26,,"232, 208, 255",1,11818
+Mixed Use Neighborhood,MUN,,35,,"207, 161, 22",0,11819
+Urban Residential,UR,,10,,"160, 120, 0",0,11820
