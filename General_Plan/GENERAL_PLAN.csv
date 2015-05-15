@@ -146,14 +146,14 @@ Combined Industrial/Commercial,CIC,,7.32,,"212, 97, 252",8,118
 Residential Neighborhood,RN,,4.83,,"255, 255, 133",17,11225
 Public/Quasi-Public,PQP,,3.19,,"209, 255, 240",12,121
 "Open Space, Parklands and Habitat",OSPH,,1,Urban Village,"96, 160, 0",22,122
-Mixed Use Neighborhood,MUN,,3.92,Urban Village,"207, 161, 22",16,123
+Neighborhood/Community Commercial,NCC,,3.92,Urban Village,"255, 125, 189",16,123
 Public/Quasi-Public,PQP,,7.88,,"209, 255, 240",12,125
 Public/Quasi-Public,PQP,,9.19,,"209, 255, 240",12,126
 Neighborhood/Community Commercial,NCC,,1.23,,"255, 125, 189",7,8457
 Neighborhood/Community Commercial,NCC,,0.73,,"255, 125, 189",7,8458
 Public/Quasi-Public,PQP,,19.73,,"209, 255, 240",12,95
 "Open Space, Parklands and Habitat",OSPH,,14.89,,"96, 160, 0",22,97
-"Open Space, Parklands and Habitat",OSPH,,3.18,,"96, 160, 0",22,98
+Residential Neighborhood,RN,,3.05,,"255, 255, 208",17,98
 Public/Quasi-Public,PQP,,8.86,,"209, 255, 240",12,100
 Public/Quasi-Public,PQP,,9.43,,"209, 255, 240",12,101
 Public/Quasi-Public,PQP,,9.97,,"209, 255, 240",12,153
@@ -280,11 +280,14 @@ Residential Neighborhood,RN,,5.22,,"255, 255, 133",17,6536
 Residential Neighborhood,RN,,4.48,,"255, 255, 133",17,6542
 Residential Neighborhood,RN,,4.14,,"255, 255, 133",17,6544
 Light Industrial,LI,,51,Alviso Specific Plan Area,"207, 224, 217",10,245
+Mixed Use Neighborhood,MUN,,1.69,Communications Hill Specific Plan,"207, 161, 22",16,11850
 Heavy Industrial,HI,,31.2,,"122, 158, 150",11,247
 Residential Neighborhood,RN,,6.64,,"255, 255, 133",17,10270
 Residential Neighborhood,RN,,6.57,,"255, 255, 133",17,3049
 Residential Neighborhood,RN,,5.04,,"255, 255, 133",17,3533
 Residential Neighborhood,RN,,7.18,,"255, 255, 133",17,10269
+Mixed Use Neighborhood,MUN,,1.72,Communications Hill Specific Plan,"207, 161, 22",16,11851
+Mixed Use Neighborhood,MUN,,0.78,Communications Hill Specific Plan,"207, 161, 22",16,11852
 "Open Space, Parklands and Habitat",OSPH,,0.98,,"96, 160, 0",22,260
 Mixed Use Neighborhood,MUN,,3.24,,"207, 161, 22",16,261
 Neighborhood/Community Commercial,NCC,,2.78,,"255, 125, 189",7,262
@@ -293,7 +296,6 @@ Public/Quasi-Public,PQP,,24.99,,"209, 255, 240",12,264
 Neighborhood/Community Commercial,NCC,,1.08,,"255, 125, 189",7,265
 Public/Quasi-Public,PQP,,8.53,,"209, 255, 240",12,266
 Public/Quasi-Public,PQP,,11.3,,"209, 255, 240",12,267
-"Open Space, Parklands and Habitat",OSPH,,0.81,Communication Hill Specific Plan,"96, 160, 0",22,268
 Heavy Industrial,HI,,4.38,Communication Hill Specific Plan,"122, 158, 150",11,249
 Neighborhood/Community Commercial,NCC,,1.28,,"255, 125, 189",7,250
 "Open Space, Parklands and Habitat",OSPH,,1.84,,"96, 160, 0",22,251
@@ -361,9 +363,7 @@ Neighborhood/Community Commercial,NCC,,0.74,,"255, 125, 189",7,286
 Light Industrial,LI,,0.2,,"207, 224, 217",10,287
 Public/Quasi-Public,PQP,,10.03,,"209, 255, 240",12,288
 Neighborhood/Community Commercial,NCC,,4.17,,"255, 125, 189",7,289
-Public/Quasi-Public,PQP,,2.17,Communication Hill Specific Plan,"209, 255, 240",12,290
 "Open Space, Parklands and Habitat",OSPH,,3.2,Communication Hill Specific Plan,"96, 160, 0",22,11453
-Urban Residential,UR,,6.98,Communication Hill Specific Plan,"160, 120, 0",15,292
 Combined Industrial/Commercial,CIC,,76.31,Communication Hill Specific Plan,"212, 97, 252",8,293
 "Open Space, Parklands and Habitat",OSPH,,4.48,,"96, 160, 0",22,295
 Public/Quasi-Public,PQP,,9.52,,"209, 255, 240",12,296
@@ -387,7 +387,7 @@ Mixed Use Neighborhood,MUN,,2.1,,"207, 161, 22",16,351
 Residential Neighborhood,RN,,7.74,,"255, 255, 133",17,6926
 Residential Neighborhood,RN,,10.7,,"255, 255, 133",17,6835
 Residential Neighborhood,RN,,9.86,,"255, 255, 133",17,6836
-Residential Neighborhood,RN,,9.77,,"255, 255, 133",17,6837
+Residential Neighborhood,RN,,8.37,,"255, 255, 133",17,6837
 Residential Neighborhood,RN,,8.89,,"255, 255, 133",17,6838
 Residential Neighborhood,RN,,21.07,,"255, 255, 133",17,6962
 Residential Neighborhood,RN,,7.51,,"255, 255, 133",17,6963
@@ -497,13 +497,12 @@ Mixed Use Neighborhood,MUN,,1.8,,"207, 161, 22",16,427
 Neighborhood/Community Commercial,NCC,,0.87,,"255, 125, 189",7,429
 "Open Space, Parklands and Habitat",OSPH,,16.2,,"96, 160, 0",22,10372
 Rural Residential,RR,,5.53,,"255, 255, 208",18,407
-Rural Residential,RR,,37.74,Communication Hill Specific Plan,"255, 255, 208",18,408
+Rural Residential,RR,,26.09,Communication Hill Specific Plan,"255, 255, 208",18,408
 Rural Residential,RR,,24.07,,"255, 255, 208",18,409
 Public/Quasi-Public,PQP,,23.11,,"209, 255, 240",12,410
 Public/Quasi-Public,PQP,,5.14,Communication Hill Specific Plan,"209, 255, 240",12,411
 Combined Industrial/Commercial,CIC,,54.74,,"212, 97, 252",8,412
 Residential Neighborhood,RN,,2.51,Alviso Specific Plan Area,"255, 255, 133",17,11482
-"Open Space, Parklands and Habitat",OSPH,,0,Alviso Specific Plan Area,"96, 160, 0",22,11471
 Residential Neighborhood,RN,,24.96,,"255, 255, 133",17,9237
 Residential Neighborhood,RN,,3.68,,"255, 255, 133",17,3534
 Residential Neighborhood,RN,,3.63,,"255, 255, 133",17,3535
@@ -965,7 +964,7 @@ Residential Neighborhood,RN,,0.38,,"255, 255, 133",17,1207
 Neighborhood/Community Commercial,NCC,,22.88,,"255, 125, 189",7,9351
 Neighborhood/Community Commercial,NCC,,1.09,,"255, 125, 189",7,943
 "Open Space, Parklands and Habitat",OSPH,,2,Communication Hill Specific Plan,"96, 160, 0",22,944
-Industrial Park,IP,,69.79,Communication Hill Specific Plan,"138, 194, 230",9,945
+Industrial Park,IP,,65.08,Communications Hill Specific Plan,"138, 194, 230",9,945
 Mixed Use Neighborhood,MUN,,3.36,,"207, 161, 22",16,1014
 Downtown,DT,,2.95,,"232, 208, 255",1,1015
 Neighborhood/Community Commercial,NCC,,6.96,,"255, 125, 189",7,1016
@@ -1211,13 +1210,12 @@ Residential Neighborhood,RN,,5.58,,"255, 255, 133",17,8398
 Residential Neighborhood,RN,,5.53,,"255, 255, 133",17,8399
 Residential Neighborhood,RN,,5.08,,"255, 255, 133",17,8400
 Residential Neighborhood,RN,,4.77,,"255, 255, 133",17,8401
-Urban Residential,UR,,28.85,Communication Hill Specific Plan,"160, 120, 0",15,11408
+Urban Residential,UR,,28.85,Communications Hill Specific Plan,"160, 120, 0",15,11408
 Industrial Park,IP,,11.62,,"138, 194, 230",9,848
 Public/Quasi-Public,PQP,,4.63,,"209, 255, 240",12,849
 Neighborhood/Community Commercial,NCC,,2.68,,"255, 125, 189",7,850
-Urban Residential,UR,,1.33,Communication Hill Specific Plan,"160, 120, 0",15,11413
+Urban Residential,UR,,1.33,Communications Hill Specific Plan,"160, 120, 0",15,11413
 Neighborhood/Community Commercial,NCC,,9.12,Urban Village,"255, 125, 189",7,6685
-"Open Space, Parklands and Habitat",OSPH,,192.04,Communication Hill Specific Plan,"96, 160, 0",22,11414
 Mixed Use Neighborhood,MUN,,4.6,,"207, 161, 22",16,10379
 "Open Space, Parklands and Habitat",OSPH,,5.9,,"96, 160, 0",22,919
 Residential Neighborhood,RN,,26.77,,"255, 255, 133",17,10381
@@ -1515,7 +1513,7 @@ Combined Industrial/Commercial,CIC,,26.63,,"212, 97, 252",8,4999
 Public/Quasi-Public,PQP,,0.89,,"209, 255, 240",12,2004
 Residential Neighborhood,RN,,11.71,,"255, 255, 133",17,3869
 Combined Industrial/Commercial,CIC,,0.32,,"212, 97, 252",8,5000
-Downtown,DT,,0,,"255, 125, 189",7,5001
+Downtown,DT,,0.13,,"232, 208, 255",7,5001
 Public/Quasi-Public,PQP,,8.7,Midtown Specific Plan,"209, 255, 240",12,2008
 Mixed Use Neighborhood,MUN,,6.4,Urban Village,"207, 161, 22",16,2009
 Residential Neighborhood,RN,,7.24,,"255, 255, 133",17,3870
@@ -1548,10 +1546,12 @@ Residential Neighborhood,RN,,0.2,Urban Village,"255, 255, 133",17,2010
 Residential Neighborhood,RN,,2.41,,"255, 255, 133",17,7774
 Neighborhood/Community Commercial,NCC,,4.22,Alviso Specific Plan Area,"255, 125, 189",7,2012
 Light Industrial,LI,,9.88,Alviso Specific Plan Area,"207, 224, 217",10,2013
+Public/Quasi-Public,PQP,,5.53,Communications Hill Specific Plan,"209, 255, 240",12,11839
 Mixed Use Neighborhood,MUN,,2.74,Alviso Specific Plan Area,"207, 161, 22",16,11492
+Public/Quasi-Public,PQP,,3.97,Communications Hill Specific Plan,"209, 255, 240",12,11840
 Urban Residential,UR,,4.92,Midtown Specific Plan,"160, 120, 0",15,2695
+Mixed Use Commercial,MUC,,1.76,Communications Hill Specific Plan,"255, 177, 96",16,11841
 Mixed Use Neighborhood,MUN,,0.13,Alviso Specific Plan Area,"207, 161, 22",16,11495
-Mixed Use Neighborhood,MUN,,0,Alviso Specific Plan Area,"207, 161, 22",16,11497
 Mixed Use Neighborhood,MUN,,1.23,Alviso Specific Plan Area,"207, 161, 22",16,11498
 "Open Space, Parklands and Habitat",OSPH,,25.66,,"96, 160, 0",22,3255
 "Open Space, Parklands and Habitat",OSPH,,41.21,,"96, 160, 0",22,3254
@@ -1580,7 +1580,8 @@ Rural Residential,RR,,7.26,,"255, 255, 208",18,6419
 Urban Village,UV,,9.94,Rincon South Specific Plan,"255, 113, 65",3,5027
 Residential Neighborhood,RN,,3.52,,"255, 255, 133",17,8376
 Urban Village,UV,,8.97,Rincon South Specific Plan,"255, 113, 65",3,5028
-Neighborhood/Community Commercial,NCC,,4.08,Communication Hill Specific Plan,"255, 125, 189",7,1734
+Mixed Use Commercial,MUC,,1.56,Communications Hill Specific Plan,"255, 177, 96",6,11842
+"Open Space, Parklands and Habitat",OSPH,,6.48,Communications Hill Specific Plan,"96, 160, 0",22,11843
 Urban Village,UV,,8.61,Rincon South Specific Plan,"255, 113, 65",3,5029
 "Open Space, Parklands and Habitat",OSPH,,0.53,Midtown Specific Plan,"96, 160, 0",22,2691
 Urban Residential,UR,,6.88,Midtown Specific Plan,"160, 120, 0",15,2692
@@ -1926,7 +1927,7 @@ Light Industrial,LI,,8.62,,"207, 224, 217",10,1535
 Combined Industrial/Commercial,CIC,,7.28,,"212, 97, 252",8,3021
 Private Recreation and Open Space,PROS,,97.68,,"117, 200, 145",21,1627
 Public/Quasi-Public,PQP,,6.39,Communication Hill Specific Plan,"209, 255, 240",12,1628
-Public/Quasi-Public,PQP,,0.45,Communication Hill Specific Plan,"209, 255, 240",12,1630
+Public/Quasi-Public,PQP,,0.45,Communications Hill Specific Plan,"209, 255, 240",12,1630
 Lower Hillside,LH,,1.02,,"248, 225, 206",19,1631
 Mixed Use Neighborhood,MUN,,1.67,,"207, 161, 22",16,3359
 Neighborhood/Community Commercial,NCC,,0.44,Jackson-Taylor Specific Plan,"255, 125, 189",7,1638
@@ -2026,6 +2027,7 @@ Transit Residential,TR,,0.95,Midtown Specific Plan,"100, 64, 0",14,4947
 Residential Neighborhood,RN,,2.14,,"255, 255, 133",17,4963
 Residential Neighborhood,RN,,0.63,,"255, 255, 133",17,4964
 Residential Neighborhood,RN,,0.47,,"255, 255, 133",17,4965
+Public/Quasi-Public,PQP,,1.4,,"209, 255, 240",12,11831
 Neighborhood/Community Commercial,NCC,,6.54,Urban Village,"255, 125, 189",7,1293
 Residential Neighborhood,RN,,3.08,,"255, 255, 133",17,1294
 "Open Space, Parklands and Habitat",OSPH,,3.05,,"96, 160, 0",22,1295
@@ -2181,7 +2183,7 @@ Residential Neighborhood,RN,,6.03,,"255, 255, 133",17,8594
 Light Industrial,LI,,0.92,,"207, 224, 217",10,1324
 Mixed Use Neighborhood,MUN,,0.44,,"207, 161, 22",16,8642
 Neighborhood/Community Commercial,NCC,,2.16,,"255, 125, 189",7,1326
-Residential Neighborhood,RN,,41.53,Communication Hill Specific Plan,"255, 255, 133",17,1327
+Residential Neighborhood,RN,,41.52,Communication Hill Specific Plan,"255, 255, 133",17,1327
 Mixed Use Neighborhood,MUN,,0.77,,"207, 161, 22",16,1328
 Combined Industrial/Commercial,CIC,,20.42,Communication Hill Specific Plan,"212, 97, 252",8,8644
 Light Industrial,LI,,6.11,,"207, 224, 217",10,8649
@@ -2925,7 +2927,7 @@ Transportation and Utilities,TU,,0.45,Urban Village,"0, 209, 192",13,10103
 Transportation and Utilities,TU,,0.37,Urban Village,"0, 209, 192",13,10104
 Mixed Use Neighborhood,MUN,,11.54,Urban Village,"207, 161, 22",16,2340
 "Open Space, Parklands and Habitat",OSPH,,0.18,,"96, 160, 0",22,2341
-"Open Space, Parklands and Habitat",OSPH,,0.76,Urban Village,"96, 160, 0",22,9962
+Public/Quasi-Public,PQP,,0.76,Urban Village,"209, 255, 240",12,9962
 Mixed Use Neighborhood,MUN,,0.47,Urban Village,"207, 161, 22",16,11646
 Urban Residential,UR,,2.49,,"160, 120, 0",15,10034
 Neighborhood/Community Commercial,NCC,,5.01,Urban Village,"255, 125, 189",7,4606
@@ -3019,6 +3021,9 @@ Residential Neighborhood,RN,,3.57,,"255, 255, 133",17,3492
 Residential Neighborhood,RN,,7.12,,"255, 255, 133",17,11815
 "Open Space, Parklands and Habitat",OSPH,,5.12,,"96, 160, 0",22,11814
 Mixed Use Neighborhood,MUN,,5.25,Jackson-Taylor Specific Plan,"207, 161, 22",16,11816
+Public/Quasi-Public,PQP,,10.56,,"209, 255, 240",12,11832
+Mixed Use Neighborhood,MUN,,0.9,Communications Hill Specific Plan,"207, 161, 22",16,11844
+Mixed Use Neighborhood,MUN,,0.41,Communications Hill Specific Plan,"207, 161, 22",16,11848
 "Open Space, Parklands and Habitat",OSPH,,7.06,Midtown Specific Plan,"96, 160, 0",22,4954
 "Open Space, Parklands and Habitat",OSPH,,12.66,,"96, 160, 0",22,4956
 "Open Space, Parklands and Habitat",OSPH,,8.47,,"96, 160, 0",22,4958
@@ -4299,12 +4304,13 @@ Residential Neighborhood,RN,,1.17,,"255, 255, 133",17,4145
 Residential Neighborhood,RN,,6.22,,"255, 255, 133",17,4196
 Residential Neighborhood,RN,,4.9,,"255, 255, 133",17,4197
 Mixed Use Neighborhood,MUN,,0.66,,"207, 161, 22",16,10170
-Public/Quasi-Public,PQP,,9.82,,"209, 255, 240",12,4244
+Public/Quasi-Public,PQP,,8.91,,"209, 255, 240",12,4244
 Mixed Use Neighborhood,MUN,,14.3,,"207, 161, 22",16,4245
 Mixed Use Neighborhood,MUN,,13.6,,"207, 161, 22",16,4246
 Mixed Use Neighborhood,MUN,,10.11,,"207, 161, 22",16,4247
 Mixed Use Neighborhood,MUN,,8.12,,"207, 161, 22",16,4248
 Mixed Use Neighborhood,MUN,,7.25,,"207, 161, 22",16,4249
+Residential Neighborhood,RN,,0.91,,"255, 255, 133",0,11829
 Residential Neighborhood,RN,,5.38,,"255, 255, 133",17,4309
 Residential Neighborhood,RN,,2.67,,"255, 255, 133",17,4310
 Residential Neighborhood,RN,,2.56,,"255, 255, 133",17,4311
@@ -4956,6 +4962,8 @@ Transit Residential,TR,,2.12,Midtown Specific Plan,"100, 64, 0",14,4945
 Mixed Use Commercial,MUC,,4.18,Midtown Specific Plan,"255, 177, 96",6,4949
 Transit Residential,TR,,2.69,Midtown Specific Plan,"100, 64, 0",6,4950
 Transit Residential,TR,,2.65,Midtown Specific Plan,"100, 64, 0",6,4951
+Public/Quasi-Public,PQP,,1.7,,"209, 255, 240",17,11830
+Mixed Use Neighborhood,MUN,,0.59,Communications Hill Specific Plan,"207, 161, 22",16,11899
 Urban Village,UV,,2.34,Rincon South Specific Plan,"255, 113, 65",3,5033
 Urban Village,UV,,2.31,Rincon South Specific Plan,"255, 113, 65",3,5034
 Urban Village,UV,,1.88,Rincon South Specific Plan,"255, 113, 65",3,5035
@@ -5018,6 +5026,7 @@ Urban Village,UV,,1.23,Urban Village,"255, 113, 65",3,4889
 Urban Village,UV,,1.2,Urban Village,"255, 113, 65",3,4890
 Urban Village,UV,,1.2,Urban Village,"255, 113, 65",3,4891
 Urban Village,UV,,1.16,Urban Village,"255, 113, 65",3,4892
+Mixed Use Neighborhood,MUN,,1.1,Communications Hill Specific Plan,"207, 161, 22",16,11849
 Residential Neighborhood,RN,,2.31,,"255, 255, 133",17,4973
 Residential Neighborhood,RN,,2.12,,"255, 255, 133",17,4974
 Residential Neighborhood,RN,,2.07,,"255, 255, 133",17,4975
@@ -5026,6 +5035,8 @@ Residential Neighborhood,RN,,1.49,,"255, 255, 133",17,4977
 Residential Neighborhood,RN,,1.22,,"255, 255, 133",17,4978
 Residential Neighborhood,RN,,0.59,,"255, 255, 133",17,4979
 Residential Neighborhood,RN,,0.54,,"255, 255, 133",17,4980
+Mixed Use Neighborhood,MUN,,0.44,Communications Hill Specific Plan,"207, 161, 22",16,11853
+Mixed Use Neighborhood,MUN,,5.46,Communications Hill Specific Plan,"207, 161, 22",16,11898
 "Open Space, Parklands and Habitat",OSPH,,26.35,,"96, 160, 0",22,5269
 "Open Space, Parklands and Habitat",OSPH,,4.03,,"96, 160, 0",22,5270
 "Open Space, Parklands and Habitat",OSPH,,3.45,,"96, 160, 0",22,5271
@@ -5287,7 +5298,7 @@ Public/Quasi-Public,PQP,,22.9,,"209, 255, 240",12,5655
 Public/Quasi-Public,PQP,,11.06,,"209, 255, 240",12,5656
 Lower Hillside,LH,,128.13,,"248, 225, 206",19,5657
 Lower Hillside,LH,,27.92,,"248, 225, 206",19,5658
-Lower Hillside,LH,,18.95,,"248, 225, 206",19,5659
+Public/Quasi-Public,LH,,17.25,,"248, 225, 206",19,5659
 Lower Hillside,LH,,13.4,,"248, 225, 206",19,5660
 Lower Hillside,LH,,1.53,,"248, 225, 206",19,5661
 Lower Hillside,LH,,1.35,,"248, 225, 206",19,5662
@@ -6647,18 +6658,52 @@ Residential Neighborhood,RN,,2.7,,"255, 255, 133",17,6905
 Residential Neighborhood,RN,,2.66,,"255, 255, 133",17,6906
 "Open Space, Parklands and Habitat",OSPH,,8.4,,"96, 160, 0",22,11788
 "Open Space, Parklands and Habitat",OSPH,,2.35,,"96, 160, 0",22,11792
+Downtown,DT,,0.13,,"232, 208, 255",1,11833
+Mixed Use Neighborhood,MUN,,2.17,Communications Hill Specific Plan,"207, 161, 22",16,11880
+Mixed Use Neighborhood,MUN,,2.12,Communications Hill Specific Plan,"207, 161, 22",16,11881
+Mixed Use Neighborhood,MUN,,0.51,Communications Hill Specific Plan,"207, 161, 22",16,11882
+Mixed Use Neighborhood,MUN,,0.33,Communications Hill Specific Plan,"207, 161, 22",16,11883
+Mixed Use Neighborhood,MUN,,1.6,Communications Hill Specific Plan,"207, 161, 22",16,11884
+"Open Space, Parklands and Habitat",OSPH,,1.96,Communications Hill Specific Plan,"96, 160, 0",22,11885
+Mixed Use Neighborhood,MUN,,1.63,Communications Hill Specific Plan,"207, 161, 22",16,11886
 Residential Neighborhood,RN,,4.15,,"255, 255, 133",17,6821
 Residential Neighborhood,RN,,4.06,,"255, 255, 133",17,6822
 Residential Neighborhood,RN,,4.31,,"255, 255, 133",17,6873
 Residential Neighborhood,RN,,4.29,,"255, 255, 133",17,6874
 Residential Neighborhood,RN,,2.59,,"255, 255, 133",17,6907
 Residential Neighborhood,RN,,2.57,,"255, 255, 133",17,6908
+Mixed Use Neighborhood,MUN,,0.99,Communications Hill Specific Plan,"207, 161, 22",16,11857
+Urban Residential,UR,,0.98,Communications Hill Specific Plan,"160, 120, 0",15,11858
+Mixed Use Neighborhood,MUN,,0.74,Communications Hill Specific Plan,"207, 161, 22",16,11854
+Mixed Use Neighborhood,MUN,,2.01,Communications Hill Specific Plan,"207, 161, 22",16,11855
+Mixed Use Neighborhood,MUN,,1.96,Communications Hill Specific Plan,"207, 161, 22",16,11856
+Mixed Use Neighborhood,MUN,,1.94,Communications Hill Specific Plan,"207, 161, 22",16,11859
+Mixed Use Neighborhood,MUN,,1.64,Communications Hill Specific Plan,"207, 161, 22",16,11860
+"Open Space, Parklands and Habitat",OSPH,,1.64,Communications Hill Specific Plan,"96, 160, 0",22,11861
+Mixed Use Neighborhood,MUN,,1.65,Communications Hill Specific Plan,"207, 161, 22",16,11862
+Mixed Use Neighborhood,MUN,,1.66,Communications Hill Specific Plan,"207, 161, 22",16,11863
+Mixed Use Neighborhood,MUN,,1.63,Communications Hill Specific Plan,"207, 161, 22",16,11864
+Urban Residential,UR,,0.94,Communications Hill Specific Plan,"160, 120, 0",15,11865
+Mixed Use Neighborhood,MUN,,1.83,Communications Hill Specific Plan,"207, 161, 22",16,11866
+Mixed Use Neighborhood,MUN,,1.75,Communications Hill Specific Plan,"207, 161, 22",16,11867
+Mixed Use Neighborhood,MUN,,0.53,Communications Hill Specific Plan,"207, 161, 22",16,11868
 Residential Neighborhood,RN,,3.98,,"255, 255, 133",17,6823
 Residential Neighborhood,RN,,3.94,,"255, 255, 133",17,6824
 Residential Neighborhood,RN,,4.28,,"255, 255, 133",17,6875
 Residential Neighborhood,RN,,4.27,,"255, 255, 133",17,6876
 Residential Neighborhood,RN,,2.46,,"255, 255, 133",17,6910
 Residential Neighborhood,RN,,2.43,,"255, 255, 133",17,6911
+"Open Space, Parklands and Habitat",OSPH,,5.6,Communications Hill Specific Plan,"96, 160, 0",22,11869
+"Open Space, Parklands and Habitat",OSPH,,1.37,Communications Hill Specific Plan,"96, 160, 0",22,11870
+"Open Space, Parklands and Habitat",OSPH,,5.43,Communications Hill Specific Plan,"96, 160, 0",22,11871
+Urban Residential,UR,,0.92,Communications Hill Specific Plan,"160, 120, 0",15,11872
+Mixed Use Neighborhood,MUN,,0.88,Communications Hill Specific Plan,"207, 161, 22",16,11873
+Mixed Use Neighborhood,MUN,,0.97,Communications Hill Specific Plan,"207, 161, 22",16,11874
+Urban Residential,UR,,0.16,Communications Hill Specific Plan,"160, 120, 0",15,11875
+Mixed Use Neighborhood,MUN,,1.7,Communications Hill Specific Plan,"207, 161, 22",16,11876
+Mixed Use Neighborhood,MUN,,2.1,Communications Hill Specific Plan,"207, 161, 22",16,11877
+Mixed Use Neighborhood,MUN,,2.16,Communications Hill Specific Plan,"207, 161, 22",16,11878
+Mixed Use Neighborhood,MUN,,2.16,Communications Hill Specific Plan,"207, 161, 22",16,11879
 Residential Neighborhood,RN,,3.86,,"255, 255, 133",17,6825
 Residential Neighborhood,RN,,3.76,,"255, 255, 133",17,6826
 Residential Neighborhood,RN,,4.27,,"255, 255, 133",17,6877
@@ -6666,7 +6711,17 @@ Residential Neighborhood,RN,,4.19,,"255, 255, 133",17,6878
 Residential Neighborhood,RN,,2.16,,"255, 255, 133",17,6912
 Residential Neighborhood,RN,,2.14,,"255, 255, 133",17,6913
 Residential Neighborhood,RN,,2.08,,"255, 255, 133",17,6914
+"Open Space, Parklands and Habitat",OSPH,,42.4,Communications Hill Specific Plan,"96, 160, 0",22,11836
 Residential Neighborhood,RN,,1.3,,"255, 255, 133",17,7029
+Mixed Use Neighborhood,MUN,,1.59,Communications Hill Specific Plan,"207, 161, 22",16,11887
+Mixed Use Neighborhood,MUN,,0.37,Communications Hill Specific Plan,"207, 161, 22",16,11888
+"Open Space, Parklands and Habitat",OSPH,,7.73,Communications Hill Specific Plan,"96, 160, 0",22,11889
+Urban Residential,UR,,1.34,Communications Hill Specific Plan,"160, 120, 0",15,11890
+Urban Residential,UR,,1.64,Communications Hill Specific Plan,"160, 120, 0",15,11891
+Mixed Use Neighborhood,MUN,,1.67,Communications Hill Specific Plan,"207, 161, 22",16,11892
+Mixed Use Neighborhood,MUN,,0.25,Communications Hill Specific Plan,"207, 161, 22",16,11893
+Mixed Use Neighborhood,MUN,,0.36,Communications Hill Specific Plan,"207, 161, 22",16,11894
+Mixed Use Neighborhood,MUN,,0.48,Communications Hill Specific Plan,"207, 161, 22",16,11895
 Residential Neighborhood,RN,,3.75,,"255, 255, 133",17,6827
 Residential Neighborhood,RN,,3.71,,"255, 255, 133",17,6828
 Residential Neighborhood,RN,,4.12,,"255, 255, 133",17,6880
@@ -8966,10 +9021,9 @@ Residential Neighborhood,RN,,0.87,Alviso Specific Plan Area,"255, 255, 133",17,1
 Mixed Use Neighborhood,MUN,,2.67,Alviso Specific Plan Area,"207, 161, 22",16,11500
 Urban Residential,UR,,0.17,Communication Hill Specific Plan,"160, 120, 0",15,10735
 Residential Neighborhood,RN,,0.69,Alviso Specific Plan Area,"255, 255, 133",17,11483
-Urban Residential,UR,,34.47,Communication Hill Specific Plan,"160, 120, 0",15,10749
 Residential Neighborhood,RN,,0.93,Alviso Specific Plan Area,"255, 255, 133",17,11484
 Residential Neighborhood,RN,,1.19,Alviso Specific Plan Area,"255, 255, 133",17,11486
-"Open Space, Parklands and Habitat",OSPH,,7.4,Communication Hill Specific Plan,"96, 160, 0",22,11402
+"Open Space, Parklands and Habitat",OSPH,,7.37,Communications Hill Specific Plan,"96, 160, 0",22,11402
 Urban Residential,UR,,1.6,Communication Hill Specific Plan,"160, 120, 0",15,11416
 Residential Neighborhood,RN,,2.92,,"255, 255, 133",17,10609
 Residential Neighborhood,RN,,1.47,,"255, 255, 133",17,10610
@@ -8992,12 +9046,15 @@ Residential Neighborhood,RN,,0.86,,"255, 255, 133",17,10611
 Urban Residential,UR,,0.96,Communication Hill Specific Plan,"160, 120, 0",15,10765
 Urban Residential,UR,,2.87,Communication Hill Specific Plan,"160, 120, 0",15,11417
 Urban Residential,UR,,0.14,Communication Hill Specific Plan,"160, 120, 0",15,10774
-Urban Residential,UR,,29.37,Communication Hill Specific Plan,"160, 120, 0",15,10776
-Mixed Use Neighborhood,MUN,,0,Alviso Specific Plan Area,"207, 161, 22",16,11502
+Mixed Use Neighborhood,MUN,,0.95,Communications Hill Specific Plan,"207, 161, 22",16,11845
+Mixed Use Neighborhood,MUN,,1.38,Communications Hill Specific Plan,"207, 161, 22",16,11846
 Mixed Use Neighborhood,MUN,,1.18,Alviso Specific Plan Area,"207, 161, 22",16,11503
 Mixed Use Neighborhood,MUN,,0.85,Alviso Specific Plan Area,"207, 161, 22",16,11504
 Mixed Use Neighborhood,MUN,,0.98,Alviso Specific Plan Area,"207, 161, 22",16,11505
 Mixed Use Neighborhood,MUN,,1.1,Alviso Specific Plan Area,"207, 161, 22",16,11506
+"Open Space, Parklands and Habitat",OSPH,,4.37,Communications Hill Specific Plan,"96, 160, 0",22,11835
+"Open Space, Parklands and Habitat",OSPH,,39.14,Communications Hill Specific Plan,"96, 160, 0",22,11837
+"Open Space, Parklands and Habitat",OSPH,,27.5,Communications Hill Specific Plan,"96, 160, 0",22,11838
 Urban Residential,UR,,1.78,Communication Hill Specific Plan,"160, 120, 0",15,10755
 Urban Residential,UR,,1.6,Communication Hill Specific Plan,"160, 120, 0",15,11415
 Urban Residential,UR,,1.19,Communication Hill Specific Plan,"160, 120, 0",15,10762
@@ -9255,7 +9312,7 @@ Residential Neighborhood,RN,,3.32,,"255, 255, 133",17,10443
 Residential Neighborhood,RN,,3.28,,"255, 255, 133",17,10444
 Urban Village,UV,,14.1,Urban Village,"255, 113, 65",3,10250
 Transit Residential,TR,,4.18,,"100, 64, 0",6,11825
-Industrial Park,IP,,107.58,,"138, 194, 230",9,11678
+Industrial Park,IP,,97.14,,"138, 194, 230",9,11678
 Regional Commercial,RC,,12.21,Urban Village,"225, 55, 0",5,10318
 Regional Commercial,RC,,8.98,Urban Village,"225, 55, 0",5,10319
 Residential Neighborhood,RN,,0.59,,"255, 255, 133",17,10366
@@ -9266,7 +9323,6 @@ Transit Residential,TR,,1.59,,"100, 64, 0",14,10253
 Residential Neighborhood,RN,,4.82,,"255, 255, 133",17,10259
 "Open Space, Parklands and Habitat",OSPH,,12.29,,"96, 160, 0",22,9364
 Open Hillside,OH,,27.56,,"177, 210, 149",23,10327
-"Open Space, Parklands and Habitat",OSPH,,0,,"96, 160, 0",22,11551
 Residential Neighborhood,RN,,0.41,,"255, 255, 133",17,10368
 Residential Neighborhood,RN,,0.28,,"255, 255, 133",17,10369
 Residential Neighborhood,RN,,0.28,,"255, 255, 133",17,10370
@@ -9891,7 +9947,7 @@ Residential Neighborhood,RN,,0.15,,"255, 255, 133",17,11297
 "Open Space, Parklands and Habitat",OSPH,,5.39,,"96, 160, 0",22,11786
 Industrial Park,IP,,5.02,,"138, 194, 230",9,11768
 Industrial Park,IP,,6.38,,"138, 194, 230",9,11769
-Downtown,DT,,0,,,0,11822
+Downtown,DT,,0.24,,"232, 208, 255",0,11822
 Downtown,DT,,0.39,,"232, 208, 255",7,11823
 Neighborhood/Community Commercial,NCC,,0.39,,"255, 125, 189",7,11824
 Combined Industrial/Commercial,CIC,,28,,"212, 97, 252",8,11680
@@ -9903,11 +9959,21 @@ Transit Residential,TR,,0.59,,"100, 64, 0",14,11780
 Transit Residential,TR,,0.51,,"100, 64, 0",14,11781
 Public/Quasi-Public,PQP,,313.3,Alviso Specific Plan Area,"209, 255, 240",12,11809
 "Open Space, Parklands and Habitat",OSPH,,180.6,Alviso Specific Plan Area,"96, 160, 0",22,11811
+Mixed Use Neighborhood,MUN,,0.43,,"207, 161, 22",16,11834
+Mixed Use Neighborhood,MUN,,0.55,Communications Hill Specific Plan,"207, 161, 22",16,11847
+Mixed Use Neighborhood,MUN,,1.13,Communications Hill Specific Plan,"207, 161, 22",16,11896
+Mixed Use Neighborhood,MUN,,4.18,Communications Hill Specific Plan,"207, 161, 22",16,11897
+Mixed Use Neighborhood,MUN,,0.24,Communications Hill Specific Plan,"207, 161, 22",16,11900
+Mixed Use Neighborhood,MUN,,2.29,Communications Hill Specific Plan,"207, 161, 22",16,11901
+Mixed Use Neighborhood,MUN,,2.23,Communications Hill Specific Plan,"207, 161, 22",16,11902
+Mixed Use Neighborhood,MUN,,1.34,Communications Hill Specific Plan,"207, 161, 22",16,11903
 Neighborhood/Community Commercial,NCC,,0.43,,"255, 125, 189",7,11793
 Urban Residential,UR,,2.27,,"160, 120, 0",15,11794
 Mixed Use Neighborhood,MUN,,0.79,,"207, 161, 22",16,11795
 Rural Residential,RR,,0.6,,"255, 255, 208",18,11796
 Residential Neighborhood,RN,,1.8,,"255, 255, 133",17,11797
+"Open Space, Parklands and Habitat",OSPH,,1.03,Communications Hill Specific Plan,"96, 160, 0",22,11904
+"Open Space, Parklands and Habitat",OSPH,,6.05,Communications Hill Specific Plan,"96, 160, 0",22,11905
 Light Industrial,LI,,38.13,,"207, 224, 217",10,11783
 Industrial Park,IP,,10.46,,"138, 194, 230",9,11767
 Downtown,DT,,3.66,,"232, 208, 255",17,11826
