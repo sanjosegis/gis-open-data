@@ -1,0 +1,50 @@
+ST_PUMP_ID,COMPKEY,COMPTYPE,LOCATION,UNDERPASS,OWNER,QTR_PANEL,WATERWAY,MAJ_W_SHED,NU_OF_PUMP,N_CAP_GPM,NOMINAL_HP,DETAL_LINK,QUALTY_LEV,REC_DRAW,OTH_PN_CRE,OTH_PN_MOD,CONST_DATE,ACCEP_DATE,YEAR_UPGRD,AT_MOD_DAT,GE_MOD_DAT,MESSAGE
+2406,,48,Capitol Expressway @ Old Almaden Road ,,San Jose,114B,Guadalupe River,Guadalupe River,2,2000,,,C2,0,MGE,,,,,20130102143857,20110614124059,Capitol
+22568,,48,RXR UNDERCROSSING BETWEEN COLEMAN AND STOCKTON,,San Jose,83A,Guadalupe River,Guadalupe River,2,2000,2x20,,C2,0,D-0011,,,,,20130108134414,20100824015629,Taylor
+22749,,48,Julian @ SPRR east of Stockton Ave,,San Jose,83A,Guadalupe River,Guadalupe River,2,900,2x5,,C2,0,D-0015,,19910702000000,,,20130102152532,20101019184416,Julian
+6124,,48,900' w/o west end of River Oaks Place ,,San Jose,35C,Guadalupe River,Guadalupe River,3,30070,180,,C2,0,DD-0428,DD-2276,20080226000000,,,20130102152839,20110105150504,River Oaks
+22522,,48,Hedding Street Under Xing at Highway 880 ,,San Jose,82B,Guadalupe River,Guadalupe River,2,10000,30,,C2,0,D-0005,,,,,20130102145326,20110105150505,Hedding
+22565,,48,N/E corner of Gold Street @ Elizabeth Street ,,San Jose,19D,Alviso Slough,Guadalupe River,4,20196,140,,C2,0,Gold Street A,,,,2003,20130102145233,20110916090131,Gold
+22566,,48,E/S Hope Street 100' n/o Elizabeth ,,San Jose,19D,Alviso Slough,Guadalupe River,1,135,1,,C2,0,D-0009,,,,,20130102152425,20110925162606,Hope Street 1
+77299,,48,SW Cunningham Av & Wonderama Dr,,Private,84B,Lake Cunningham,Coyote,,,,,D2,-1,1-16_LK_CUNNG_PK_LAKE0680,,19810506000000,,,20130104135053,20110326113024,
+22567,,48,South End of Liberty Street ,,San Jose,34B,,,1,90,2,,C2,0,D-0010,,,,2007,20130102152556,20110925162633,Liberty
+22748,,48,Lisa Lane off of Renaissance Drive ,,San Jose,35A,Guadalupe River,Guadalupe River,6,329868,5760,,C2,0,D-0014,,19910702000000,,,20130102152618,20110105150506,Oakmead
+30115,,48,Airport Rocky Pond 2080 Airport Parkway,,San Jose,50D,Guadalupe River,Guadalupe River,2,28720,50,,D2,-1,89-6725,,19901231000000,,,20140310102314,20140307150827,feature corresponds to pumpstation control point in plan
+33800,,48,N/S Montague Expressway w/o N. 1st Street ,,San Jose,50B,Guadalupe River,Guadalupe River,4,161568,1500,,C2,0,DD-2624,,20080410000000,,,20130102152741,20110925160407,Rincon 1
+34556,,48,Guadalupe Freeway 1050' n/o Airport Parkway ,,San Jose,50D,Guadalupe River,Guadalupe River,2,3142,120,,C2,0,MGE,DD-2232,,,,20131101150539,20110105150507,Gateway
+76899,,48,Charles Street,,Private,67A,Guadalupe River,Guadalupe River,,,,,D2,-1,3-12745,,20080708000000,,,20130104135043,20110105150507,
+76900,,48,At the SW Corner of Hope St and Elizabeth St.,,San Jose,19D,Alviso Slough,Guadalupe River,2,133,1,,D2,-1,CPMS5566,,20050101000000,,,20140212155052,20140212155758,feature is an inlet manhole with pumps
+76906,,48,Flickinger Park,,Private,51B,Coyote Creek,Coyote,,,,,D2,-1,1-16_FLCKNGER_PK_FLCK0584,,19850831000000,,,20130104135048,20110106163901,
+76901,,48,N/S Trimble Road w/o N. 1st Street ,,San Jose,50D,Guadalupe River,Guadalupe River,5,269280,2675,,D2,0,MGE,,,,,20130102152805,20110105150508,Rincon 2
+76903,,48,West side of Highway 87 under SE quadrant of Taylor ,,San Jose,67C,Guadalupe River,Guadalupe River,2,3200,25,,D2,0,MGE,,,,,20130102140122,20110105150508,87-Taylor
+76904,,48,Skyport Ave at Airport Blvd.,,San Jose,66B,Guadalupe River,Guadalupe River,2,2600,,,D2,-1,051632,,,,,20140825130930,20140825130428,Skyport
+22564,,48,RxR Undercrossing between Jerome and Fuller,,San Jose,83C,Guadalupe River,Guadalupe River,2,800,2x5,,C2,0,D-0006,,,,2004,20130102145128,20100824015629,Delmas
+4015,,48,Bascom Avenue Under Xing at Highway 880 ,,San Jose,82B,Guadalupe River,Guadalupe River,2,2800,40,,C2,0,D-0013,,,,,20130102144109,20110105150504,Bascom
+34574,,48,,,San Jose,97C,Saratoga Creek,San Tomas,,,,,C2,,MGE,DD-2905,,,,,20150223132056,
+34557,,48,,,San Jose,66D,Guadalupe River,Guadalupe River,,,,,D2,-1,3-8138,,,,,,20120329134826,
+34563,,48,,,Private,68A,Lower Silver Creek,Coyote,1,,,,D2,-1,3-01340,,20120612000000,,,,20130708135303,
+34564,,48,,,San Jose,83A,Guadalupe River,Guadalupe River,,,,,D2,,MGE,,,,,,20131031125927,CAHILL PUMPSTATION- Transferred from Caltrans to City.
+34567,,48,in a manhole near Bellarmine Humanities Building,,Private,66D,Guadalupe River,Guadalupe River,1,,,,D2,0,3-04527F,,20090722000000,,,,20140401111540,
+34568,,48,,,Private,51A,Coyote Creek,Coyote,1,,,,D2,-1,3-05560A,,20130103000000,,,,20140812093353,
+34559,,48,Ped Xing on The Alameda @ Hester Av.,,San Jose,83A,Guadalupe River,Guadalupe River,1,10000,1,,D2,0,CAL82,,20080607000000,,,20130103083756,20130103083606,Hester
+34570,,48,,,San Jose,51D,Coyote Creek,Coyote,1,,15,,D2,0,3-16680,,20140725000000,,,,20141107144324,
+34571,,48,,,Private,67A,Guadalupe River,Guadalupe River,2,,1,,D2,-1,3-05204C,,20140207000000,,,,20141119122234,
+22750,,48,Alma @ SPRR/Hwy87,,San Jose,99B,Guadalupe River,Guadalupe River,2,3200,2x15,,C2,-1,DD0016,4869-36,20080404000000,,2007,20130102144938,20100824015330,Alma
+22754,,48,Almaden Road @ SPRR,,San Jose,99B,Guadalupe River,Guadalupe River,2,2000,2x20,,C2,0,D-0019,,19910702000000,,2000,20130102145000,20101109220546,Almaden
+33275,,48,San Carlos and South First,,Private,83B,Guadalupe River,Guadalupe River,2,,,,C2,-1,3-14437M/A,,20071121000000,,,20130104134956,20101017193940,San Carlos
+76389,,48,Bird Ave between Willow St and Vernon Ave,,Private,99A,Guadalupe River,Guadalupe River,,,,,D2,-1,1-9878,,20080402000000,,,20130104135020,20100824015331,
+76390,,48,Serena Cr,,Private,83C,Los Gatos Creek,Guadalupe River,,,,,D2,-1,1-9820,,20071119000000,,,20130104135027,20100824015331,
+3819,,48,Park Avenue @ Los Gatos Creek,,San Jose,83C,Los Gatos Creek,Guadalupe River,2,1740,2x10,,C2,0,D-0007,DD-2233,20080620000000,,2005,20130102144048,20100824015628,Park
+22505,,48,Bird Undrcrossing of RXR between Virginia and Fuller,,San Jose,83C,Guadalupe River,Guadalupe River,2,6500,2x30,,C2,0,D-0003,,,,2007,20130102143448,20100824015628,Bird
+76905,,48,"East P/L of Golden Wheel Mobile Home Park, 1450 Oakland Rd ",,San Jose,51D,Coyote Creek,Coyote,2,42000,270,,D2,-1,0109-36,,20000731000000,,,20130102145304,20110105150509,Golden Wheel
+77770,,48,,,SCCO,99D,Guadalupe River,Guadalupe River,,,,,D2,,MGE,,,,,20121126133247,20110727144926,
+30077,,48,"890 Chynoweth Ave, Undercrossing at 87 e/o Pearl Ave",,San Jose,129A,Canoas Creek,Guadalupe River,5,15280,240,,C2,0,DD-0062,,20010618000000,,,20130102145022,20110904174702,Chynoweth
+32901,,48,Crane Ridge Ln and Crystal Hollow Pl,,Private,101C,Upper Silver Creek,Coyote,,,,,C2,0,MGE,1-9281,,,,20140515103636,20140515105128,Crystal Ridge
+79813,,48,,,Private,130C,Canoas Creek,Guadalupe River,,,,,D2,-1,3-01591,,20040401000000,,,20111020172945,20110904174703,
+79831,,48,Altino Blvd and Donnici Street,,San Jose,100C,Coyote Creek,Coyote,2,229,10,,D2,-1,AltinoBlvd_stormPS,,20070717000000,,,20130102145049,20110915093832,Communication Hill
+3055,,48,Forest Avenue Under Xing at Highway 880 ,,San Jose,82D,Guadalupe River,Guadalupe River,2,1400,20,,C2,0,MGE,,,,1995,20130102143912,20110222170523,Forest
+22753,,48,Willow @ SPRR/Hwy87,,San Jose,83D,Guadalupe River,Guadalupe River,2,,30,,D2,-1,CPMS3542,D-0018,20071002000000,,,20140612094630,20101112011752,Willow
+34561,,48,,,Private,35A,Guadalupe River,Guadalupe River,,,,,D1,,3-11445F,,20110224000000,,,20130307150131,20130307095413,
+34572,,48,,,Caltrans,83C,Guadalupe River,Guadalupe River,,,,,C2,0,MGE,DD-3184,,,,20141223134205,20141223134008,
+77754,,48,Duckett Wy & Hummingbird Pl,,Private,96D,Calabazas Creek,Calabazas,,,,,D2,0,1-9995,,20090915000000,,,20130104135059,20110613104820,
+31330,,48,215' NORTH END OF Blossom River DR,,Private,128B,Guadalupe Creek,Guadalupe River,,,,,C2,0,DD-0179,,20030826000000,,,20130104134409,20110614110229,Blossom River
