@@ -1,92 +1,144 @@
 STM_OTF_ID,COMPKEY,COMPTYPE,TYPE,PCD_TYPE,PCD_IN_DAT,PCD_MANUF,STATUS,FLAP_BRAND,AGENCY,OWNER,QTR_PANEL,WATERWAY,MAJ_W_SHED,LONG_NAD83,LAT_NAD83,DETAL_LINK,QUALTY_LEV,REC_DRAW,OTH_PN_CRE,OTH_PN_MOD,CONST_DATE,ACCEP_DATE,AT_MOD_DAT,GE_MOD_DAT,MESSAGE
-349,,87,Pipe,,,,EXISTING,Waterman,,San Jose,114B,Guadalupe River,Guadalupe River,-121.877465,37.276726,,C2,0,MGE,,,,20110916122544,20110612111145,MRF:Can't locate the Outfall from Google Earth or Orthophoto
-350,,87,Riprap,,,,EXISTING,,,San Jose,128A,Ross Creek,Guadalupe River,-121.907532,37.254328,,C2,0,MGE,,,,20110916122544,20110612111145,MRF:Can't locate the outfall from Google Earth or Orthophoto
-351,,87,Riprap,,,,EXISTING,,,San Jose,128A,Ross Creek,Guadalupe River,-121.906264,37.256014,,C2,0,MGE,,,,20110916122544,20110612111146,MRF:Can't locate the outfall from Google Earth or Orthophoto
-352,,87,Riprap,,,,EXISTING,,,San Jose,128A,Ross Creek,Guadalupe River,-121.904707,37.257981,,C2,0,MGE,,,,20110916122544,20110612111147,MRF:Can't locate the Outfall from Google Earth or Orthophoto
-353,,87,Riprap,,,,EXISTING,Armco,,San Jose,114B,Guadalupe River,Guadalupe River,-121.877339,37.275982,,C2,0,MGE,,,,20110916122544,20110612111147,
-354,,87,Pipe,,,,EXISTING,,,San Jose,114B,Guadalupe River,Guadalupe River,-121.877309,37.27593,,C2,0,MGE,,,,20110916122544,20110612111148,
-357,,87,Pipe,,,,EXISTING,,,San Jose,128A,Ross Creek,Guadalupe River,-121.903122,37.259158,,C2,0,MGE,,,,20110916122544,20110612111149,MRF:Can't locate the outfall from Google Earth or Orthophoto
-359,,87,Pipe,,,,EXISTING,,,San Jose,114D,Guadalupe River,Guadalupe River,-121.878518,37.271073,,C2,0,MGE,,,,20110916122544,20110620114506,MRF:Can't locate the Outfall from Google Earth or Orthophoto
-361,,87,Pipe,,,,EXISTING,,,San Jose,114D,Guadalupe River,Guadalupe River,-121.878599,37.269981,,C2,0,MGE,,,,20110916122544,20110612111150,MRF:Can't locate the Outfall from Google Earth or Orthophoto
-363,,87,Riprap,,,,EXISTING,,,San Jose,114C,Ross Creek,Guadalupe River,-121.901266,37.259733,,C2,0,MGE,,,,20110916122544,20110612111151,MRF:Can't locate the Outfall from Google Earth or Orthophoto
-773,,87,Pipe,,,,EXISTING,,,San Jose,115B,Coyote Creek,Coyote,-121.812666,37.278842,,D2,,MGE,DD3275,,,20140515151031,20140515112548,
-2159,,87,Flapgate,,,,EXISTING,,,San Jose,68D,Lower Silver Creek,Coyote,-121.828806,37.354243,,C2,0,DD-1028,DD-3245,20010914000000,,20131204083621,20110325143811,
-1077,,87,Riprap,,,,EXISTING,,,San Jose,113A,Los Gatos Creek,Guadalupe River,-121.943453,37.276557,,C2,0,DIST 4,,19940929000000,,20110916122544,20110612111231,
-1078,,87,Pipe,,,,EXISTING,,,San Jose,128A,Ross Creek,Guadalupe River,-121.907595,37.254205,,C2,0,TR8457,,19901202000000,,20110916122544,20110612111232,
-1084,,87,Riprap,,,,EXISTING,,,San Jose,128C,Guadalupe Creek,Guadalupe River,-121.890712,37.235653,,C2,0,TR8611,,19931102000000,,20110916122544,20110612111232,
-1087,,87,Riprap,,,,EXISTING,,,San Jose,127B,Ross Creek,Guadalupe River,-121.930159,37.245851,,C2,0,953590,,19940502000000,,20110916122544,20110612111233,
-1090,,87,Riprap,,,,EXISTING,,,San Jose,128B,Guadalupe River,Guadalupe River,-121.869435,37.258488,,C2,0,927517,,19890602000000,,20110916122544,20110612111233,MRF:locate the Outfall from Google Earth
-1091,,87,Riprap,,,,EXISTING,,,San Jose,127B,Ross Creek,Guadalupe River,-121.928565,37.245958,,C2,-1,974753,,19960602000000,,20110916122544,20110612111233,MRF:Can't locate the Outfall from Google Earth or Orthophoto
-2107,,87,Riprap,,,,EXISTING,,,San Jose,127D,Lone Hill Creek,Guadalupe River,-121.917769,37.244285,,C2,0,DD-0060,,20010613000000,,20110916122544,20110612111234,MRF:Can't locate the Outfall from Google Earth or Orthophoto
-2108,,87,Flapgate,,,,EXISTING,Waterman,,San Jose,127D,Lone Hill Creek,Guadalupe River,-121.917235,37.244853,,C2,0,DD-0060,,20010613000000,,20110916122544,20110612111234,MRF:Can't locate the outfall from Google Earth or Orthophoto
-2109,,87,Riprap,,,,EXISTING,,,San Jose,127B,Lone Hill Creek,Guadalupe River,-121.916301,37.24764,,C2,0,DD-0060,,20010613000000,,20110916122544,20110612111235,MRF:Can't locate the Outfall from Google Earth or Orthophoto
-2110,,87,Riprap,,,,EXISTING,,,San Jose,127B,Lone Hill Creek,Guadalupe River,-121.9163,37.247607,,C2,0,DD-0060,,20010613000000,,20110916122544,20110612111235,MRF:Can't locate the Outfall from Google Earth or Orthophoto
-2111,,87,Flapgate,,,,EXISTING,Waterman,,San Jose,127B,Lone Hill Creek,Guadalupe River,-121.916298,37.247468,,C2,0,DD-0060,,20010613000000,,20110916122544,20110612111236,MRF:Can't locate the Outfall from Google Earth or Orthophoto
-2112,,87,Riprap,,,,EXISTING,,,San Jose,127D,Ross Creek,Guadalupe River,-121.937506,37.243216,,C2,0,DD-0061,,20010615000000,,20110916122544,20110612111237,MRF:Can't locate the Outfall from Google Earth or Orthophoto
-2113,,87,Riprap,,,,EXISTING,,,San Jose,128B,Guadalupe River,Guadalupe River,-121.86967,37.252988,,C2,0,DD-0063,,20010618000000,,20110916122544,20110612111237,
-2114,,87,Riprap,,,,EXISTING,,,San Jose,128B,Guadalupe Creek,Guadalupe River,-121.870615,37.250275,,C2,0,DD-0063,,20010620000000,,20110916122544,20110612111238,MRF:Can't locate the outfall from Google Earth or Orthophoto
-2115,,87,Riprap,,,,EXISTING,,,San Jose,128B,Guadalupe Creek,Guadalupe River,-121.870622,37.250246,,C2,0,DD-0063,,20010620000000,,20110916122544,20110612111238,MRF:Can't locate the outfall from Google Earth or Orthophoto
-2521,,87,Riprap,,,,EXISTING,,,San Jose,114C,Ross Creek,Guadalupe River,-121.900232,37.259995,,D2,-1,1-2766,,19610717000000,,20110916122547,20110613103313,
-2522,,87,Concrete,,,,EXISTING,,,San Jose,114D,Guadalupe Creek,Guadalupe River,-121.874117,37.262185,,D2,-1,1-8484,,19930210000000,,20110916122547,20110613103313,
-2523,,87,Concrete,,,,EXISTING,,,San Jose,127B,Ross Creek,Guadalupe River,-121.939997,37.252032,,D2,-1,1-9835,,20071220000000,,20110916122547,20110613103313,MRF:Can't locate the Outfall from Google Earth or Orthophoto
-2524,,87,Concrete,,,,EXISTING,,,San Jose,127B,Ross Creek,Guadalupe River,-121.93936,37.25192,,D2,-1,1-9835,,20071220000000,,20110916122547,20110613103314,MRF:Can't locate the Outfall from Google Earth or Orthophoto
-2525,,87,Concrete,,,,EXISTING,,,San Jose,127B,Ross Creek,Guadalupe River,-121.93924,37.251898,,D2,-1,1-9835,,20071220000000,,20110916122547,20110613103314,MRF:Can't locate the Outfall from Google Earth or Orthophoto
-2526,,87,Concrete,,,,EXISTING,,,Private,127B,Ross Creek,Guadalupe River,-121.938214,37.251714,,D2,-1,1-9835,,20071220000000,,20130805094320,20110613103314,MRF:Can't locate the Outfall from Google Earth or Orthophoto
-2527,,87,Concrete,,,,EXISTING,,,Private,127B,Ross Creek,Guadalupe River,-121.938395,37.251746,,D2,-1,1-9835,,20071220000000,,20130805094310,20110613103314,MRF:Can't locate the Outfall from Google Earth or Orthophoto
-2528,,87,Concrete,,,,EXISTING,,,Private,127B,Ross Creek,Guadalupe River,-121.938093,37.251691,,D2,-1,1-9835,,20071220000000,,20130805094328,20110613103315,MRF:Can't locate the Outfall from Google Earth or Orthophoto
-2531,,87,Concrete,,,,EXISTING,,,San Jose,127D,Ross Creek,Guadalupe River,-121.933114,37.245104,,D2,-1,1-6338,,19791218000000,,20110916122547,20110620110850,
-2532,,87,Concrete,,,,EXISTING,,,San Jose,128D,Alamitos Creek,Guadalupe River,-121.870823,37.238655,,D2,-1,1-16_ALMDN_LK_PK_ALMD0584,,19850418000000,,20110916122547,20110613103316,
-2533,,87,Concrete,,,,EXISTING,,,San Jose,141D,Golf Creek,Guadalupe River,-121.874087,37.206428,,D2,-1,TR5472,,19740203000000,19750202000000,20110916122547,20110613103316,MRF:Can't locate the outfall from Google Earth or Orthophoto
-2116,,87,Riprap,,,,EXISTING,,,San Jose,128B,Guadalupe Creek,Guadalupe River,-121.869361,37.255606,,C2,0,DD-0063,,20010620000000,,20110916122544,20110612111240,MRF:Can't locate the Outfall from Google Earth or Orthophoto
-2117,,87,Riprap,,,,EXISTING,,,San Jose,128B,Guadalupe Creek,Guadalupe River,-121.869444,37.255366,,C2,0,DD-0063,,20010620000000,,20110916122544,20110612111240,
-2118,,87,Riprap,,,,EXISTING,,,San Jose,141D,Golf Creek,Guadalupe River,-121.874978,37.218339,,C2,0,DD-0066,,20010621000000,,20110916122544,20110612111240,
-2119,,87,Riprap,,,,EXISTING,,,San Jose,141D,Golf Creek,Guadalupe River,-121.874403,37.217204,,C2,0,DD-0066,,20010621000000,,20110916122544,20110612111241,MRF:Can't locate the Outfall from Google Earth or Orthophoto
-2121,,87,Riprap,,,,EXISTING,,,San Jose,141D,Golf Creek,Guadalupe River,-121.872691,37.21565,,C2,0,DD-0066,,20010622000000,,20110916122544,20110612111241,
-2122,,87,Riprap,,,,EXISTING,,,San Jose,141D,Golf Creek,Guadalupe River,-121.871775,37.208546,,C2,0,MGE,,20100423000000,,20110916122544,20110612111241,MRF:Can't locate the Outfall from Google Earth or Orthophoto
-2123,,87,Riprap,,,,EXISTING,,,San Jose,141D,Golf Creek,Guadalupe River,-121.874362,37.215639,,C2,0,DD-0066,,20010622000000,,20110916122544,20110612111241,
-2124,,87,Pipe,,,,EXISTING,,,San Jose,141D,Golf Creek,Guadalupe River,-121.871787,37.208562,,C2,0,DD-0066,,20010626000000,,20110916122544,20110612111242,MRF:Can't locate the Outfall from Google Earth or Orthophoto
-2125,,87,Riprap,,,,EXISTING,,,San Jose,141D,Golf Creek,Guadalupe River,-121.871566,37.207763,,C2,0,DD-006,,20010626000000,,20110916122544,20110612111242,MRF:Can't locate the Outfall from Google Earth or Orthophoto
-2126,,87,Pipe,,,,EXISTING,,,San Jose,141D,Golf Creek,Guadalupe River,-121.867271,37.208598,,C2,0,MGE,,20100430000000,,20110916122544,20110612111242,MRF:Can't locate the Outfall from Google Earth or Orthophoto
-2127,,87,Riprap,,,,EXISTING,,,San Jose,141D,Golf Creek,Guadalupe River,-121.871786,37.208485,,C2,0,MGE,,20100423000000,,20110916122544,20110612111243,MRF:Can't locate the Outfall from Google Earth or Orthophoto
-2128,,87,Riprap,,,,EXISTING,,,San Jose,141D,Golf Creek,Guadalupe River,-121.869347,37.213034,,C2,0,DD-0067,,20010629000000,,20110916122544,20110612111243,MRF:Can't locate the Outfall from Google Earth or Orthophoto
-2200,,87,Flapgate,,,,EXISTING,,,San Jose,112D,,San Tomas,-121.990832,37.271527,,C2,-1,DD-0227,,20021002000000,,20110916123027,20110612111243,"MRF:Can't locate the Outfall from Google Earth or Orthophoto,MGE indicates FLAPGATE as ‘Y’ but cannot find record in CSJ  Flapgates List-2011.xls"
-2202,,87,Riprap,,,,EXISTING,,,San Jose,141B,Golf Creek,Guadalupe River,-121.874822,37.2292,,C2,0,DD-0286,,20021114000000,,20110916122544,20110612111244,MRF:Can't locate the Outfall from Google Earth or Orthophoto
-2205,,87,Pipe,,,,EXISTING,Waterman,,San Jose,114B,Canoas Creek,Guadalupe River,-121.865828,37.282257,,C2,0,3-12615,,19991102000000,,20110916122544,20110612111244,
-2251,,87,Riprap,,,,EXISTING,,,San Jose,128B,Guadalupe River,Guadalupe River,-121.86952,37.254626,,C2,0,3-6673,,20000125000000,,20110916122544,20110620124324,
-2253,,87,Riprap,,,,EXISTING,Waterman,,San Jose,128B,Guadalupe Creek,Guadalupe River,-121.869458,37.255158,,C2,0,DD-0179,,20030826000000,,20110916122544,20110612111245,MRF:Can't locate the Outfall from Google Earth or Orthophoto
-2254,,87,Riprap,,,,EXISTING,Waterman,,San Jose,128B,Guadalupe Creek,Guadalupe River,-121.869184,37.255195,,C2,0,DD-0179,,20030826000000,,20110916122544,20110612111245,
-2265,,87,Riprap,,,,EXISTING,,,San Jose,141A,Guadalupe Creek,Guadalupe River,-121.907689,37.221536,,C2,0,DD-0216,,20030926000000,,20110916122544,20110612111245,MRF:Can't locate the Outfall from Google Earth or Orthophoto
-2266,,87,Pipe,,,,EXISTING,,,San Jose,113A,San Tomas Aquino Creek,San Tomas,-121.965202,37.27877,,C2,0,1-3059,,20031010000000,,20110916122544,20110612111245,
-2267,,87,Pipe,,,,EXISTING,,,San Jose,112B,San Tomas Aquino Creek,San Tomas,-121.968264,37.277496,,C2,0,DD-0234,,20031009000000,,20110916122544,20110615175510,
-2268,,87,Riprap,,,,EXISTING,,,San Jose,112D,,San Tomas,-121.990944,37.270041,,C2,0,DD-0236,,20031020000000,,20110916123027,20110612111246,MRF:locate the Outfall from Google Earth
-2269,,87,Riprap,,,,EXISTING,,,San Jose,112D,,San Tomas,-121.990867,37.270066,,C2,0,DD-0236,,20031020000000,,20110916123027,20110612111246,MRF:Can't locate the Outfall from Google Earth or Orthophoto
-2281,,87,Riprap,,,,EXISTING,,,San Jose,114B,Canoas Creek,Guadalupe River,-121.868973,37.280192,,C2,0,DD-0275,3-12712,20040114000000,20090129000000,20121102083041,20110612111247,MRF:Can't locate the Outfall from Google Earth or Orthophoto
-2284,,87,Concrete,,,,EXISTING,,,San Jose,128D,Golf Creek,Guadalupe River,-121.871604,37.232966,,C2,0,DD-0287,,20040309000000,,20110916122544,20110612111247,MRF:Can't locate the Outfall from Google Earth or Orthophoto
-2293,,87,Concrete,,,,EXISTING,,,San Jose,80D,,Calabazas,-122.032489,37.312777,,C2,0,DD-0360,,20040429000000,,20110916123027,20110612111247,MRF:Can't locate the outfall from Google Earth or Orthophoto
-2309,,87,Riprap,,,,EXISTING,,,San Jose,97C,Saratoga Creek,San Tomas,-121.998251,37.29759,,C2,0,DD-2462,,20060131000000,,20110916122544,20150223123812,MRF:Can't locate the outfall from Google Earth or Orthophoto
-2310,,87,Riprap,,,,EXISTING,Waterman,,San Jose,114B,Guadalupe River,Guadalupe River,-121.878575,37.279604,,C2,0,1-9097,,19820720000000,,20111020103109,20110612111248,
-2335,,87,Pipe,,,,EXISTING,,,San Jose,114B,Canoas Creek,Guadalupe River,-121.865868,37.28236,,C2,0,MGE,,20080313000000,,20110916122544,20110616191830,
-2395,,87,Riprap,,,,EXISTING,,,San Jose,96B,Calabazas Creek,Calabazas,-122.024529,37.303985,,C2,0,DD-2511,,20080722000000,,20110916122544,20110620113820,MRF:Can't locate the outfall from Google Earth or Orthophoto
-2396,,87,Concrete,,,,EXISTING,,,San Jose,97A,Saratoga Creek,San Tomas,-121.996776,37.309482,,C2,0,DD-2162,,20080722000000,,20110916122544,20110612111249,MRF:Can't locate the Outfall from Google Earth or Orthophoto
-2397,,87,Concrete,,,,EXISTING,,,San Jose,98A,San Tomas Aquino Creek,San Tomas,-121.96424,37.307638,,C2,0,DD-2426,,20080724000000,,20110916122544,20110612111249,MRF:locate the Outfall from Google Earth
-2398,,87,Concrete,,,,EXISTING,,,San Jose,98A,San Tomas Aquino Creek,San Tomas,-121.964252,37.308591,,C2,0,DD-2426,,20080724000000,,20110916122544,20110612111250,MRF:Can't locate the Outfall from Google Earth or Orthophoto
-2399,,87,Concrete,,,,EXISTING,,,San Jose,98A,San Tomas Aquino Creek,San Tomas,-121.964215,37.308815,,C2,0,DD-2427,,20080725000000,,20110916122544,20110612111250,MRF:locate the Outfall from Google Earth
-2400,,87,Concrete,,,,EXISTING,,,San Jose,98A,San Tomas Aquino Creek,San Tomas,-121.964373,37.308566,,C2,0,DD-2427,,20080725000000,,20110916122544,20110612111250,MRF:locate the Outfall from Google Earth
-2401,,87,Concrete,,,,EXISTING,,,San Jose,98A,San Tomas Aquino Creek,San Tomas,-121.964756,37.300819,,C2,0,DD-2433,,20080725000000,,20110916122544,20110612111251,
-2403,,87,Concrete,,,,EXISTING,,,San Jose,98C,San Tomas Aquino Creek,San Tomas,-121.961288,37.294185,,C2,0,DD-2609,,20080726000000,,20110916122544,20110612111251,MRF:Can't locate the Outfall from Google Earth or Orthophoto
-497,,87,Riprap,,,,EXISTING,,,San Jose,127D,Lone Hill Creek,Guadalupe River,-121.918288,37.243614,,C2,0,MGE,,,,20110916122544,20110612111216,MRF:Can't locate the Outfall from Google Earth or Orthophoto
-498,,87,Riprap,,,,EXISTING,,,San Jose,127D,Lone Hill Creek,Guadalupe River,-121.918228,37.243616,,C2,0,DD-0070,,20010924000000,,20110916122544,20110612111216,MRF:Can't locate the Outfall from Google Earth or Orthophoto
-500,,87,Pipe,,,,EXISTING,,,San Jose,127B,Ross Creek,Guadalupe River,-121.931342,37.245884,,C2,0,MGE,,,,20110916122544,20110612111217,MRF:Can't locate the Outfall from Google Earth or Orthophoto
-572,,87,Pipe,,,,EXISTING,,,San Jose,114D,Guadalupe River,Guadalupe River,-121.873382,37.261136,,C2,0,MGE,,,,20110916122544,20110612111217,MRF:Can't locate the Outfall from Google Earth or Orthophoto
-664,,87,Pipe,,,,EXISTING,,,San Jose,141D,Golf Creek,Guadalupe River,-121.869628,37.213291,,C2,0,MGE,,,,20110916122544,20110612111218,MRF:Can't locate the Outfall from Google Earth or Orthophoto
-991,,87,Pipe,,,,EXISTING,,,San Jose,141B,Golf Creek,Guadalupe River,-121.874863,37.229313,,C2,0,MGE,,,,20110916122544,20110612111218,MRF:Can't locate the Outfall from Google Earth or Orthophoto
-992,,87,Riprap,,,,EXISTING,,,San Jose,141B,Golf Creek,Guadalupe River,-121.874622,37.228169,,C2,0,MGE,,,,20110916122544,20110612111218,
-993,,87,Concrete,,,,EXISTING,Armco,,San Jose,127B,Ross Creek,Guadalupe River,-121.922464,37.247529,,C2,0,MGE,,,,20110916122544,20110612111219,MRF:Can't locate the Outfall from Google Earth or Orthophoto
-995,,87,Concrete,,,,EXISTING,Armco,,San Jose,127B,Ross Creek,Guadalupe River,-121.922466,37.247467,,C2,0,MGE,,,,20110916122544,20110612111219,MRF:Can't locate the Outfall from Google Earth or Orthophoto
-996,,87,Riprap,,,,EXISTING,,,San Jose,141A,Guadalupe Creek,Guadalupe River,-121.906342,37.22297,,C2,0,MGE,,,,20110916122544,20110612111220,MRF:Can't locate the Outfall from Google Earth or Orthophoto
-998,,87,Riprap,,,,EXISTING,,,San Jose,128A,Ross Creek,Guadalupe River,-121.911858,37.250337,,C2,0,MGE,,,,20110916122544,20110617095728,MRF:Can't locate the outfall from Google Earth or Orthophoto
-999,,87,Flapgate,,,,EXISTING,,,San Jose,127B,Ross Creek,Guadalupe River,-121.918516,37.24806,,C2,0,MGE,,,,20110916122544,20110612111221,"MRF:Can't locate the Outfall from Google Earth or Orthophoto,MGE indicates FLAPGATE as ‘Y’ but cannot find record in CSJ  Flapgates List-2011.xls"
-1000,,87,Pipe,,,,EXISTING,Armco,,San Jose,128A,Ross Creek,Guadalupe River,-121.913197,37.249108,,C2,0,MGE,,,,20110916122544,20110612111221,MRF:Can't locate the outfall from Google Earth or Orthophoto
+2223,,87,Riprap,,,,EXISTING,,,San Jose,53A,Upper Penitencia Creek,Coyote,-121.803413,37.396411,,C2,0,DD-0137,,20030319000000,,20110916122545,20110325143831,MRF:Can't locate the outfall from Google Earth or Orthophoto
+2224,,87,Riprap,,,,EXISTING,,,San Jose,53A,Upper Penitencia Creek,Coyote,-121.802914,37.396503,,C2,0,DD-0137,,20030319000000,,20110916122545,20110325143832,MRF:Can't locate the outfall from Google Earth or Orthophoto
+2225,,87,Riprap,,,,EXISTING,,,San Jose,53A,Upper Penitencia Creek,Coyote,-121.802847,37.396517,,C2,0,DD-0137,,20030319000000,,20110916122545,20110325143833,MRF:Can't locate the outfall from Google Earth or Orthophoto
+2226,,87,Riprap,,,,EXISTING,,,San Jose,53A,Upper Penitencia Creek,Coyote,-121.802819,37.396547,,C2,0,DD-0137,,20030319000000,,20110916122545,20110325143834,MRF:Can't locate the outfall from Google Earth or Orthophoto
+80,,87,Riprap,,,,EXISTING,,,San Jose,84C,Coyote Creek,Coyote,-121.863053,37.32796,,C2,0,MGE,,,,20110916122545,20110325143703,MRF:Can't locate the Outfall from Google Earth or Orthophoto
+81,,87,Flapgate,,,,EXISTING,,,San Jose,84C,Coyote Creek,Coyote,-121.861675,37.327736,,C2,0,DD-0264,,20021028000000,,20110916122545,20110325143703,MRF: MGE indicates FLAPGATE as 'Y' but cannot find record in CSJ  Flapgates List-2011.xls
+102,,87,Pipe,,,,EXISTING,,,San Jose,84C,Coyote Creek,Coyote,-121.855927,37.32299,,C2,0,MGE,,,,20110916122545,20110325143703,
+117,,87,Pipe,,,,EXISTING,Armco,,San Jose,69C,Lower Silver Creek,Coyote,-121.813081,37.343305,,C2,0,MGE,,,,20110916122545,20110325143704,
+126,,87,Riprap,,,,EXISTING,,,San Jose,85A,Lower Silver Creek,Coyote,-121.812008,37.342036,,C2,0,MGE,,,,20110916122545,20110325143704,
+127,,87,Riprap,,,,EXISTING,,,San Jose,85A,Lower Silver Creek,Coyote,-121.810338,37.340186,,C2,0,MGE,,,,20110916122545,20110325143704,MRF: MGE indicates FLAPGATE as 'Y' but cannot find record in CSJ  Flapgates List-2011.xls
+2197,,87,Pipe,,,,EXISTING,,,San Jose,85D,Quimby Creek,Coyote,-121.762208,37.323201,,C2,-1,1-9271,,20020402000000,,20110916122545,20110325143822,
+2228,,87,Riprap,,,,EXISTING,,,San Jose,53A,Upper Penitencia Creek,Coyote,-121.801615,37.396104,,C2,0,DD-0137,,20030319000000,,20110916122545,20110325143835,MRF:Can't locate the outfall from Google Earth or Orthophoto
+67,,87,Flapgate,,,,EXISTING,Armco,,San Jose,83A,Guadalupe River,Guadalupe River,-121.902187,37.337878,,C2,0,DD-0323,,20031121000000,,20110916122545,20101105030357,MRF:Outfall isn‘t clearly visible on the orthophoto
+76,,87,Pipe,,,,EXISTING,Armco,,San Jose,83B,Coyote Creek,Coyote,-121.87099,37.34025,,C2,0,MGE,,,,20110916122545,20101105235153,MRF:Outfall isn‘t clearly visible on the orthophoto
+79,,87,Pipe,,,,EXISTING,Calco,,San Jose,83A,Los Gatos Creek,Guadalupe River,-121.899862,37.329305,,C2,0,MGE,,,,20110916122545,20101106231134,MRF:Outfall isn‘t clearly visible on the orthophoto
+82,,87,Flapgate,,,,EXISTING,Calco,,San Jose,83C,Los Gatos Creek,Guadalupe River,-121.903012,37.321274,,C2,0,MGE,,,,20110916122545,20101104194816,MRF:Outfall isn‘t clearly visible on the orthophoto
+83,,87,Pipe,,,,EXISTING,Calco,,San Jose,83D,Guadalupe River,Guadalupe River,-121.888595,37.316715,,C2,0,MGE,,,,20110916122545,20101110184810,
+88,,87,Concrete,,,,EXISTING,Calco,,San Jose,83D,Coyote Creek,Coyote,-121.868393,37.328414,,C2,0,MGE,PP2502,,,20120229095728,20101111191703,MRF:Outfall isn‘t clearly visible on the orthophoto
+89,,87,Pipe,,,,EXISTING,Calco,,San Jose,83A,Guadalupe River,Guadalupe River,-121.901077,37.337129,,C2,0,MGE,,,,20110916122545,20101106222655,MRF:Outfall isn‘t clearly visible on the orthophoto
+90,,87,Concrete,,,,EXISTING,Calco,,San Jose,83B,Coyote Creek,Coyote,-121.868462,37.336821,,C2,0,MGE,,,,20110916122545,20101106223227,MRF:Outfall isn‘t clearly visible on the orthophoto
+2168,,87,Riprap,,,,EXISTING,,,San Jose,83B,Coyote Creek,Coyote,-121.87049,37.340479,,C2,0,DD-0015,,20010924000000,,20110916122545,20101111215238,MRF:Outfall isn‘t clearly visible on the orthophoto
+2169,,87,Riprap,,,,EXISTING,,,San Jose,83B,Coyote Creek,Coyote,-121.871563,37.342052,,C2,0,DD-0015,,20010924000000,,20110916122545,20101108224750,MRF:Outfall isn‘t clearly visible on the orthophoto
+2246,,87,Riprap,,,,EXISTING,,,San Jose,83B,Coyote Creek,Coyote,-121.870384,37.337915,,C2,0,DD_0145,,20030723000000,,20110916122545,20101106223158,MRF:Outfall isn‘t clearly visible on the orthophoto
+129,,87,Riprap,,,,EXISTING,,,San Jose,85A,Flint Creek,Coyote,-121.805637,37.340501,,C2,0,MGE,,,,20110916122545,20110325143705,
+130,,87,Riprap,,,,EXISTING,,,San Jose,85A,Ruby Creek,Coyote,-121.804435,37.339142,,C2,0,MGE,,,,20110916122545,20110325143705,
+133,,87,Pipe,,,,EXISTING,Armco,,San Jose,84C,Coyote Creek,Coyote,-121.853457,37.322243,,C2,0,MGE,,,,20110916122545,20110325143705,
+136,,87,Flapgate,,,,EXISTING,Waterman,,San Jose,85C,Thompson Creek,Coyote,-121.802571,37.317721,,C2,0,DD-0215,,20030926000000,,20110916122545,20110325143706,
+137,,87,Flapgate,,,,EXISTING,Waterman,,San Jose,85C,Thompson Creek,Coyote,-121.801104,37.317083,,C2,0,DD-0215,,20080306000000,,20110916122545,20110325143706,
+2384,,87,Flapgate,,,,EXISTING,,,San Jose,83A,Los Gatos Creek,Guadalupe River,-121.899053,37.332641,,C2,0,DD-2665,,20080708000000,,20110916122545,20101026182659,"MRF:Outfall isn‘t clearly visible on the orthophoto,MGE indicates FLAPGATE as 'Y' but cannot find record in CSJ  Flapgates List-2011.xls"
+2385,,87,Flapgate,,,,EXISTING,,,San Jose,83A,Los Gatos Creek,Guadalupe River,-121.899066,37.332573,,C2,0,DD-2665,,20080708000000,,20110916122545,20101106230324,"MRF:Outfall isn‘t clearly visible on the orthophoto,MGE indicates FLAPGATE as 'Y' but cannot find record in CSJ  Flapgates List-2011.xls"
+2394,,87,Pipe,,,,EXISTING,,,San Jose,99D,Guadalupe River,Guadalupe River,-121.865082,37.293968,,C2,0,3-10720B,,20100514000000,,20110916122545,20101221142101,
+110,,87,Pipe,,,,EXISTING,Waterman,,San Jose,83A,Guadalupe River,Guadalupe River,-121.896325,37.330766,,C2,0,MGE,,,,20110916122545,20101106232134,MRF:Outfall isn‘t clearly visible on the orthophoto
+95,,87,Pipe,,,,EXISTING,Armco,,San Jose,83C,Los Gatos Creek,Guadalupe River,-121.901131,37.32544,,C2,0,MGE,,,,20110916122545,20101116090630,MRF:Outfall isn‘t clearly visible on the orthophoto
+138,,87,Riprap,,,,EXISTING,,,San Jose,85C,Norwood Creek,Coyote,-121.804445,37.32749,,C2,0,MGE,,,,20110916122545,20110325143706,
+106,,87,Flapgate,,,,EXISTING,Armco,,San Jose,83C,Guadalupe River,Guadalupe River,-121.891958,37.327934,,C2,0,MGE,DD-3259,,,20140131132303,20140207152641,MRF:Outfall isn‘t clearly visible on the orthophoto
+2162,,87,Flapgate,,,,EXISTING,,,San Jose,36D,Berryessa Creek,Lower Penitencia,-121.866348,37.409115,,C2,0,DD-1026,,20010917000000,,20110916122544,20110105150447,MRF: MGE indicates FLAPGATE as 'Y' but cannot find record in CSJ  Flapgates List-2011.xls
+2185,,87,Pipe,,,,EXISTING,,,San Jose,36D,Berryessa Creek,Lower Penitencia,-121.877176,37.408886,,C2,0,DD-1025,,20020826000000,,20110916122544,20110105150448,
+2199,,87,Riprap,,,,EXISTING,,,San Jose,34B,,,-121.973991,37.41889,,C2,-1,3-4853,,19990702000000,,20111020103950,20110925150632,
+2277,,87,Riprap,,,,EXISTING,,,San Jose,67A,Guadalupe River,Guadalupe River,-121.916268,37.360041,,C2,0,MGE,,,,20110916122544,20110107173132,
+2282,,87,Concrete,,,,EXISTING,,,San Jose,67A,Guadalupe River,Guadalupe River,-121.900393,37.367408,,C2,0,DD-0341,,20040211000000,,20111020103951,20110925152454,UPSTREAM STRUCTURE FOR THIS OUTFALL IS 2282A AND INVERT=50.92
+2288,,87,Pipe,,,,EXISTING,,,San Jose,19D,,,-121.97913,37.429267,,C2,0,DD-0364,,20040320000000,,20111020103952,20110925145658,
+2305,,87,Concrete,,,,EXISTING,,,San Jose,67B,Lower Silver Creek,Coyote,-121.866651,37.358552,,C2,0,DD-0606,,20050616000000,,20110916122544,20110105150449,
+2319,,87,Pipe,,,,EXISTING,,,San Jose,20C,,,-121.967835,37.433766,,C2,0,DD-2586,,20080226000000,,20111020103953,20110925151426,
+2320,,87,Pipe,,,,EXISTING,,,San Jose,20C,,,-121.964641,37.431226,,C2,0,DD-2395,,20080226000000,,20111020103954,20110925152313,
+92,,87,Pipe,,,,EXISTING,Waterman,,San Jose,83A,Guadalupe River,Guadalupe River,-121.899385,37.334626,,C2,0,MGE,,,,20110916122544,20101109230548,MRF:Outfall isn‘t clearly visible on the orthophoto
+93,,87,Pipe,,,,EXISTING,Waterman,,San Jose,83A,Guadalupe River,Guadalupe River,-121.897901,37.332766,,C2,0,MGE,,,,20110916122544,20101107005200,MRF:Outfall isn‘t clearly visible on the orthophoto
+2142,,87,Concrete,,,,EXISTING,,,SCCO,50D,Guadalupe River,Guadalupe River,-121.936285,37.377821,,C2,0,DD-0084,,20010717000000,,20110916122544,20110925153828,OUTFALL ORIGINATES FORM CITY OF SANTA CLARA STRUCTURES
+2150,,87,Riprap,,,,EXISTING,,,San Jose,51D,Upper Penitencia Creek,Coyote,-121.875151,37.372045,,C2,0,DD-0014,,20010817000000,,20110916122544,20110108163743,
+2152,,87,Riprap,,,,EXISTING,,,San Jose,51D,Upper Penitencia Creek,Coyote,-121.875782,37.371644,,C2,0,DD-0115,,20010912000000,,20110916122544,20110105150447,
+2153,,87,Riprap,,,,EXISTING,,,San Jose,51D,Upper Penitencia Creek,Coyote,-121.875808,37.371638,,C2,0,DD-0115,,20010912000000,,20110916122545,20110105150447,
+210,,87,Riprap,,,,EXISTING,,,San Jose,101D,Yerba Buena Creek,Coyote,-121.770837,37.298914,,C2,0,MGE,,,,20110916122546,20110902060342,MRF:Can't locate the Outfall from Google Earth or Orthophoto
+211,,87,Riprap,,,,EXISTING,,,San Jose,101D,Yerba Buena Creek,Coyote,-121.768417,37.298899,,C2,0,MGE,,,,20110916122546,20110907173827,MRF:Can't locate the Outfall from Google Earth or Orthophoto
+212,,87,Riprap,,,,EXISTING,,,San Jose,101D,Yerba Buena Creek,Coyote,-121.76441,37.297563,,C2,0,MGE,,,,20110916122546,20110902060343,MRF:Can't locate the Outfall from Google Earth or Orthophoto
+213,,87,Riprap,,,,EXISTING,,,San Jose,101D,Yerba Buena Creek,Coyote,-121.762108,37.297482,,C2,0,MGE,,,,20110916122546,20110902060344,MRF:Can't locate the Outfall from Google Earth or Orthophoto
+216,,87,Pipe,,,,EXISTING,,,San Jose,100D,Coyote Creek,Coyote,-121.82535,37.298405,,C2,0,MGE,,,,20110916122546,20110902060344,MRF:Can't locate the Outfall from Google Earth or Orthophoto
+217,,87,Pipe,,,,EXISTING,,,San Jose,100D,Coyote Creek,Coyote,-121.825054,37.298633,,C2,0,MGE,,,,20110916122546,20110902060345,MRF:Can't locate the outfall from Google Earth or Orthophoto
+2580,,87,Riprap,,,,EXISTING,,,San Jose,117C,Upper Silver Creek,Coyote,-121.757378,37.271649,,D2,-1,1-8476,,20010423000000,,20110916122547,20130227090232,MRF:Can't locate the Outfall from Google Earth or Orthophoto
+2581,,87,Concrete,,,,EXISTING,,,San Jose,117C,Upper Silver Creek,Coyote,-121.758837,37.273147,,D2,-1,1-8468,,19930311000000,,20110916122547,20110902060600,MRF:Can't locate the Outfall from Google Earth or Orthophoto
+2582,,87,Concrete,,,,EXISTING,,,San Jose,117C,Upper Silver Creek,Coyote,-121.758994,37.26928,,D2,-1,1-8476,,20010423000000,,20110916122547,20110902060601,
+2583,,87,Flapgate,,,,EXISTING,,,San Jose,130A,Coyote Creek,Coyote,-121.79222,37.256965,,D2,-1,3-10584,,20040219000000,,20110916122547,20110902060601,
+2584,,87,Concrete,,,,EXISTING,,,San Jose,130B,Coyote Creek,Coyote,-121.777359,37.253271,,D2,-1,99-218SJ,,20020326000000,,20110916122547,20110902060601,
+2585,,87,Concrete,,,,EXISTING,,,San Jose,130B,Coyote Creek,Coyote,-121.771507,37.24947,,D2,-1,6767-36,,20001214000000,,20110916122547,20110902060601,MRF:Can't locate the outfall from Google Earth or Orthophoto
+2586,,87,Concrete,,,,EXISTING,,,San Jose,130B,Coyote Creek,Coyote,-121.782376,37.248871,,D2,-1,04-438304,,20070508000000,20080507000000,20110916122547,20110902060601,MRF:Can't locate the outfall from Google Earth or Orthophoto
+2587,,87,Concrete,,,,EXISTING,,,San Jose,130D,Coyote Creek,Coyote,-121.764437,37.240037,,D2,-1,04-438304,,20070508000000,20080507000000,20110916122547,20110902060602,MRF:Can't locate the outfall from Google Earth or Orthophoto
+2588,,87,Concrete,,,,EXISTING,,,San Jose,130D,Coyote Creek,Coyote,-121.766604,37.24092,,D2,-1,04-438304,,20070508000000,20080507000000,20110916122547,20110907164730,MRF:Can't locate the outfall from Google Earth or Orthophoto
+2589,,87,Concrete,,,,EXISTING,,,San Jose,130D,Coyote Creek,Coyote,-121.767189,37.240159,,D2,-1,04-438304,,20070508000000,20080507000000,20110916122547,20110902060602,MRF:Can't locate the outfall from Google Earth or Orthophoto
+2590,,87,Riprap,,,,EXISTING,,,San Jose,130D,Coyote Creek,Coyote,-121.766872,37.24546,,D2,-1,1-8742,,19960924000000,,20110916122547,20110907164854,
+2591,,87,Concrete,,,,EXISTING,,,San Jose,130D,Canoas Creek,Guadalupe River,-121.770561,37.242308,,D2,-1,04-438304,,20070508000000,20080507000000,20110916122547,20110907164935,
+2592,,87,Concrete,,,,EXISTING,,,San Jose,130D,Canoas Creek,Guadalupe River,-121.770138,37.241978,,D2,-1,04-438304,,20070508000000,20080507000000,20110916122547,20110902060603,MRF:Can't locate the outfall from Google Earth or Orthophoto
+2593,,87,Concrete,,,,EXISTING,,,San Jose,130D,Canoas Creek,Guadalupe River,-121.776746,37.240623,,D2,-1,04-438304,,20070508000000,20080507000000,20110916122547,20110907165200,
+2594,,87,Concrete,,,,EXISTING,,,San Jose,130D,Canoas Creek,Guadalupe River,-121.776905,37.241361,,D2,-1,04-438304,,20070508000000,20080507000000,20110916122547,20110902060603,
+2595,,87,Concrete,,,,EXISTING,,,San Jose,130D,Canoas Creek,Guadalupe River,-121.76872,37.240884,,D2,-1,04-438304,,20070508000000,20080507000000,20110916122547,20110907165304,MRF:Can't locate the outfall from Google Earth or Orthophoto
+2596,,87,Concrete,,,,EXISTING,,,San Jose,130D,Canoas Creek,Guadalupe River,-121.776241,37.242115,,D2,-1,04-438304,,20070508000000,20080507000000,20110916122547,20110907165328,
+2597,,87,Concrete,,,,EXISTING,,,San Jose,130D,Canoas Creek,Guadalupe River,-121.775433,37.243493,,D2,-1,04-438304,,20070508000000,20080507000000,20110916122547,20110902060604,
+2598,,87,Concrete,,,,EXISTING,,,San Jose,130D,Canoas Creek,Guadalupe River,-121.775438,37.243415,,D2,-1,04-438304,,20070508000000,20080507000000,20110916122547,20110902060604,
+2599,,87,Concrete,,,,EXISTING,,,San Jose,130D,Canoas Creek,Guadalupe River,-121.775433,37.243584,,D2,-1,04-438304,,20070508000000,20080507000000,20110916122547,20110902060604,
+2600,,87,Concrete,,,,EXISTING,,,San Jose,130D,Canoas Creek,Guadalupe River,-121.776684,37.245479,,D2,-1,04-438304,,20070508000000,20080507000000,20110916122547,20110902060605,MRF:Can't locate the outfall from Google Earth or Orthophoto
+2601,,87,Concrete,,,,EXISTING,,,San Jose,130D,Canoas Creek,Guadalupe River,-121.776275,37.245211,,D2,-1,04-438304,,20070508000000,20080507000000,20110916122547,20110902060605,
+2602,,87,Concrete,,,,EXISTING,,,San Jose,130D,Canoas Creek,Guadalupe River,-121.77592,37.244895,,D2,-1,04-438304,,20070508000000,20080507000000,20110916122547,20110902060605,MRF:Can't locate the outfall from Google Earth or Orthophoto
+2603,,87,Concrete,,,,EXISTING,,,San Jose,130D,Canoas Creek,Guadalupe River,-121.777868,37.246225,,D2,-1,04-438304,,20070508000000,20080507000000,20110916122547,20110902060605,
+2604,,87,Concrete,,,,EXISTING,,,San Jose,130D,Coyote Creek,Coyote,-121.759983,37.23737,,D2,-1,3-14198G,,20060414000000,,20110916122547,20110907170025,
+2605,,87,Concrete,,,,EXISTING,,,San Jose,130D,Coyote Creek,Coyote,-121.766277,37.245763,,D2,-1,1-8742,,19960924000000,,20110916122547,20110902060606,MRF:Can't locate the outfall from Google Earth or Orthophoto
+2606,,87,Concrete,,,,EXISTING,,,San Jose,130D,Coyote Creek,Coyote,-121.766186,37.245768,,D2,-1,1-8988,,19980805000000,,20110916122547,20110902060606,MRF:Can't locate the outfall from Google Earth or Orthophoto
+2607,,87,Concrete,,,,EXISTING,,,San Jose,130D,Canoas Creek,Guadalupe River,-121.773169,37.243588,,D2,-1,04-438304,,20070508000000,20080507000000,20110916122547,20110902060606,MRF:Can't locate the outfall from Google Earth or Orthophoto
+2608,,87,Concrete,,,,EXISTING,,,San Jose,130D,Canoas Creek,Guadalupe River,-121.771036,37.242565,,D2,-1,04-438304,,20070508000000,20080507000000,20110916122547,20110902060607,MRF:Can't locate the outfall from Google Earth or Orthophoto
+2609,,87,Concrete,,,,EXISTING,,,San Jose,130D,Canoas Creek,Guadalupe River,-121.775026,37.244347,,D2,-1,04-438304,,20070508000000,20080507000000,20110916122547,20110902060607,MRF:Can't locate the outfall from Google Earth or Orthophoto
+2610,,87,Concrete,,,,EXISTING,,,San Jose,130D,Canoas Creek,Guadalupe River,-121.77245,37.242115,,D2,-1,04-438304,,20070508000000,20080507000000,20110916122547,20110902060607,
+2611,,87,Concrete,,,,EXISTING,,,San Jose,130D,Canoas Creek,Guadalupe River,-121.773393,37.241191,,D2,-1,04-438304,,20070508000000,20080507000000,20110916122547,20110907170540,MRF:Can't locate the outfall from Google Earth or Orthophoto
+2612,,87,Infall,,,,EXISTING,,,San Jose,130D,Canoas Creek,Guadalupe River,-121.771177,37.242533,,D2,-1,04-438304,,20070508000000,20080507000000,20110916122547,20110902060608,MRF:Can't locate the outfall from Google Earth or Orthophoto
+2613,,87,Concrete,,,,EXISTING,,,San Jose,130D,Coyote Creek,Coyote,-121.762452,37.239946,,D2,-1,TR08743,,19961203000000,,20110916122547,20110902060608,MRF:Can't locate the outfall from Google Earth or Orthophoto
+2615,,87,Pipe,,,,EXISTING,,,CFD,130D,Coyote Creek,Coyote,-121.762821,37.239217,,D2,-1,04-105771,,20050804000000,,20131206144312,20110902060609,
+2616,,87,Concrete,,,,EXISTING,,,San Jose,130D,Coyote Creek,Coyote,-121.762524,37.239872,,D2,-1,04-105771,,20050804000000,,20110916122547,20110902060609,MRF:Can't locate the outfall from Google Earth or Orthophoto
+2617,,87,Concrete,,,,EXISTING,,,San Jose,130D,Coyote Creek,Coyote,-121.76068,37.237841,,D2,-1,3-14198G,,20060414000000,,20110916122547,20110902060609,
+2618,,87,Concrete,,,,EXISTING,,,CFD,131C,Coyote Creek,Coyote,-121.758462,37.236275,,D2,-1,3-14198G,,20060414000000,,20131206143411,20110902060609,
+2619,,87,Pipe,,,,EXISTING,,,San Jose,131C,Coyote Creek,Coyote,-121.759645,37.238631,,D2,-1,3-14198G,,20060414000000,,20110916122547,20110902060610,
+2620,,87,Riprap,,,,EXISTING,,,San Jose,142A,Alamitos Creek,Guadalupe River,-121.849148,37.221904,,D2,-1,3-09774,,19980526000000,,20110916122547,20110902060610,MRF:Can't locate the outfall from Google Earth or Orthophoto
+580,,87,Riprap,,,,EXISTING,,,San Jose,37C,Sierra Creek,Lower Penitencia,-121.858578,37.399009,,C2,0,MGE,,,,20110916122546,20110325143734,
+582,,87,Pipe,,,,EXISTING,,,San Jose,37D,Upper Penitencia Creek,Coyote,-121.827788,37.402107,,C2,0,DD-0317,,,,20110916122546,20110325143734,
+584,,87,Riprap,,,,EXISTING,,,San Jose,68B,North Babb Creek,Coyote,-121.823333,37.358789,,C2,0,MGE,,,,20110916122546,20110329111520,
+585,,87,Riprap,,,,EXISTING,,,San Jose,68B,North Babb Creek,Coyote,-121.824127,37.35826,,C2,0,MGE,,,,20110916122546,20110325143735,
+525,,87,Riprap,,,,EXISTING,,,San Jose,67B,Lower Silver Creek,Coyote,-121.866635,37.358741,,C2,0,MGE,,,,20110916122546,20110105150429,MRF: MGE indicates FLAPGATE as 'Y' but cannot find record in CSJ  Flapgates List-2011.xls
+586,,87,Pipe,,,,EXISTING,,,San Jose,68C,Lower Silver Creek,Coyote,-121.842382,37.3521,,C2,0,MGE,,,,20110916122546,20110325143736,MRF:Can't locate the Outfall from Google Earth or Orthophoto
+587,,87,Flapgate,,,,EXISTING,Waterman,,San Jose,68D,Lower Silver Creek,Coyote,-121.837881,37.351136,,C2,0,DD-1028,,20010912000000,,20110916122546,20110325143736,
+588,,87,Flapgate,,,,EXISTING,,,San Jose,68D,Lower Silver Creek,Coyote,-121.837076,37.351302,,C2,0,MGE,SCVWD40264008,,,20150206132944,20150206132810,
+597,,87,Riprap,,,,EXISTING,,,San Jose,68A,Lower Silver Creek,Coyote,-121.863856,37.36038,,C2,0,MGE,,,,20110916122546,20110325143737,MRF: MGE indicates FLAPGATE as 'Y' but cannot find record in CSJ  Flapgates List-2011.xls
+596,,87,Riprap,,,,EXISTING,,,San Jose,67C,Guadalupe River,Guadalupe River,-121.903872,37.344007,,C2,0,MGE,,,,20110916122546,20110110163259,
+601,,87,Riprap,,,,EXISTING,,,San Jose,67C,Guadalupe River,Guadalupe River,-121.909242,37.348706,,C2,0,MGE,,,,20140626150128,20110105150432,
+602,,87,Riprap,,,,EXISTING,,,San Jose,67B,Coyote Creek,Coyote,-121.881127,37.367866,,C2,0,MGE,,,,20110916122546,20110105150432,
+603,,87,Pipe,,,,EXISTING,,,San Jose,67B,Upper Penitencia Creek,Coyote,-121.879401,37.369131,,C2,0,MGE,,,,20110916122546,20110105150432,
+604,,87,Pipe,,,,EXISTING,,,San Jose,51D,Upper Penitencia Creek,Coyote,-121.878143,37.369964,,C2,0,MGE,,,,20110916122546,20110105150432,
+605,,87,Riprap,,,,EXISTING,Waterman,,San Jose,67B,Coyote Creek,Coyote,-121.873682,37.361418,,C2,0,MGE,,,,20110916122546,20110105150433,
+606,,87,Riprap,,,,EXISTING,Waterman,,San Jose,67B,Coyote Creek,Coyote,-121.873753,37.360123,,C2,0,DD-0154,,20030724000000,,20110916122546,20110105150433,
+607,,87,Pipe,,,,EXISTING,Calco,,San Jose,66B,Guadalupe River,Guadalupe River,-121.917065,37.360888,,C2,0,MGE,,,,20110916122546,20110105150433,
+608,,87,Flapgate,,,,EXISTING,Armco,,San Jose,66B,Guadalupe River,Guadalupe River,-121.917168,37.360954,,C2,0,DD-0244,,,,20110916122546,20110107141218,
+527,,87,Flapgate,,,,EXISTING,Waterman,,San Jose,67C,Guadalupe River,Guadalupe River,-121.911367,37.352322,,C2,0,DD-0245,,20021003000000,,20110916122546,20110105150430,
+528,,87,Riprap,,,,EXISTING,Hydro,,San Jose,67C,Guadalupe River,Guadalupe River,-121.909971,37.350084,,C2,0,MGE,,,,20110916122546,20110107162519,
+529,,87,Pipe,,,,EXISTING,,,San Jose,67C,Guadalupe River,Guadalupe River,-121.909711,37.350173,,C2,0,MGE,,,,20110916122546,20110105150430,
+530,,87,Flapgate,,,,EXISTING,Armco,,San Jose,67C,Guadalupe River,Guadalupe River,-121.910282,37.351491,,C2,0,DD-0245,,20021003000000,,20110916122546,20110105150430,
+532,,87,Riprap,,,,EXISTING,,,San Jose,67B,Coyote Creek,Coyote,-121.874424,37.363451,,C2,0,MGE,,,,20110916122546,20110105150430,
+534,,87,Pipe,,,,EXISTING,,,San Jose,67B,Lower Silver Creek,Coyote,-121.866228,37.359555,,C2,0,MGE,,,,20110916122546,20110108135954,MRF: MGE indicates FLAPGATE as 'Y' but cannot find record in CSJ  Flapgates List-2011.xls
+536,,87,Pipe,,,,EXISTING,,,San Jose,67B,Lower Silver Creek,Coyote,-121.86757,37.357871,,C2,0,MGE,,,,20110916122546,20110105150430,MRF: MGE indicates FLAPGATE as 'Y' but cannot find record in CSJ  Flapgates List-2011.xls
+553,,87,Riprap,,,,EXISTING,Waterman,,San Jose,67B,Coyote Creek,Coyote,-121.877526,37.365762,,C2,0,MGE,,,,20110916122546,20110107175554,
+554,,87,Riprap,,,,EXISTING,,,San Jose,67B,Coyote Creek,Coyote,-121.874654,37.363234,,C2,0,MGE,,,,20110916122546,20110105150431,
+555,,87,Concrete,,,,EXISTING,Hydro,,San Jose,51A,Coyote Creek,Coyote,-121.915192,37.39624,,C2,0,MGE,,,,20111020104029,20110925142608,
+575,,87,Concrete,,,,EXISTING,Waterman,,San Jose,50D,Guadalupe River,Guadalupe River,-121.938411,37.380476,,C2,0,DD-0080,,20100609000000,,20111020104031,20110925142659,
+576,,87,Concrete,,,,EXISTING,,,San Jose,50D,Guadalupe River,Guadalupe River,-121.93804,37.381046,,C2,0,DD-0672,,20100609000000,,20111020104031,20110925145146,MRF: MGE indicates FLAPGATE as 'Y' but cannot find record in CSJ  Flapgates List-2011.xls
+583,,87,Riprap,,,,EXISTING,,,San Jose,67B,Coyote Creek,Coyote,-121.873947,37.357449,,C2,0,1-16_WATSON_PARK_C-DR-2,,20090128000000,,20110916122546,20110105150431,
+591,,87,Flapgate,,,,EXISTING,Waterman,,San Jose,67C,Guadalupe River,Guadalupe River,-121.903583,37.34417,,C2,0,DD-0245,,20021003000000,,20110916122546,20110105150432,
+610,,87,Flapgate,,,,EXISTING,Armco,,San Jose,66B,Guadalupe River,Guadalupe River,-121.918588,37.361718,,D2,0,MGE,051632,,,20140825160101,20140825111430,DD-0420
+611,,87,Flapgate,,,,EXISTING,Waterman,,San Jose,67C,Guadalupe River,Guadalupe River,-121.91279,37.355293,,C2,0,DD-0243,,20021008000000,,20110916122546,20110107173307,
+612,,87,Concrete,,,,EXISTING,Waterman,,San Jose,66B,Guadalupe River,Guadalupe River,-121.925055,37.367636,,C2,0,DD-2807,,20100421000000,,20110916122546,20110107140529,
+614,,87,Riprap,,,,EXISTING,,,San Jose,66B,Guadalupe River,Guadalupe River,-121.926821,37.36896,,C2,0,MGE,,,,20110916122546,20110105150434,
+615,,87,Concrete,,,,EXISTING,,,San Jose,66B,Guadalupe River,Guadalupe River,-121.925833,37.367705,,C2,0,DD-2807,,20100421000000,,20110916122546,20110105150434,MRF: MGE indicates FLAPGATE as 'Y' but cannot find record in CSJ  Flapgates List-2011.xls
+623,,87,Flapgate,,,,EXISTING,Waterman,,San Jose,67C,Guadalupe River,Guadalupe River,-121.912353,37.353872,,C2,0,DD-0243,,20021008000000,,20110916122546,20110105150434,
+624,,87,Flapgate,,,,EXISTING,Calco,,San Jose,67C,Guadalupe River,Guadalupe River,-121.91297,37.354618,,C2,0,DD-0243,,20021008000000,,20110916122546,20110107143706,
+629,,87,Riprap,,,,EXISTING,Waterman,,San Jose,51D,Coyote Creek,Coyote,-121.88988,37.374711,,C2,-1,PP0104,,19630508000000,19640507000000,20110916122546,20110105150434,
+630,,87,Pipe,,,,EXISTING,Waterman,,San Jose,51D,Coyote Creek,Coyote,-121.887395,37.37131,,C2,0,MGE,,,,20110916122546,20110108105155,
+631,,87,Riprap,,,,EXISTING,Waterman,,San Jose,51C,Coyote Creek,Coyote,-121.903277,37.382066,,C2,0,MGE,,,,20111020104038,20110925142909,SLOW FLOW
+634,,87,Riprap,,,,EXISTING,Waterman,,San Jose,51D,Coyote Creek,Coyote,-121.885619,37.369923,,C2,0,MGE,,,,20111020102648,20110105150435,MRF: MGE indicates FLAPGATE as 'Y' but cannot find record in CSJ  Flapgates List-2011.xls
+635,,87,Riprap,,,,EXISTING,,,San Jose,51C,Coyote Creek,Coyote,-121.902294,37.381854,,C2,0,MGE,,,,20111020104038,20110925142744,
 636,,87,Pipe,,,,EXISTING,,,San Jose,51C,Coyote Creek,Coyote,-121.904981,37.382706,,C2,0,MGE,,,,20111020104038,20110925144217,LINING AROUND EXTERIOR OF PIPE AND UNUSUAL PIPE SIZE
 637,,87,Pipe,,,,EXISTING,,,San Jose,51C,Coyote Creek,Coyote,-121.895495,37.377613,,C2,0,MGE,,,,20111020104038,20110925142835,MOST OF THE PIPE BELOW WATER LEVEL
 641,,87,Riprap,,,,EXISTING,,,San Jose,51A,Coyote Creek,Coyote,-121.910228,37.390855,,C2,0,MGE,,,,20111020104110,20110925144942,FALLEN TREE COVERING 50% OF THE OUTFALL
@@ -219,238 +271,6 @@ STM_OTF_ID,COMPKEY,COMPTYPE,TYPE,PCD_TYPE,PCD_IN_DAT,PCD_MANUF,STATUS,FLAP_BRAND
 474,,87,Concrete,,,,EXISTING,,,San Jose,142C,Greystone Creek,Guadalupe River,-121.858114,37.217925,,C2,0,MGE,,,,20110916122546,20110907173339,MRF:Can't locate the outfall from Google Earth or Orthophoto
 483,,87,Riprap,,,,EXISTING,,,San Jose,155A,Randol Creek,Guadalupe River,-121.844851,37.198382,,C2,0,MGE,,,,20110916122546,20110907155118,MRF:Can't locate the outfall from Google Earth or Orthophoto
 484,,87,Riprap,,,,EXISTING,,,San Jose,155A,Randol Creek,Guadalupe River,-121.841143,37.195837,,C2,0,MGE,,,,20110916122546,20110902060501,MRF:Can't locate the outfall from Google Earth or Orthophoto
-1001,,87,Pipe,,,,EXISTING,,,San Jose,128A,Ross Creek,Guadalupe River,-121.911586,37.25073,,C2,0,MGE,,,,20110916122544,20110612111221,"MRF:Can't locate the Outfall from Google Earth or Orthophoto,MGE indicates FLAPGATE as ‘Y’ but cannot find record in CSJ  Flapgates List-2011.xls"
-1003,,87,Riprap,,,,EXISTING,Waterman,,San Jose,127B,Ross Creek,Guadalupe River,-121.919418,37.24781,,C2,0,MGE,,,,20110916122544,20110612111222,MRF:Can't locate the Outfall from Google Earth or Orthophoto
-1041,,87,Pipe,,,,EXISTING,Waterman,,San Jose,67B,Lower Silver Creek,Coyote,-121.868749,37.356778,,C2,0,MGE,,,,20110916122544,20110108163729,
-1047,,87,Riprap,,,,EXISTING,,,San Jose,67B,Lower Silver Creek,Coyote,-121.868878,37.356874,,C2,0,MGE,,,,20110916122544,20110105150442,
-1051,,87,Riprap,,,,EXISTING,,,San Jose,51D,Upper Penitencia Creek,Coyote,-121.874256,37.371665,,C2,0,MGE,,,,20110916122544,20110105150442,
-1053,,87,Riprap,,,,EXISTING,,,San Jose,51D,Penitencia Creek-Upr,Coyote,-121.875241,37.372053,,C2,0,MGE,,,,20110916122544,20110105150442,
-1057,,87,Pipe,,,,EXISTING,,,San Jose,51D,Coyote Creek,Coyote,-121.887028,37.371869,,C2,0,TR8247,,,,20110916122544,20110105150442,
-1779,,87,Flapgate,,,,EXISTING,Armco,,San Jose,66B,Guadalupe River,Guadalupe River,-121.922248,37.365886,,D2,0,IM0702,051632,,,20140825160112,20140826094141,DD-0420
-2093,,87,Concrete,,,,EXISTING,,,San Jose,35C,Guadalupe River,Guadalupe River,-121.945237,37.401464,,C2,0,DD-2276,,20100505000000,,20111020103954,20110925142433,
-29,,87,Riprap,,,,EXISTING,,,San Jose,97A,Saratoga Creek,San Tomas,-121.996945,37.306296,,C2,0,MGE,,,,20110916122546,20110612111106,"MRF:Can't locate the Outfall from Google Earth or Orthophoto,MGE indicates FLAPGATE as ‘Y’ but cannot find record in CSJ  Flapgates List-2011.xls"
-30,,87,Pipe,,,,EXISTING,,,San Jose,97A,Saratoga Creek,San Tomas,-121.996587,37.309543,,C2,0,MGE,,,,20110916122546,20110620110957,MRF:Can't locate the Outfall from Google Earth or Orthophoto
-31,,87,Concrete,,,,EXISTING,,,San Jose,97A,Saratoga Creek,San Tomas,-121.996813,37.306047,,C2,0,MGE,,,,20110916122546,20110612111107,MRF:Can't locate the Outfall from Google Earth or Orthophoto
-32,,87,Riprap,,,,EXISTING,,,San Jose,98C,San Tomas Aquino Creek,San Tomas,-121.962479,37.297916,,C2,0,MGE,,,,20110916122546,20110612111108,
-35,,87,Riprap,,,,EXISTING,,,San Jose,112B,,San Tomas,-121.982256,37.273613,,C2,0,MGE,,,,20110916123028,20110612111108,MRF:Can't locate the outfall from Google Earth or Orthophoto
-36,,87,Riprap,,,,EXISTING,,,San Jose,112D,,San Tomas,-121.990703,37.271874,,C2,0,DD-0236,,20031020000000,,20110916123028,20110620113802,MRF:Can't locate the Outfall from Google Earth or Orthophoto
-37,,87,Riprap,,,,EXISTING,,,San Jose,112D,,San Tomas,-121.990927,37.271506,,C2,0,MGE,,,,20110916123028,20110612111110,MRF:Can't locate the outfall from Google Earth or Orthophoto
-40,,87,Riprap,,,,EXISTING,,,San Jose,112D,,San Tomas,-121.990924,37.270228,,C2,0,MGE,,,,20110916123028,20110612111110,
-43,,87,Riprap,,,,EXISTING,,,San Jose,97A,Saratoga Creek,San Tomas,-121.99671,37.30971,,C2,0,MGE,,,,20110916122546,20110612111111,"MRF:Can't locate the Outfall from Google Earth or Orthophoto,MGE indicates FLAPGATE as ‘Y’ but cannot find record in CSJ  Flapgates List-2011.xls"
-46,,87,Flapgate,,,,EXISTING,Armco,,San Jose,98B,Los Gatos Creek,Guadalupe River,-121.916526,37.304049,,C2,0,MGE,,,,20110916122546,20110612111111,MRF:Can't locate the outfall from Google Earth or Orthophoto
-47,,87,Pipe,,,,EXISTING,,,San Jose,98C,San Tomas Aquino Creek,San Tomas,-121.962286,37.297784,,C2,0,MGE,,,,20110916122546,20110612111112,
-48,,87,Riprap,,,,EXISTING,,,San Jose,98B,Los Gatos Creek,Guadalupe River,-121.92094,37.301102,,C2,0,MGE,,,,20110916122546,20110612111113,MRF:Can't locate the Outfall from Google Earth or Orthophoto
-49,,87,Riprap,,,,EXISTING,,,San Jose,98D,Los Gatos Creek,Guadalupe River,-121.923462,37.299496,,C2,0,MGE,,,,20110916122546,20110612111113,
-50,,87,Flapgate,,,,EXISTING,,,San Jose,112B,,San Tomas,-121.983272,37.273363,,C2,0,DD-0228,,20031020000000,,20110916123028,20110612111114,"MRF:Can't locate the Outfall from Google Earth or Orthophoto,MGE indicates FLAPGATE as ‘Y’ but cannot find record in CSJ  Flapgates List-2011.xls"
-51,,87,Riprap,,,,EXISTING,,,San Jose,98D,Los Gatos Creek,Guadalupe River,-121.93196,37.29737,,C2,0,MGE,,,,20110916122546,20110612111114,MRF:Can't locate the Outfall from Google Earth or Orthophoto
-52,,87,Pipe,,,,EXISTING,,,San Jose,112B,,San Tomas,-121.976378,37.277465,,C2,0,DD-0235,,20031010000000,,20110916123028,20150220123019,MRF:locate the Outfall from Google Earth
-53,,87,Riprap,,,,EXISTING,,,San Jose,98D,Los Gatos Creek,Guadalupe River,-121.92282,37.299766,,C2,0,MGE,,,,20110916122546,20110612111116,MRF:Can't locate the Outfall from Google Earth or Orthophoto
-54,,87,Pipe,,,,EXISTING,,,San Jose,112B,,San Tomas,-121.974066,37.27759,,C2,0,MGE,,,,20110916123028,20110620115612,
-55,,87,Riprap,,,,EXISTING,,,San Jose,98B,Los Gatos Creek,Guadalupe River,-121.917772,37.302792,,C2,0,MGE,,,,20110916122546,20110612111117,MRF:locate the Outfall from Google Earth
-58,,87,Riprap,,,,EXISTING,,,San Jose,96B,Calabazas Creek,Calabazas,-122.019784,37.310015,,C2,0,MGE,,,,20110916122546,20110620105336,MRF:Can't locate the Outfall from Google Earth or Orthophoto
-59,,87,Pipe,,,,EXISTING,,,San Jose,112B,San Tomas Aquino Creek,San Tomas,-121.971579,37.277549,,C2,0,MGE,,,,20110916122546,20110620115644,
-60,,87,Riprap,,,,EXISTING,Armco,,San Jose,112B,,San Tomas,-121.987821,37.272808,,C2,0,MGE,,,,20110916123028,20110620115702,MRF:Can't locate the Outfall from Google Earth or Orthophoto
-2096,,87,Concrete,,,,EXISTING,,,San Jose,82C,San Tomas Aquino Creek,San Tomas,-121.964125,37.320921,,C2,-1,963071,DD-3251,19951202000000,,20140124092151,20140124092117,MRF:Can't locate the Outfall from Google Earth or Orthophoto
-2097,,87,Riprap,,,,EXISTING,,,San Jose,51A,Coyote Creek,Coyote,-121.910622,37.39151,,C2,0,NOPLAN,,20000128000000,,20111020103955,20110925152025,
-2099,,87,Riprap,,,,EXISTING,,,San Jose,67D,Coyote Creek,Coyote,-121.874024,37.343461,,C2,0,DD-0081,,20000131000000,,20110916122544,20110105150444,
-2100,,87,Riprap,,,,EXISTING,,,San Jose,34B,,,-121.975039,37.423174,,C2,0,MGE,,20000201000000,,20110916123027,20110906183926,MRF: Can't locate the Outfall from Google Earth or Orthophoto
-2130,,87,Pipe,,,,EXISTING,,,San Jose,34B,,,-121.975017,37.42312,,C2,0,DD-0077,,20010710000000,,20111020103958,20110925145843,"MRF: Can't locate the Outfall from Google Earth or Orthophoto,UPSTREAM STRUCTURE#22567 IS THE LIBERTY PUMP STATION"
-2131,,87,Concrete,,,,EXISTING,Waterman,,San Jose,34B,,,-121.972864,37.421898,,C2,0,DD-0077,,20010710000000,,20111020104004,20110925152045,
-2132,,87,Pipe,,,,EXISTING,,,San Jose,34B,,,-121.970184,37.42114,,C2,0,DD-0077,,20010710000000,,20111020104004,20110925152101,"WATER APPEARS TO BE FLOWING TOWARDS RETENTION POND, MAYBE REVERSE FLOW?"
-2133,,87,Concrete,,,,EXISTING,,,San Jose,34B,,,-121.970168,37.421128,,C2,0,DD-0077,,20010710000000,,20111020104004,20110925152109,"WATER APPEARS TO BE FLOWING TOWARDS RETENTION POND, MAYBE REVERSE FLOW?"
-2134,,87,Pipe,,,,EXISTING,,,San Jose,35A,,,-121.968733,37.419709,,C2,0,DD-0077,,20010710000000,,20111020104004,20110925152122,"WATER APPEARS TO BE FLOWING TOWARDS RETENTION POND, MAYBE REVERSE FLOW?"
-2135,,87,Pipe,,,,EXISTING,,,San Jose,35A,,,-121.968723,37.419695,,C2,0,DD-0077,,20010710000000,,20111020104004,20110925152303,"WATER APPEARS TO BE FLOWING TOWARDS RETENTION POND, MAYBE REVERSE FLOW?"
-2138,,87,Flapgate,,,,EXISTING,Waterman,,San Jose,50D,Guadalupe River,Guadalupe River,-121.933394,37.374496,,D2,-1,89-6725,,19901231000000,,20140310102336,20140310084250,STRUCTURE #30115 IS THE PUMP STATION
-2139,,87,Flapgate,,,,EXISTING,Waterman,,San Jose,50D,Guadalupe River,Guadalupe River,-121.933397,37.374486,,D2,0,89-6725,,20080412000000,,20140310091942,20140310084241,STRUCTURE #30115 IS THE PUMP STATION
-2140,,87,Flapgate,,,,EXISTING,,,Private,50D,Guadalupe River,Guadalupe River,-121.932899,37.376495,,C2,0,DD-0084,,20010717000000,,20110916122544,20110925154106,"MRF: MGE indicates FLAPGATE as 'Y' but cannot find record in CSJ  Flapgates List-2011.xls,UNABLE TO FIND PIPE ORIGIN; MAY BE STUBBED OUT FOR FUTURE DEVELOPMENT"
-2141,,87,Concrete,,,,EXISTING,,,SCCO,50D,Guadalupe River,Guadalupe River,-121.93659,37.377972,,C2,0,DD-0084,,20010717000000,,20110916122544,20110925153811,OUTFALL ORIGINATES FORM CITY OF SANTA CLARA STRUCTURES
-2142,,87,Concrete,,,,EXISTING,,,SCCO,50D,Guadalupe River,Guadalupe River,-121.936285,37.377821,,C2,0,DD-0084,,20010717000000,,20110916122544,20110925153828,OUTFALL ORIGINATES FORM CITY OF SANTA CLARA STRUCTURES
-2150,,87,Riprap,,,,EXISTING,,,San Jose,51D,Upper Penitencia Creek,Coyote,-121.875151,37.372045,,C2,0,DD-0014,,20010817000000,,20110916122544,20110108163743,
-2152,,87,Riprap,,,,EXISTING,,,San Jose,51D,Upper Penitencia Creek,Coyote,-121.875782,37.371644,,C2,0,DD-0115,,20010912000000,,20110916122544,20110105150447,
-2153,,87,Riprap,,,,EXISTING,,,San Jose,51D,Upper Penitencia Creek,Coyote,-121.875808,37.371638,,C2,0,DD-0115,,20010912000000,,20110916122545,20110105150447,
-210,,87,Riprap,,,,EXISTING,,,San Jose,101D,Yerba Buena Creek,Coyote,-121.770837,37.298914,,C2,0,MGE,,,,20110916122546,20110902060342,MRF:Can't locate the Outfall from Google Earth or Orthophoto
-211,,87,Riprap,,,,EXISTING,,,San Jose,101D,Yerba Buena Creek,Coyote,-121.768417,37.298899,,C2,0,MGE,,,,20110916122546,20110907173827,MRF:Can't locate the Outfall from Google Earth or Orthophoto
-212,,87,Riprap,,,,EXISTING,,,San Jose,101D,Yerba Buena Creek,Coyote,-121.76441,37.297563,,C2,0,MGE,,,,20110916122546,20110902060343,MRF:Can't locate the Outfall from Google Earth or Orthophoto
-213,,87,Riprap,,,,EXISTING,,,San Jose,101D,Yerba Buena Creek,Coyote,-121.762108,37.297482,,C2,0,MGE,,,,20110916122546,20110902060344,MRF:Can't locate the Outfall from Google Earth or Orthophoto
-216,,87,Pipe,,,,EXISTING,,,San Jose,100D,Coyote Creek,Coyote,-121.82535,37.298405,,C2,0,MGE,,,,20110916122546,20110902060344,MRF:Can't locate the Outfall from Google Earth or Orthophoto
-217,,87,Pipe,,,,EXISTING,,,San Jose,100D,Coyote Creek,Coyote,-121.825054,37.298633,,C2,0,MGE,,,,20110916122546,20110902060345,MRF:Can't locate the outfall from Google Earth or Orthophoto
-2580,,87,Riprap,,,,EXISTING,,,San Jose,117C,Upper Silver Creek,Coyote,-121.757378,37.271649,,D2,-1,1-8476,,20010423000000,,20110916122547,20130227090232,MRF:Can't locate the Outfall from Google Earth or Orthophoto
-2581,,87,Concrete,,,,EXISTING,,,San Jose,117C,Upper Silver Creek,Coyote,-121.758837,37.273147,,D2,-1,1-8468,,19930311000000,,20110916122547,20110902060600,MRF:Can't locate the Outfall from Google Earth or Orthophoto
-2582,,87,Concrete,,,,EXISTING,,,San Jose,117C,Upper Silver Creek,Coyote,-121.758994,37.26928,,D2,-1,1-8476,,20010423000000,,20110916122547,20110902060601,
-2583,,87,Flapgate,,,,EXISTING,,,San Jose,130A,Coyote Creek,Coyote,-121.79222,37.256965,,D2,-1,3-10584,,20040219000000,,20110916122547,20110902060601,
-2584,,87,Concrete,,,,EXISTING,,,San Jose,130B,Coyote Creek,Coyote,-121.777359,37.253271,,D2,-1,99-218SJ,,20020326000000,,20110916122547,20110902060601,
-2585,,87,Concrete,,,,EXISTING,,,San Jose,130B,Coyote Creek,Coyote,-121.771507,37.24947,,D2,-1,6767-36,,20001214000000,,20110916122547,20110902060601,MRF:Can't locate the outfall from Google Earth or Orthophoto
-2586,,87,Concrete,,,,EXISTING,,,San Jose,130B,Coyote Creek,Coyote,-121.782376,37.248871,,D2,-1,04-438304,,20070508000000,20080507000000,20110916122547,20110902060601,MRF:Can't locate the outfall from Google Earth or Orthophoto
-2587,,87,Concrete,,,,EXISTING,,,San Jose,130D,Coyote Creek,Coyote,-121.764437,37.240037,,D2,-1,04-438304,,20070508000000,20080507000000,20110916122547,20110902060602,MRF:Can't locate the outfall from Google Earth or Orthophoto
-2588,,87,Concrete,,,,EXISTING,,,San Jose,130D,Coyote Creek,Coyote,-121.766604,37.24092,,D2,-1,04-438304,,20070508000000,20080507000000,20110916122547,20110907164730,MRF:Can't locate the outfall from Google Earth or Orthophoto
-2589,,87,Concrete,,,,EXISTING,,,San Jose,130D,Coyote Creek,Coyote,-121.767189,37.240159,,D2,-1,04-438304,,20070508000000,20080507000000,20110916122547,20110902060602,MRF:Can't locate the outfall from Google Earth or Orthophoto
-2590,,87,Riprap,,,,EXISTING,,,San Jose,130D,Coyote Creek,Coyote,-121.766872,37.24546,,D2,-1,1-8742,,19960924000000,,20110916122547,20110907164854,
-2591,,87,Concrete,,,,EXISTING,,,San Jose,130D,Canoas Creek,Guadalupe River,-121.770561,37.242308,,D2,-1,04-438304,,20070508000000,20080507000000,20110916122547,20110907164935,
-2592,,87,Concrete,,,,EXISTING,,,San Jose,130D,Canoas Creek,Guadalupe River,-121.770138,37.241978,,D2,-1,04-438304,,20070508000000,20080507000000,20110916122547,20110902060603,MRF:Can't locate the outfall from Google Earth or Orthophoto
-2593,,87,Concrete,,,,EXISTING,,,San Jose,130D,Canoas Creek,Guadalupe River,-121.776746,37.240623,,D2,-1,04-438304,,20070508000000,20080507000000,20110916122547,20110907165200,
-2594,,87,Concrete,,,,EXISTING,,,San Jose,130D,Canoas Creek,Guadalupe River,-121.776905,37.241361,,D2,-1,04-438304,,20070508000000,20080507000000,20110916122547,20110902060603,
-2595,,87,Concrete,,,,EXISTING,,,San Jose,130D,Canoas Creek,Guadalupe River,-121.76872,37.240884,,D2,-1,04-438304,,20070508000000,20080507000000,20110916122547,20110907165304,MRF:Can't locate the outfall from Google Earth or Orthophoto
-2596,,87,Concrete,,,,EXISTING,,,San Jose,130D,Canoas Creek,Guadalupe River,-121.776241,37.242115,,D2,-1,04-438304,,20070508000000,20080507000000,20110916122547,20110907165328,
-2597,,87,Concrete,,,,EXISTING,,,San Jose,130D,Canoas Creek,Guadalupe River,-121.775433,37.243493,,D2,-1,04-438304,,20070508000000,20080507000000,20110916122547,20110902060604,
-2598,,87,Concrete,,,,EXISTING,,,San Jose,130D,Canoas Creek,Guadalupe River,-121.775438,37.243415,,D2,-1,04-438304,,20070508000000,20080507000000,20110916122547,20110902060604,
-2599,,87,Concrete,,,,EXISTING,,,San Jose,130D,Canoas Creek,Guadalupe River,-121.775433,37.243584,,D2,-1,04-438304,,20070508000000,20080507000000,20110916122547,20110902060604,
-2600,,87,Concrete,,,,EXISTING,,,San Jose,130D,Canoas Creek,Guadalupe River,-121.776684,37.245479,,D2,-1,04-438304,,20070508000000,20080507000000,20110916122547,20110902060605,MRF:Can't locate the outfall from Google Earth or Orthophoto
-2601,,87,Concrete,,,,EXISTING,,,San Jose,130D,Canoas Creek,Guadalupe River,-121.776275,37.245211,,D2,-1,04-438304,,20070508000000,20080507000000,20110916122547,20110902060605,
-2602,,87,Concrete,,,,EXISTING,,,San Jose,130D,Canoas Creek,Guadalupe River,-121.77592,37.244895,,D2,-1,04-438304,,20070508000000,20080507000000,20110916122547,20110902060605,MRF:Can't locate the outfall from Google Earth or Orthophoto
-2603,,87,Concrete,,,,EXISTING,,,San Jose,130D,Canoas Creek,Guadalupe River,-121.777868,37.246225,,D2,-1,04-438304,,20070508000000,20080507000000,20110916122547,20110902060605,
-2604,,87,Concrete,,,,EXISTING,,,San Jose,130D,Coyote Creek,Coyote,-121.759983,37.23737,,D2,-1,3-14198G,,20060414000000,,20110916122547,20110907170025,
-2605,,87,Concrete,,,,EXISTING,,,San Jose,130D,Coyote Creek,Coyote,-121.766277,37.245763,,D2,-1,1-8742,,19960924000000,,20110916122547,20110902060606,MRF:Can't locate the outfall from Google Earth or Orthophoto
-2606,,87,Concrete,,,,EXISTING,,,San Jose,130D,Coyote Creek,Coyote,-121.766186,37.245768,,D2,-1,1-8988,,19980805000000,,20110916122547,20110902060606,MRF:Can't locate the outfall from Google Earth or Orthophoto
-2607,,87,Concrete,,,,EXISTING,,,San Jose,130D,Canoas Creek,Guadalupe River,-121.773169,37.243588,,D2,-1,04-438304,,20070508000000,20080507000000,20110916122547,20110902060606,MRF:Can't locate the outfall from Google Earth or Orthophoto
-2608,,87,Concrete,,,,EXISTING,,,San Jose,130D,Canoas Creek,Guadalupe River,-121.771036,37.242565,,D2,-1,04-438304,,20070508000000,20080507000000,20110916122547,20110902060607,MRF:Can't locate the outfall from Google Earth or Orthophoto
-2609,,87,Concrete,,,,EXISTING,,,San Jose,130D,Canoas Creek,Guadalupe River,-121.775026,37.244347,,D2,-1,04-438304,,20070508000000,20080507000000,20110916122547,20110902060607,MRF:Can't locate the outfall from Google Earth or Orthophoto
-2610,,87,Concrete,,,,EXISTING,,,San Jose,130D,Canoas Creek,Guadalupe River,-121.77245,37.242115,,D2,-1,04-438304,,20070508000000,20080507000000,20110916122547,20110902060607,
-2611,,87,Concrete,,,,EXISTING,,,San Jose,130D,Canoas Creek,Guadalupe River,-121.773393,37.241191,,D2,-1,04-438304,,20070508000000,20080507000000,20110916122547,20110907170540,MRF:Can't locate the outfall from Google Earth or Orthophoto
-2612,,87,Infall,,,,EXISTING,,,San Jose,130D,Canoas Creek,Guadalupe River,-121.771177,37.242533,,D2,-1,04-438304,,20070508000000,20080507000000,20110916122547,20110902060608,MRF:Can't locate the outfall from Google Earth or Orthophoto
-2613,,87,Concrete,,,,EXISTING,,,San Jose,130D,Coyote Creek,Coyote,-121.762452,37.239946,,D2,-1,TR08743,,19961203000000,,20110916122547,20110902060608,MRF:Can't locate the outfall from Google Earth or Orthophoto
-2615,,87,Pipe,,,,EXISTING,,,CFD,130D,Coyote Creek,Coyote,-121.762821,37.239217,,D2,-1,04-105771,,20050804000000,,20131206144312,20110902060609,
-2616,,87,Concrete,,,,EXISTING,,,San Jose,130D,Coyote Creek,Coyote,-121.762524,37.239872,,D2,-1,04-105771,,20050804000000,,20110916122547,20110902060609,MRF:Can't locate the outfall from Google Earth or Orthophoto
-2617,,87,Concrete,,,,EXISTING,,,San Jose,130D,Coyote Creek,Coyote,-121.76068,37.237841,,D2,-1,3-14198G,,20060414000000,,20110916122547,20110902060609,
-2618,,87,Concrete,,,,EXISTING,,,CFD,131C,Coyote Creek,Coyote,-121.758462,37.236275,,D2,-1,3-14198G,,20060414000000,,20131206143411,20110902060609,
-2619,,87,Pipe,,,,EXISTING,,,San Jose,131C,Coyote Creek,Coyote,-121.759645,37.238631,,D2,-1,3-14198G,,20060414000000,,20110916122547,20110902060610,
-2620,,87,Riprap,,,,EXISTING,,,San Jose,142A,Alamitos Creek,Guadalupe River,-121.849148,37.221904,,D2,-1,3-09774,,19980526000000,,20110916122547,20110902060610,MRF:Can't locate the outfall from Google Earth or Orthophoto
-580,,87,Riprap,,,,EXISTING,,,San Jose,37C,Sierra Creek,Lower Penitencia,-121.858578,37.399009,,C2,0,MGE,,,,20110916122546,20110325143734,
-582,,87,Pipe,,,,EXISTING,,,San Jose,37D,Upper Penitencia Creek,Coyote,-121.827788,37.402107,,C2,0,DD-0317,,,,20110916122546,20110325143734,
-584,,87,Riprap,,,,EXISTING,,,San Jose,68B,North Babb Creek,Coyote,-121.823333,37.358789,,C2,0,MGE,,,,20110916122546,20110329111520,
-585,,87,Riprap,,,,EXISTING,,,San Jose,68B,North Babb Creek,Coyote,-121.824127,37.35826,,C2,0,MGE,,,,20110916122546,20110325143735,
-525,,87,Riprap,,,,EXISTING,,,San Jose,67B,Lower Silver Creek,Coyote,-121.866635,37.358741,,C2,0,MGE,,,,20110916122546,20110105150429,MRF: MGE indicates FLAPGATE as 'Y' but cannot find record in CSJ  Flapgates List-2011.xls
-586,,87,Pipe,,,,EXISTING,,,San Jose,68C,Lower Silver Creek,Coyote,-121.842382,37.3521,,C2,0,MGE,,,,20110916122546,20110325143736,MRF:Can't locate the Outfall from Google Earth or Orthophoto
-587,,87,Flapgate,,,,EXISTING,Waterman,,San Jose,68D,Lower Silver Creek,Coyote,-121.837881,37.351136,,C2,0,DD-1028,,20010912000000,,20110916122546,20110325143736,
-588,,87,Flapgate,,,,EXISTING,,,San Jose,68D,Lower Silver Creek,Coyote,-121.837076,37.351302,,C2,0,MGE,SCVWD40264008,,,20150206132944,20150206132810,
-597,,87,Riprap,,,,EXISTING,,,San Jose,68A,Lower Silver Creek,Coyote,-121.863856,37.36038,,C2,0,MGE,,,,20110916122546,20110325143737,MRF: MGE indicates FLAPGATE as 'Y' but cannot find record in CSJ  Flapgates List-2011.xls
-596,,87,Riprap,,,,EXISTING,,,San Jose,67C,Guadalupe River,Guadalupe River,-121.903872,37.344007,,C2,0,MGE,,,,20110916122546,20110110163259,
-601,,87,Riprap,,,,EXISTING,,,San Jose,67C,Guadalupe River,Guadalupe River,-121.909242,37.348706,,C2,0,MGE,,,,20140626150128,20110105150432,
-602,,87,Riprap,,,,EXISTING,,,San Jose,67B,Coyote Creek,Coyote,-121.881127,37.367866,,C2,0,MGE,,,,20110916122546,20110105150432,
-603,,87,Pipe,,,,EXISTING,,,San Jose,67B,Upper Penitencia Creek,Coyote,-121.879401,37.369131,,C2,0,MGE,,,,20110916122546,20110105150432,
-604,,87,Pipe,,,,EXISTING,,,San Jose,51D,Upper Penitencia Creek,Coyote,-121.878143,37.369964,,C2,0,MGE,,,,20110916122546,20110105150432,
-605,,87,Riprap,,,,EXISTING,Waterman,,San Jose,67B,Coyote Creek,Coyote,-121.873682,37.361418,,C2,0,MGE,,,,20110916122546,20110105150433,
-606,,87,Riprap,,,,EXISTING,Waterman,,San Jose,67B,Coyote Creek,Coyote,-121.873753,37.360123,,C2,0,DD-0154,,20030724000000,,20110916122546,20110105150433,
-607,,87,Pipe,,,,EXISTING,Calco,,San Jose,66B,Guadalupe River,Guadalupe River,-121.917065,37.360888,,C2,0,MGE,,,,20110916122546,20110105150433,
-608,,87,Flapgate,,,,EXISTING,Armco,,San Jose,66B,Guadalupe River,Guadalupe River,-121.917168,37.360954,,C2,0,DD-0244,,,,20110916122546,20110107141218,
-527,,87,Flapgate,,,,EXISTING,Waterman,,San Jose,67C,Guadalupe River,Guadalupe River,-121.911367,37.352322,,C2,0,DD-0245,,20021003000000,,20110916122546,20110105150430,
-528,,87,Riprap,,,,EXISTING,Hydro,,San Jose,67C,Guadalupe River,Guadalupe River,-121.909971,37.350084,,C2,0,MGE,,,,20110916122546,20110107162519,
-529,,87,Pipe,,,,EXISTING,,,San Jose,67C,Guadalupe River,Guadalupe River,-121.909711,37.350173,,C2,0,MGE,,,,20110916122546,20110105150430,
-530,,87,Flapgate,,,,EXISTING,Armco,,San Jose,67C,Guadalupe River,Guadalupe River,-121.910282,37.351491,,C2,0,DD-0245,,20021003000000,,20110916122546,20110105150430,
-532,,87,Riprap,,,,EXISTING,,,San Jose,67B,Coyote Creek,Coyote,-121.874424,37.363451,,C2,0,MGE,,,,20110916122546,20110105150430,
-534,,87,Pipe,,,,EXISTING,,,San Jose,67B,Lower Silver Creek,Coyote,-121.866228,37.359555,,C2,0,MGE,,,,20110916122546,20110108135954,MRF: MGE indicates FLAPGATE as 'Y' but cannot find record in CSJ  Flapgates List-2011.xls
-536,,87,Pipe,,,,EXISTING,,,San Jose,67B,Lower Silver Creek,Coyote,-121.86757,37.357871,,C2,0,MGE,,,,20110916122546,20110105150430,MRF: MGE indicates FLAPGATE as 'Y' but cannot find record in CSJ  Flapgates List-2011.xls
-553,,87,Riprap,,,,EXISTING,Waterman,,San Jose,67B,Coyote Creek,Coyote,-121.877526,37.365762,,C2,0,MGE,,,,20110916122546,20110107175554,
-554,,87,Riprap,,,,EXISTING,,,San Jose,67B,Coyote Creek,Coyote,-121.874654,37.363234,,C2,0,MGE,,,,20110916122546,20110105150431,
-555,,87,Concrete,,,,EXISTING,Hydro,,San Jose,51A,Coyote Creek,Coyote,-121.915192,37.39624,,C2,0,MGE,,,,20111020104029,20110925142608,
-575,,87,Concrete,,,,EXISTING,Waterman,,San Jose,50D,Guadalupe River,Guadalupe River,-121.938411,37.380476,,C2,0,DD-0080,,20100609000000,,20111020104031,20110925142659,
-576,,87,Concrete,,,,EXISTING,,,San Jose,50D,Guadalupe River,Guadalupe River,-121.93804,37.381046,,C2,0,DD-0672,,20100609000000,,20111020104031,20110925145146,MRF: MGE indicates FLAPGATE as 'Y' but cannot find record in CSJ  Flapgates List-2011.xls
-583,,87,Riprap,,,,EXISTING,,,San Jose,67B,Coyote Creek,Coyote,-121.873947,37.357449,,C2,0,1-16_WATSON_PARK_C-DR-2,,20090128000000,,20110916122546,20110105150431,
-591,,87,Flapgate,,,,EXISTING,Waterman,,San Jose,67C,Guadalupe River,Guadalupe River,-121.903583,37.34417,,C2,0,DD-0245,,20021003000000,,20110916122546,20110105150432,
-610,,87,Flapgate,,,,EXISTING,Armco,,San Jose,66B,Guadalupe River,Guadalupe River,-121.918588,37.361718,,D2,0,MGE,051632,,,20140825160101,20140825111430,DD-0420
-611,,87,Flapgate,,,,EXISTING,Waterman,,San Jose,67C,Guadalupe River,Guadalupe River,-121.91279,37.355293,,C2,0,DD-0243,,20021008000000,,20110916122546,20110107173307,
-612,,87,Concrete,,,,EXISTING,Waterman,,San Jose,66B,Guadalupe River,Guadalupe River,-121.925055,37.367636,,C2,0,DD-2807,,20100421000000,,20110916122546,20110107140529,
-614,,87,Riprap,,,,EXISTING,,,San Jose,66B,Guadalupe River,Guadalupe River,-121.926821,37.36896,,C2,0,MGE,,,,20110916122546,20110105150434,
-615,,87,Concrete,,,,EXISTING,,,San Jose,66B,Guadalupe River,Guadalupe River,-121.925833,37.367705,,C2,0,DD-2807,,20100421000000,,20110916122546,20110105150434,MRF: MGE indicates FLAPGATE as 'Y' but cannot find record in CSJ  Flapgates List-2011.xls
-623,,87,Flapgate,,,,EXISTING,Waterman,,San Jose,67C,Guadalupe River,Guadalupe River,-121.912353,37.353872,,C2,0,DD-0243,,20021008000000,,20110916122546,20110105150434,
-624,,87,Flapgate,,,,EXISTING,Calco,,San Jose,67C,Guadalupe River,Guadalupe River,-121.91297,37.354618,,C2,0,DD-0243,,20021008000000,,20110916122546,20110107143706,
-629,,87,Riprap,,,,EXISTING,Waterman,,San Jose,51D,Coyote Creek,Coyote,-121.88988,37.374711,,C2,-1,PP0104,,19630508000000,19640507000000,20110916122546,20110105150434,
-630,,87,Pipe,,,,EXISTING,Waterman,,San Jose,51D,Coyote Creek,Coyote,-121.887395,37.37131,,C2,0,MGE,,,,20110916122546,20110108105155,
-631,,87,Riprap,,,,EXISTING,Waterman,,San Jose,51C,Coyote Creek,Coyote,-121.903277,37.382066,,C2,0,MGE,,,,20111020104038,20110925142909,SLOW FLOW
-634,,87,Riprap,,,,EXISTING,Waterman,,San Jose,51D,Coyote Creek,Coyote,-121.885619,37.369923,,C2,0,MGE,,,,20111020102648,20110105150435,MRF: MGE indicates FLAPGATE as 'Y' but cannot find record in CSJ  Flapgates List-2011.xls
-635,,87,Riprap,,,,EXISTING,,,San Jose,51C,Coyote Creek,Coyote,-121.902294,37.381854,,C2,0,MGE,,,,20111020104038,20110925142744,
-134,,87,Flapgate,,,,EXISTING,Armco,,San Jose,83C,Los Gatos Creek,Guadalupe River,-121.903014,37.321212,,C2,0,MGE,,,,20110916122544,20101104194826,MRF:Outfall isn‘t clearly visible on the orthophoto
-2137,,87,Flapgate,,,,EXISTING,Waterman,,San Jose,99D,Canoas Creek,Guadalupe River,-121.877395,37.287704,,C2,0,DD-0090,,20010716000000,,20110916122544,20101107002253,
-2143,,87,Riprap,,,,EXISTING,,,San Jose,99D,Guadalupe River,Guadalupe River,-121.882709,37.288082,,C2,0,DD-0073,,20010720000000,,20110916122544,20101222170127,
-2144,,87,Riprap,,,,EXISTING,,,San Jose,114B,Guadalupe River,Guadalupe River,-121.883198,37.28699,,C2,0,DD-0073,,20010720000000,,20110916122544,20110610185156,
-2146,,87,Riprap,,,,EXISTING,,,San Jose,83B,Coyote Creek,Coyote,-121.870903,37.34048,,C2,0,DD-0116,,20010809000000,,20110916122544,20101105234924,MRF:Outfall isn‘t clearly visible on the orthophoto
-2263,,87,Riprap,,,,EXISTING,,,San Jose,83C,Guadalupe River,Guadalupe River,-121.890789,37.317774,,C2,0,DD-0195,,20030910000000,,20110916122544,20101106231825,MRF:Outfall isn‘t clearly visible on the orthophoto
-2270,,87,Riprap,,,,EXISTING,,,San Jose,99A,Los Gatos Creek,Guadalupe River,-121.907198,37.309968,,C2,0,DD-0237,,20031020000000,,20110916122544,20101106223447,MRF:Outfall isn‘t clearly visible on the orthophoto
-2271,,87,Pipe,,,,EXISTING,,,San Jose,83C,Los Gatos Creek,Guadalupe River,-121.903866,37.314878,,C2,0,DD-0238,,20031020000000,,20110916122544,20101106234612,MRF:Outfall isn‘t clearly visible on the orthophoto
-2379,,87,Flapgate,,,,EXISTING,Armco,,San Jose,83C,Los Gatos Creek,Guadalupe River,-121.901084,37.326268,,C2,0,DD-2218,,20080619000000,,20111020103201,20101116085716,"MRF:Outfall isn‘t clearly visible on the orthophoto,MGE indicates FLAPGATE as 'Y' but cannot find record in CSJ  Flapgates List-2011.xls"
-2500,,87,Pipe,,,,EXISTING,,SCVWD,San Jose,83A,Guadalupe River,Guadalupe River,-121.902684,37.338377,,D2,-1,3-12873,,20060328000000,,20110113152217,20101105030412,MRF:Outfall isn‘t clearly visible on the orthophoto
-2700,,87,Riprap,,,,EXISTING,,,San Jose,83A,Los Gatos Creek,Guadalupe River,-121.899173,37.332176,,C2,0,MGE,,,,20110916122544,20101107005033,"MRF:Outfall isn‘t clearly visible on the orthophoto,Singe outfall,MGE feature without any attribute"
-2383,,87,Flapgate,,,,EXISTING,,,San Jose,83A,Los Gatos Creek,Guadalupe River,-121.899101,37.332416,,C2,0,DD-2665,,20080708000000,,20110916122544,20101026190900,"MRF:Outfall isn‘t clearly visible on the orthophoto,MGE indicates FLAPGATE as 'Y' but cannot find record in CSJ  Flapgates List-2011.xls"
-1088,,87,Riprap,,,,EXISTING,,,San Jose,99A,Los Gatos Creek,Guadalupe River,-121.908963,37.308978,,C2,0,948125,928844,19960726000000,,20150102150445,20101106224538,
-2101,,87,Flapgate,,,,EXISTING,Waterman,,San Jose,99B,Guadalupe River,Guadalupe River,-121.885438,37.309504,,C2,0,DD-0142,,20021125000000,,20110916122544,20101026192721,
-2104,,87,Riprap,,,,EXISTING,,,San Jose,99D,Guadalupe River,Guadalupe River,-121.880687,37.297375,,C2,0,DD-0056,,20010607000000,,20110916122544,20101107010310,
-2106,,87,Riprap,,,,EXISTING,,,San Jose,99D,Guadalupe River,Guadalupe River,-121.880458,37.292873,,C2,0,DD-0058,,20010607000000,,20110916122544,20101110011119,
-2136,,87,Pipe,,,,EXISTING,,,San Jose,99A,Los Gatos Creek,Guadalupe River,-121.903876,37.312987,,C2,0,DD-0089,,20010713000000,,20110916122544,20101106221200,MRF:Outfall isn‘t clearly visible on the orthophoto
-141,,87,Riprap,,,,EXISTING,Waterman,,San Jose,99B,Guadalupe River,Guadalupe River,-121.884373,37.307141,,C2,0,MGE,,,,20110916122544,20101106222207,
-153,,87,Riprap,,,,EXISTING,,,San Jose,99D,Guadalupe River,Guadalupe River,-121.881015,37.297498,,C2,0,MGE,,,,20110916122544,20101107010217,
-2643,,87,Concrete,,,,EXISTING,,,San Jose,35B,Coyote Creek,Coyote,-121.925449,37.411442,,D2,0,MGE,,,,20111020104124,20110925153746,"MRF:Can't locate the outfall from Google Earth or Orthophoto,UPSTREAM STRUCTURES ARE THREE GRATES GOING INTO THIS OUTFALL"
-2644,,87,Pipe,,,,EXISTING,,,San Jose,20C,,,-121.964503,37.431037,,D2,0,MGE,,,,20111020104124,20110925153737,
-2645,,87,Pipe,,,,EXISTING,,,San Jose,20C,Bay Marsh,,-121.955695,37.43602,,D2,0,MGE,,,,20111020104124,20110925153713,"FOR MORE DETAIL SEE DIPSHEET  ""HIGH-A"""
-2646,,87,Pipe,,,,EXISTING,,,San Jose,20C,Bay Marsh,,-121.955673,37.43603,,D2,0,MGE,,,,20111020104124,20110925153704,"FOR MORE DETAIL SEE DIPSHEET  ""HIGH-A"" "
-2647,,87,Concrete,,,,EXISTING,,,San Jose,20C,Bay Marsh,,-121.955543,37.435863,,D2,0,MGE,,,,20111020104128,20110925153657,
-2650,,87,Pipe,,,,EXISTING,,,San Jose,50D,Guadalupe River,Guadalupe River,-121.937971,37.375692,,D2,0,MGE,,,,20111020104130,20110925153639,0.5' OF DIRT AT MOUTH
-2651,,87,Flapgate,,,,EXISTING,,,San Jose,51C,Coyote Creek,Coyote,-121.891907,37.376001,,D3,0,MGE,DD-3271,,,20140411155959,20140411155242,
-2652,,87,Pipe,,,,EXISTING,,,San Jose,50D,Guadalupe River,Guadalupe River,-121.941123,37.375417,,D2,0,MGE,,,,20111020104115,20110925153617,
-2653,,87,Concrete,,,,EXISTING,,,San Jose,20A,,,-121.958481,37.440208,,D2,0,MGE,,,,20111020104115,20110925153604,"MRF:Can't locate the outfall from Google Earth or Orthophoto,FLAPGATE CLOSED"
-2655,,87,Concrete,,,,EXISTING,,,San Jose,34B,,,-121.976583,37.4224,,D2,0,MGE,,,,20111020104115,20110925153555,
-2634,,87,Water Way,,,,EXISTING,,,San Jose,50D,Guadalupe River,Guadalupe River,-121.932871,37.3741,,D2,0,MGE,,,,20111020104122,20110925153953,
-2635,,87,Concrete,,,,EXISTING,,,San Jose,20C,Bay Marsh,,-121.955418,37.435997,,D2,0,MGE,,,,20111020104123,20110925153939,STAGNANT BECAUSE OUTFALL GATE CLOSED; ALSO THE INVERT IS APPROXIMATE
-2636,,87,Flapgate,,,,EXISTING,,,San Jose,51C,Coyote Creek,Coyote,-121.89189,37.376008,,D3,0,MGE,DD-3271,,,20140411160013,20140411155112,
-2637,,87,Flapgate,,,,EXISTING,,,San Jose,51C,Coyote Creek,Coyote,-121.891926,37.375994,,D3,0,MGE,DD-3271,,,20140411160019,20140411155142,
-2638,,87,Concrete,,,,EXISTING,,,San Jose,20A,,,-121.958487,37.440185,,D2,0,MGE,,,,20111020104123,20110925153900,"MRF:Can't locate the outfall from Google Earth or Orthophoto,FLAPGATE CLOSED"
-2639,,87,Concrete,,,,EXISTING,,,San Jose,20C,Bay Marsh,,-121.950287,37.429221,,D2,0,MGE,,,,20111020104124,20110925153841,MRF:locate the outfall from Google Earth
-2641,,87,Pipe,,,,EXISTING,,,MILPITAS,5D,,,-121.925324,37.453564,,D2,0,3-12384,DD-3181,20040827000000,,20141222114748,20141222114700,
-2642,,87,Flapgate,,,,EXISTING,,,San Jose,5D,,,-121.934275,37.454057,,D3,0,MGE,DD-3263,,,20140224093045,20110925153727,"outfall is a rusted flapgate on the end of an 18"" diameter CMP"
-2211,,87,Riprap,,,,EXISTING,,,San Jose,85D,Quimby Creek,Coyote,-121.774833,37.3209,,C2,0,1-8779,,20030305000000,,20110916122545,20110325143824,
-2212,,87,Pipe,,,,EXISTING,,,San Jose,53A,Upper Penitencia Creek,Coyote,-121.811689,37.394485,,C2,0,DD-0137,,20030312000000,,20110916122545,20110325143825,MRF:Can't locate the outfall from Google Earth or Orthophoto
-2213,,87,Water Way,,,,EXISTING,,,San Jose,53A,Upper Penitencia Creek,Coyote,-121.810477,37.394959,,C2,0,DD-0137,,20030312000000,,20110916122545,20110325143825,MRF:Can't locate the outfall from Google Earth or Orthophoto
-2214,,87,Riprap,,,,EXISTING,,,San Jose,53A,Upper Penitencia Creek,Coyote,-121.809918,37.395138,,C2,0,MGE,,20030312000000,,20110916122545,20110325143826,MRF:Can't locate the outfall from Google Earth or Orthophoto
-2215,,87,Riprap,,,,EXISTING,,,San Jose,53A,Upper Penitencia Creek,Coyote,-121.809866,37.396033,,C2,0,DD-0137,,20030312000000,,20110916122545,20110325143827,MRF:Can't locate the outfall from Google Earth or Orthophoto
-2217,,87,Riprap,,,,EXISTING,,,San Jose,53A,Upper Penitencia Creek,Coyote,-121.80594,37.395595,,C2,0,DD-0137,,20030312000000,,20110916122545,20110325143828,MRF:Can't locate the outfall from Google Earth or Orthophoto
-2218,,87,Riprap,,,,EXISTING,,,San Jose,53A,Upper Penitencia Creek,Coyote,-121.804021,37.395738,,C2,0,DD-0137,,20030312000000,,20110916122545,20110325143828,MRF:Can't locate the outfall from Google Earth or Orthophoto
-2219,,87,Pipe,,,,EXISTING,,,San Jose,68C,Lower Silver Creek,Coyote,-121.849428,37.354731,,C2,0,DD-0135,,20020828000000,,20110916122545,20110325143829,MRF:Can't locate the Outfall from Google Earth or Orthophoto
-2220,,87,Pipe,,,,EXISTING,,,San Jose,68C,Lower Silver Creek,Coyote,-121.848758,37.354785,,C2,0,DD-0135,,20020828000000,,20110916122545,20110325143830,MRF:Can't locate the Outfall from Google Earth or Orthophoto
-2222,,87,Riprap,,,,EXISTING,,,San Jose,53A,Upper Penitencia Creek,Coyote,-121.804653,37.396387,,C2,0,DD-0137,,20030319000000,,20110916122545,20110325143831,MRF:Can't locate the outfall from Google Earth or Orthophoto
-2223,,87,Riprap,,,,EXISTING,,,San Jose,53A,Upper Penitencia Creek,Coyote,-121.803413,37.396411,,C2,0,DD-0137,,20030319000000,,20110916122545,20110325143831,MRF:Can't locate the outfall from Google Earth or Orthophoto
-2224,,87,Riprap,,,,EXISTING,,,San Jose,53A,Upper Penitencia Creek,Coyote,-121.802914,37.396503,,C2,0,DD-0137,,20030319000000,,20110916122545,20110325143832,MRF:Can't locate the outfall from Google Earth or Orthophoto
-2225,,87,Riprap,,,,EXISTING,,,San Jose,53A,Upper Penitencia Creek,Coyote,-121.802847,37.396517,,C2,0,DD-0137,,20030319000000,,20110916122545,20110325143833,MRF:Can't locate the outfall from Google Earth or Orthophoto
-2226,,87,Riprap,,,,EXISTING,,,San Jose,53A,Upper Penitencia Creek,Coyote,-121.802819,37.396547,,C2,0,DD-0137,,20030319000000,,20110916122545,20110325143834,MRF:Can't locate the outfall from Google Earth or Orthophoto
-80,,87,Riprap,,,,EXISTING,,,San Jose,84C,Coyote Creek,Coyote,-121.863053,37.32796,,C2,0,MGE,,,,20110916122545,20110325143703,MRF:Can't locate the Outfall from Google Earth or Orthophoto
-81,,87,Flapgate,,,,EXISTING,,,San Jose,84C,Coyote Creek,Coyote,-121.861675,37.327736,,C2,0,DD-0264,,20021028000000,,20110916122545,20110325143703,MRF: MGE indicates FLAPGATE as 'Y' but cannot find record in CSJ  Flapgates List-2011.xls
-102,,87,Pipe,,,,EXISTING,,,San Jose,84C,Coyote Creek,Coyote,-121.855927,37.32299,,C2,0,MGE,,,,20110916122545,20110325143703,
-117,,87,Pipe,,,,EXISTING,Armco,,San Jose,69C,Lower Silver Creek,Coyote,-121.813081,37.343305,,C2,0,MGE,,,,20110916122545,20110325143704,
-126,,87,Riprap,,,,EXISTING,,,San Jose,85A,Lower Silver Creek,Coyote,-121.812008,37.342036,,C2,0,MGE,,,,20110916122545,20110325143704,
-127,,87,Riprap,,,,EXISTING,,,San Jose,85A,Lower Silver Creek,Coyote,-121.810338,37.340186,,C2,0,MGE,,,,20110916122545,20110325143704,MRF: MGE indicates FLAPGATE as 'Y' but cannot find record in CSJ  Flapgates List-2011.xls
-2197,,87,Pipe,,,,EXISTING,,,San Jose,85D,Quimby Creek,Coyote,-121.762208,37.323201,,C2,-1,1-9271,,20020402000000,,20110916122545,20110325143822,
-2228,,87,Riprap,,,,EXISTING,,,San Jose,53A,Upper Penitencia Creek,Coyote,-121.801615,37.396104,,C2,0,DD-0137,,20030319000000,,20110916122545,20110325143835,MRF:Can't locate the outfall from Google Earth or Orthophoto
-67,,87,Flapgate,,,,EXISTING,Armco,,San Jose,83A,Guadalupe River,Guadalupe River,-121.902187,37.337878,,C2,0,DD-0323,,20031121000000,,20110916122545,20101105030357,MRF:Outfall isn‘t clearly visible on the orthophoto
-76,,87,Pipe,,,,EXISTING,Armco,,San Jose,83B,Coyote Creek,Coyote,-121.87099,37.34025,,C2,0,MGE,,,,20110916122545,20101105235153,MRF:Outfall isn‘t clearly visible on the orthophoto
-79,,87,Pipe,,,,EXISTING,Calco,,San Jose,83A,Los Gatos Creek,Guadalupe River,-121.899862,37.329305,,C2,0,MGE,,,,20110916122545,20101106231134,MRF:Outfall isn‘t clearly visible on the orthophoto
-82,,87,Flapgate,,,,EXISTING,Calco,,San Jose,83C,Los Gatos Creek,Guadalupe River,-121.903012,37.321274,,C2,0,MGE,,,,20110916122545,20101104194816,MRF:Outfall isn‘t clearly visible on the orthophoto
-83,,87,Pipe,,,,EXISTING,Calco,,San Jose,83D,Guadalupe River,Guadalupe River,-121.888595,37.316715,,C2,0,MGE,,,,20110916122545,20101110184810,
-88,,87,Concrete,,,,EXISTING,Calco,,San Jose,83D,Coyote Creek,Coyote,-121.868393,37.328414,,C2,0,MGE,PP2502,,,20120229095728,20101111191703,MRF:Outfall isn‘t clearly visible on the orthophoto
-89,,87,Pipe,,,,EXISTING,Calco,,San Jose,83A,Guadalupe River,Guadalupe River,-121.901077,37.337129,,C2,0,MGE,,,,20110916122545,20101106222655,MRF:Outfall isn‘t clearly visible on the orthophoto
-90,,87,Concrete,,,,EXISTING,Calco,,San Jose,83B,Coyote Creek,Coyote,-121.868462,37.336821,,C2,0,MGE,,,,20110916122545,20101106223227,MRF:Outfall isn‘t clearly visible on the orthophoto
-2168,,87,Riprap,,,,EXISTING,,,San Jose,83B,Coyote Creek,Coyote,-121.87049,37.340479,,C2,0,DD-0015,,20010924000000,,20110916122545,20101111215238,MRF:Outfall isn‘t clearly visible on the orthophoto
-2169,,87,Riprap,,,,EXISTING,,,San Jose,83B,Coyote Creek,Coyote,-121.871563,37.342052,,C2,0,DD-0015,,20010924000000,,20110916122545,20101108224750,MRF:Outfall isn‘t clearly visible on the orthophoto
-2246,,87,Riprap,,,,EXISTING,,,San Jose,83B,Coyote Creek,Coyote,-121.870384,37.337915,,C2,0,DD_0145,,20030723000000,,20110916122545,20101106223158,MRF:Outfall isn‘t clearly visible on the orthophoto
-129,,87,Riprap,,,,EXISTING,,,San Jose,85A,Flint Creek,Coyote,-121.805637,37.340501,,C2,0,MGE,,,,20110916122545,20110325143705,
-130,,87,Riprap,,,,EXISTING,,,San Jose,85A,Ruby Creek,Coyote,-121.804435,37.339142,,C2,0,MGE,,,,20110916122545,20110325143705,
-133,,87,Pipe,,,,EXISTING,Armco,,San Jose,84C,Coyote Creek,Coyote,-121.853457,37.322243,,C2,0,MGE,,,,20110916122545,20110325143705,
-136,,87,Flapgate,,,,EXISTING,Waterman,,San Jose,85C,Thompson Creek,Coyote,-121.802571,37.317721,,C2,0,DD-0215,,20030926000000,,20110916122545,20110325143706,
-137,,87,Flapgate,,,,EXISTING,Waterman,,San Jose,85C,Thompson Creek,Coyote,-121.801104,37.317083,,C2,0,DD-0215,,20080306000000,,20110916122545,20110325143706,
-2384,,87,Flapgate,,,,EXISTING,,,San Jose,83A,Los Gatos Creek,Guadalupe River,-121.899053,37.332641,,C2,0,DD-2665,,20080708000000,,20110916122545,20101026182659,"MRF:Outfall isn‘t clearly visible on the orthophoto,MGE indicates FLAPGATE as 'Y' but cannot find record in CSJ  Flapgates List-2011.xls"
-2385,,87,Flapgate,,,,EXISTING,,,San Jose,83A,Los Gatos Creek,Guadalupe River,-121.899066,37.332573,,C2,0,DD-2665,,20080708000000,,20110916122545,20101106230324,"MRF:Outfall isn‘t clearly visible on the orthophoto,MGE indicates FLAPGATE as 'Y' but cannot find record in CSJ  Flapgates List-2011.xls"
-2394,,87,Pipe,,,,EXISTING,,,San Jose,99D,Guadalupe River,Guadalupe River,-121.865082,37.293968,,C2,0,3-10720B,,20100514000000,,20110916122545,20101221142101,
-110,,87,Pipe,,,,EXISTING,Waterman,,San Jose,83A,Guadalupe River,Guadalupe River,-121.896325,37.330766,,C2,0,MGE,,,,20110916122545,20101106232134,MRF:Outfall isn‘t clearly visible on the orthophoto
-95,,87,Pipe,,,,EXISTING,Armco,,San Jose,83C,Los Gatos Creek,Guadalupe River,-121.901131,37.32544,,C2,0,MGE,,,,20110916122545,20101116090630,MRF:Outfall isn‘t clearly visible on the orthophoto
-138,,87,Riprap,,,,EXISTING,,,San Jose,85C,Norwood Creek,Coyote,-121.804445,37.32749,,C2,0,MGE,,,,20110916122545,20110325143706,
-106,,87,Flapgate,,,,EXISTING,Armco,,San Jose,83C,Guadalupe River,Guadalupe River,-121.891958,37.327934,,C2,0,MGE,DD-3259,,,20140131132303,20140207152641,MRF:Outfall isn‘t clearly visible on the orthophoto
-2162,,87,Flapgate,,,,EXISTING,,,San Jose,36D,Berryessa Creek,Lower Penitencia,-121.866348,37.409115,,C2,0,DD-1026,,20010917000000,,20110916122544,20110105150447,MRF: MGE indicates FLAPGATE as 'Y' but cannot find record in CSJ  Flapgates List-2011.xls
-2185,,87,Pipe,,,,EXISTING,,,San Jose,36D,Berryessa Creek,Lower Penitencia,-121.877176,37.408886,,C2,0,DD-1025,,20020826000000,,20110916122544,20110105150448,
-2199,,87,Riprap,,,,EXISTING,,,San Jose,34B,,,-121.973991,37.41889,,C2,-1,3-4853,,19990702000000,,20111020103950,20110925150632,
-2277,,87,Riprap,,,,EXISTING,,,San Jose,67A,Guadalupe River,Guadalupe River,-121.916268,37.360041,,C2,0,MGE,,,,20110916122544,20110107173132,
-2282,,87,Concrete,,,,EXISTING,,,San Jose,67A,Guadalupe River,Guadalupe River,-121.900393,37.367408,,C2,0,DD-0341,,20040211000000,,20111020103951,20110925152454,UPSTREAM STRUCTURE FOR THIS OUTFALL IS 2282A AND INVERT=50.92
-2288,,87,Pipe,,,,EXISTING,,,San Jose,19D,,,-121.97913,37.429267,,C2,0,DD-0364,,20040320000000,,20111020103952,20110925145658,
-2305,,87,Concrete,,,,EXISTING,,,San Jose,67B,Lower Silver Creek,Coyote,-121.866651,37.358552,,C2,0,DD-0606,,20050616000000,,20110916122544,20110105150449,
-2319,,87,Pipe,,,,EXISTING,,,San Jose,20C,,,-121.967835,37.433766,,C2,0,DD-2586,,20080226000000,,20111020103953,20110925151426,
-2320,,87,Pipe,,,,EXISTING,,,San Jose,20C,,,-121.964641,37.431226,,C2,0,DD-2395,,20080226000000,,20111020103954,20110925152313,
-92,,87,Pipe,,,,EXISTING,Waterman,,San Jose,83A,Guadalupe River,Guadalupe River,-121.899385,37.334626,,C2,0,MGE,,,,20110916122544,20101109230548,MRF:Outfall isn‘t clearly visible on the orthophoto
-93,,87,Pipe,,,,EXISTING,Waterman,,San Jose,83A,Guadalupe River,Guadalupe River,-121.897901,37.332766,,C2,0,MGE,,,,20110916122544,20101107005200,MRF:Outfall isn‘t clearly visible on the orthophoto
 96,,87,Pipe,,,,EXISTING,Armco,,San Jose,83A,Los Gatos Creek,Guadalupe River,-121.899849,37.32941,,C2,0,MGE,,,,20110916122544,20101105030258,MRF:Outfall isn‘t clearly visible on the orthophoto
 97,,87,Pipe,,,,EXISTING,Armco,,San Jose,83C,Los Gatos Creek,Guadalupe River,-121.900725,37.326026,,C2,0,MGE,,,,20110916122544,20101116090057,MRF:Outfall isn‘t clearly visible on the orthophoto
 98,,87,Pipe,,,,EXISTING,Waterman,,San Jose,83A,Guadalupe River,Guadalupe River,-121.899875,37.33578,,C2,0,MGE,,,,20110916122544,20101026182516,MRF:Outfall isn‘t clearly visible on the orthophoto
@@ -586,6 +406,187 @@ STM_OTF_ID,COMPKEY,COMPTYPE,TYPE,PCD_TYPE,PCD_IN_DAT,PCD_MANUF,STATUS,FLAP_BRAND
 303,,87,Riprap,,,,EXISTING,Waterman,,San Jose,114B,Guadalupe River,Guadalupe River,-121.87798,37.277248,,C2,0,MGE,,,,20110916122544,20110612111142,MRF:Can't locate the Outfall from Google Earth or Orthophoto
 347,,87,Pipe,,,,EXISTING,,,San Jose,128A,Ross Creek,Guadalupe River,-121.904762,37.258055,,C2,0,MGE,,,,20110916122544,20110616113514,MRF:Can't locate the Outfall from Google Earth or Orthophoto
 348,,87,Pipe,,,,EXISTING,,,San Jose,128A,Ross Creek,Guadalupe River,-121.903499,37.259097,,D2,0,776033,,19760801000000,,20140310150602,20140310124001,invert is 179.11
+349,,87,Pipe,,,,EXISTING,Waterman,,San Jose,114B,Guadalupe River,Guadalupe River,-121.877465,37.276726,,C2,0,MGE,,,,20110916122544,20110612111145,MRF:Can't locate the Outfall from Google Earth or Orthophoto
+350,,87,Riprap,,,,EXISTING,,,San Jose,128A,Ross Creek,Guadalupe River,-121.907532,37.254328,,C2,0,MGE,,,,20110916122544,20110612111145,MRF:Can't locate the outfall from Google Earth or Orthophoto
+351,,87,Riprap,,,,EXISTING,,,San Jose,128A,Ross Creek,Guadalupe River,-121.906264,37.256014,,C2,0,MGE,,,,20110916122544,20110612111146,MRF:Can't locate the outfall from Google Earth or Orthophoto
+352,,87,Riprap,,,,EXISTING,,,San Jose,128A,Ross Creek,Guadalupe River,-121.904707,37.257981,,C2,0,MGE,,,,20110916122544,20110612111147,MRF:Can't locate the Outfall from Google Earth or Orthophoto
+353,,87,Riprap,,,,EXISTING,Armco,,San Jose,114B,Guadalupe River,Guadalupe River,-121.877339,37.275982,,C2,0,MGE,,,,20110916122544,20110612111147,
+354,,87,Pipe,,,,EXISTING,,,San Jose,114B,Guadalupe River,Guadalupe River,-121.877309,37.27593,,C2,0,MGE,,,,20110916122544,20110612111148,
+357,,87,Pipe,,,,EXISTING,,,San Jose,128A,Ross Creek,Guadalupe River,-121.903122,37.259158,,C2,0,MGE,,,,20110916122544,20110612111149,MRF:Can't locate the outfall from Google Earth or Orthophoto
+359,,87,Pipe,,,,EXISTING,,,San Jose,114D,Guadalupe River,Guadalupe River,-121.878518,37.271073,,C2,0,MGE,,,,20110916122544,20110620114506,MRF:Can't locate the Outfall from Google Earth or Orthophoto
+361,,87,Pipe,,,,EXISTING,,,San Jose,114D,Guadalupe River,Guadalupe River,-121.878599,37.269981,,C2,0,MGE,,,,20110916122544,20110612111150,MRF:Can't locate the Outfall from Google Earth or Orthophoto
+363,,87,Riprap,,,,EXISTING,,,San Jose,114C,Ross Creek,Guadalupe River,-121.901266,37.259733,,C2,0,MGE,,,,20110916122544,20110612111151,MRF:Can't locate the Outfall from Google Earth or Orthophoto
+773,,87,Pipe,,,,EXISTING,,,San Jose,115B,Coyote Creek,Coyote,-121.812666,37.278842,,D2,,MGE,DD3275,,,20140515151031,20140515112548,
+2159,,87,Flapgate,,,,EXISTING,,,San Jose,68D,Lower Silver Creek,Coyote,-121.828806,37.354243,,C2,0,DD-1028,DD-3245,20010914000000,,20131204083621,20110325143811,
+1077,,87,Riprap,,,,EXISTING,,,San Jose,113A,Los Gatos Creek,Guadalupe River,-121.943453,37.276557,,C2,0,DIST 4,,19940929000000,,20110916122544,20110612111231,
+1078,,87,Pipe,,,,EXISTING,,,San Jose,128A,Ross Creek,Guadalupe River,-121.907595,37.254205,,C2,0,TR8457,,19901202000000,,20110916122544,20110612111232,
+1084,,87,Riprap,,,,EXISTING,,,San Jose,128C,Guadalupe Creek,Guadalupe River,-121.890712,37.235653,,C2,0,TR8611,,19931102000000,,20110916122544,20110612111232,
+1087,,87,Riprap,,,,EXISTING,,,San Jose,127B,Ross Creek,Guadalupe River,-121.930159,37.245851,,C2,0,953590,,19940502000000,,20110916122544,20110612111233,
+1090,,87,Riprap,,,,EXISTING,,,San Jose,128B,Guadalupe River,Guadalupe River,-121.869435,37.258488,,C2,0,927517,,19890602000000,,20110916122544,20110612111233,MRF:locate the Outfall from Google Earth
+1091,,87,Riprap,,,,EXISTING,,,San Jose,127B,Ross Creek,Guadalupe River,-121.928565,37.245958,,C2,-1,974753,,19960602000000,,20110916122544,20110612111233,MRF:Can't locate the Outfall from Google Earth or Orthophoto
+2107,,87,Riprap,,,,EXISTING,,,San Jose,127D,Lone Hill Creek,Guadalupe River,-121.917769,37.244285,,C2,0,DD-0060,,20010613000000,,20110916122544,20110612111234,MRF:Can't locate the Outfall from Google Earth or Orthophoto
+2108,,87,Flapgate,,,,EXISTING,Waterman,,San Jose,127D,Lone Hill Creek,Guadalupe River,-121.917235,37.244853,,C2,0,DD-0060,,20010613000000,,20110916122544,20110612111234,MRF:Can't locate the outfall from Google Earth or Orthophoto
+2109,,87,Riprap,,,,EXISTING,,,San Jose,127B,Lone Hill Creek,Guadalupe River,-121.916301,37.24764,,C2,0,DD-0060,,20010613000000,,20110916122544,20110612111235,MRF:Can't locate the Outfall from Google Earth or Orthophoto
+2110,,87,Riprap,,,,EXISTING,,,San Jose,127B,Lone Hill Creek,Guadalupe River,-121.9163,37.247607,,C2,0,DD-0060,,20010613000000,,20110916122544,20110612111235,MRF:Can't locate the Outfall from Google Earth or Orthophoto
+2111,,87,Flapgate,,,,EXISTING,Waterman,,San Jose,127B,Lone Hill Creek,Guadalupe River,-121.916298,37.247468,,C2,0,DD-0060,,20010613000000,,20110916122544,20110612111236,MRF:Can't locate the Outfall from Google Earth or Orthophoto
+2112,,87,Riprap,,,,EXISTING,,,San Jose,127D,Ross Creek,Guadalupe River,-121.937506,37.243216,,C2,0,DD-0061,,20010615000000,,20110916122544,20110612111237,MRF:Can't locate the Outfall from Google Earth or Orthophoto
+2113,,87,Riprap,,,,EXISTING,,,San Jose,128B,Guadalupe River,Guadalupe River,-121.86967,37.252988,,C2,0,DD-0063,,20010618000000,,20110916122544,20110612111237,
+2114,,87,Riprap,,,,EXISTING,,,San Jose,128B,Guadalupe Creek,Guadalupe River,-121.870615,37.250275,,C2,0,DD-0063,,20010620000000,,20110916122544,20110612111238,MRF:Can't locate the outfall from Google Earth or Orthophoto
+2115,,87,Riprap,,,,EXISTING,,,San Jose,128B,Guadalupe Creek,Guadalupe River,-121.870622,37.250246,,C2,0,DD-0063,,20010620000000,,20110916122544,20110612111238,MRF:Can't locate the outfall from Google Earth or Orthophoto
+2521,,87,Riprap,,,,EXISTING,,,San Jose,114C,Ross Creek,Guadalupe River,-121.900232,37.259995,,D2,-1,1-2766,,19610717000000,,20110916122547,20110613103313,
+2522,,87,Concrete,,,,EXISTING,,,San Jose,114D,Guadalupe Creek,Guadalupe River,-121.874117,37.262185,,D2,-1,1-8484,,19930210000000,,20110916122547,20110613103313,
+2523,,87,Concrete,,,,EXISTING,,,San Jose,127B,Ross Creek,Guadalupe River,-121.939997,37.252032,,D2,-1,1-9835,,20071220000000,,20110916122547,20110613103313,MRF:Can't locate the Outfall from Google Earth or Orthophoto
+2524,,87,Concrete,,,,EXISTING,,,San Jose,127B,Ross Creek,Guadalupe River,-121.93936,37.25192,,D2,-1,1-9835,,20071220000000,,20110916122547,20110613103314,MRF:Can't locate the Outfall from Google Earth or Orthophoto
+2525,,87,Concrete,,,,EXISTING,,,San Jose,127B,Ross Creek,Guadalupe River,-121.93924,37.251898,,D2,-1,1-9835,,20071220000000,,20110916122547,20110613103314,MRF:Can't locate the Outfall from Google Earth or Orthophoto
+2526,,87,Concrete,,,,EXISTING,,,Private,127B,Ross Creek,Guadalupe River,-121.938214,37.251714,,D2,-1,1-9835,,20071220000000,,20130805094320,20110613103314,MRF:Can't locate the Outfall from Google Earth or Orthophoto
+2527,,87,Concrete,,,,EXISTING,,,Private,127B,Ross Creek,Guadalupe River,-121.938395,37.251746,,D2,-1,1-9835,,20071220000000,,20130805094310,20110613103314,MRF:Can't locate the Outfall from Google Earth or Orthophoto
+2528,,87,Concrete,,,,EXISTING,,,Private,127B,Ross Creek,Guadalupe River,-121.938093,37.251691,,D2,-1,1-9835,,20071220000000,,20130805094328,20110613103315,MRF:Can't locate the Outfall from Google Earth or Orthophoto
+2531,,87,Concrete,,,,EXISTING,,,San Jose,127D,Ross Creek,Guadalupe River,-121.933114,37.245104,,D2,-1,1-6338,,19791218000000,,20110916122547,20110620110850,
+2532,,87,Concrete,,,,EXISTING,,,San Jose,128D,Alamitos Creek,Guadalupe River,-121.870823,37.238655,,D2,-1,1-16_ALMDN_LK_PK_ALMD0584,,19850418000000,,20110916122547,20110613103316,
+2533,,87,Concrete,,,,EXISTING,,,San Jose,141D,Golf Creek,Guadalupe River,-121.874087,37.206428,,D2,-1,TR5472,,19740203000000,19750202000000,20110916122547,20110613103316,MRF:Can't locate the outfall from Google Earth or Orthophoto
+2116,,87,Riprap,,,,EXISTING,,,San Jose,128B,Guadalupe Creek,Guadalupe River,-121.869361,37.255606,,C2,0,DD-0063,,20010620000000,,20110916122544,20110612111240,MRF:Can't locate the Outfall from Google Earth or Orthophoto
+2117,,87,Riprap,,,,EXISTING,,,San Jose,128B,Guadalupe Creek,Guadalupe River,-121.869444,37.255366,,C2,0,DD-0063,,20010620000000,,20110916122544,20110612111240,
+2118,,87,Riprap,,,,EXISTING,,,San Jose,141D,Golf Creek,Guadalupe River,-121.874978,37.218339,,C2,0,DD-0066,,20010621000000,,20110916122544,20110612111240,
+2119,,87,Riprap,,,,EXISTING,,,San Jose,141D,Golf Creek,Guadalupe River,-121.874403,37.217204,,C2,0,DD-0066,,20010621000000,,20110916122544,20110612111241,MRF:Can't locate the Outfall from Google Earth or Orthophoto
+2121,,87,Riprap,,,,EXISTING,,,San Jose,141D,Golf Creek,Guadalupe River,-121.872691,37.21565,,C2,0,DD-0066,,20010622000000,,20110916122544,20110612111241,
+2122,,87,Riprap,,,,EXISTING,,,San Jose,141D,Golf Creek,Guadalupe River,-121.871775,37.208546,,C2,0,MGE,,20100423000000,,20110916122544,20110612111241,MRF:Can't locate the Outfall from Google Earth or Orthophoto
+2123,,87,Riprap,,,,EXISTING,,,San Jose,141D,Golf Creek,Guadalupe River,-121.874362,37.215639,,C2,0,DD-0066,,20010622000000,,20110916122544,20110612111241,
+2124,,87,Pipe,,,,EXISTING,,,San Jose,141D,Golf Creek,Guadalupe River,-121.871787,37.208562,,C2,0,DD-0066,,20010626000000,,20110916122544,20110612111242,MRF:Can't locate the Outfall from Google Earth or Orthophoto
+2125,,87,Riprap,,,,EXISTING,,,San Jose,141D,Golf Creek,Guadalupe River,-121.871566,37.207763,,C2,0,DD-006,,20010626000000,,20110916122544,20110612111242,MRF:Can't locate the Outfall from Google Earth or Orthophoto
+2126,,87,Pipe,,,,EXISTING,,,San Jose,141D,Golf Creek,Guadalupe River,-121.867271,37.208598,,C2,0,MGE,,20100430000000,,20110916122544,20110612111242,MRF:Can't locate the Outfall from Google Earth or Orthophoto
+2127,,87,Riprap,,,,EXISTING,,,San Jose,141D,Golf Creek,Guadalupe River,-121.871786,37.208485,,C2,0,MGE,,20100423000000,,20110916122544,20110612111243,MRF:Can't locate the Outfall from Google Earth or Orthophoto
+2128,,87,Riprap,,,,EXISTING,,,San Jose,141D,Golf Creek,Guadalupe River,-121.869347,37.213034,,C2,0,DD-0067,,20010629000000,,20110916122544,20110612111243,MRF:Can't locate the Outfall from Google Earth or Orthophoto
+2200,,87,Flapgate,,,,EXISTING,,,San Jose,112D,,San Tomas,-121.990832,37.271527,,C2,-1,DD-0227,,20021002000000,,20110916123027,20110612111243,"MRF:Can't locate the Outfall from Google Earth or Orthophoto,MGE indicates FLAPGATE as ‘Y’ but cannot find record in CSJ  Flapgates List-2011.xls"
+2202,,87,Riprap,,,,EXISTING,,,San Jose,141B,Golf Creek,Guadalupe River,-121.874822,37.2292,,C2,0,DD-0286,,20021114000000,,20110916122544,20110612111244,MRF:Can't locate the Outfall from Google Earth or Orthophoto
+2205,,87,Pipe,,,,EXISTING,Waterman,,San Jose,114B,Canoas Creek,Guadalupe River,-121.865828,37.282257,,C2,0,3-12615,,19991102000000,,20110916122544,20110612111244,
+2251,,87,Riprap,,,,EXISTING,,,San Jose,128B,Guadalupe River,Guadalupe River,-121.86952,37.254626,,C2,0,3-6673,,20000125000000,,20110916122544,20110620124324,
+2253,,87,Riprap,,,,EXISTING,Waterman,,San Jose,128B,Guadalupe Creek,Guadalupe River,-121.869458,37.255158,,C2,0,DD-0179,,20030826000000,,20110916122544,20110612111245,MRF:Can't locate the Outfall from Google Earth or Orthophoto
+2254,,87,Riprap,,,,EXISTING,Waterman,,San Jose,128B,Guadalupe Creek,Guadalupe River,-121.869184,37.255195,,C2,0,DD-0179,,20030826000000,,20110916122544,20110612111245,
+2265,,87,Riprap,,,,EXISTING,,,San Jose,141A,Guadalupe Creek,Guadalupe River,-121.907689,37.221536,,C2,0,DD-0216,,20030926000000,,20110916122544,20110612111245,MRF:Can't locate the Outfall from Google Earth or Orthophoto
+2266,,87,Pipe,,,,EXISTING,,,San Jose,113A,San Tomas Aquino Creek,San Tomas,-121.965202,37.27877,,C2,0,1-3059,,20031010000000,,20110916122544,20110612111245,
+2267,,87,Pipe,,,,EXISTING,,,San Jose,112B,San Tomas Aquino Creek,San Tomas,-121.968264,37.277496,,C2,0,DD-0234,,20031009000000,,20110916122544,20110615175510,
+2268,,87,Riprap,,,,EXISTING,,,San Jose,112D,,San Tomas,-121.990944,37.270041,,C2,0,DD-0236,,20031020000000,,20110916123027,20110612111246,MRF:locate the Outfall from Google Earth
+2269,,87,Riprap,,,,EXISTING,,,San Jose,112D,,San Tomas,-121.990867,37.270066,,C2,0,DD-0236,,20031020000000,,20110916123027,20110612111246,MRF:Can't locate the Outfall from Google Earth or Orthophoto
+2281,,87,Riprap,,,,EXISTING,,,San Jose,114B,Canoas Creek,Guadalupe River,-121.868973,37.280192,,C2,0,DD-0275,3-12712,20040114000000,20090129000000,20121102083041,20110612111247,MRF:Can't locate the Outfall from Google Earth or Orthophoto
+2284,,87,Concrete,,,,EXISTING,,,San Jose,128D,Golf Creek,Guadalupe River,-121.871604,37.232966,,C2,0,DD-0287,,20040309000000,,20110916122544,20110612111247,MRF:Can't locate the Outfall from Google Earth or Orthophoto
+2293,,87,Concrete,,,,EXISTING,,,San Jose,80D,,Calabazas,-122.032489,37.312777,,C2,0,DD-0360,,20040429000000,,20110916123027,20110612111247,MRF:Can't locate the outfall from Google Earth or Orthophoto
+2309,,87,Riprap,,,,EXISTING,,,San Jose,97C,Saratoga Creek,San Tomas,-121.998251,37.29759,,C2,0,DD-2462,,20060131000000,,20110916122544,20150223123812,MRF:Can't locate the outfall from Google Earth or Orthophoto
+2310,,87,Riprap,,,,EXISTING,Waterman,,San Jose,114B,Guadalupe River,Guadalupe River,-121.878575,37.279604,,C2,0,1-9097,,19820720000000,,20111020103109,20110612111248,
+2335,,87,Pipe,,,,EXISTING,,,San Jose,114B,Canoas Creek,Guadalupe River,-121.865868,37.28236,,C2,0,MGE,,20080313000000,,20110916122544,20110616191830,
+2395,,87,Riprap,,,,EXISTING,,,San Jose,96B,Calabazas Creek,Calabazas,-122.024529,37.303985,,C2,0,DD-2511,,20080722000000,,20110916122544,20110620113820,MRF:Can't locate the outfall from Google Earth or Orthophoto
+2396,,87,Concrete,,,,EXISTING,,,San Jose,97A,Saratoga Creek,San Tomas,-121.996776,37.309482,,C2,0,DD-2162,,20080722000000,,20110916122544,20110612111249,MRF:Can't locate the Outfall from Google Earth or Orthophoto
+2397,,87,Concrete,,,,EXISTING,,,San Jose,98A,San Tomas Aquino Creek,San Tomas,-121.96424,37.307638,,C2,0,DD-2426,,20080724000000,,20110916122544,20110612111249,MRF:locate the Outfall from Google Earth
+2398,,87,Concrete,,,,EXISTING,,,San Jose,98A,San Tomas Aquino Creek,San Tomas,-121.964252,37.308591,,C2,0,DD-2426,,20080724000000,,20110916122544,20110612111250,MRF:Can't locate the Outfall from Google Earth or Orthophoto
+2399,,87,Concrete,,,,EXISTING,,,San Jose,98A,San Tomas Aquino Creek,San Tomas,-121.964215,37.308815,,C2,0,DD-2427,,20080725000000,,20110916122544,20110612111250,MRF:locate the Outfall from Google Earth
+2400,,87,Concrete,,,,EXISTING,,,San Jose,98A,San Tomas Aquino Creek,San Tomas,-121.964373,37.308566,,C2,0,DD-2427,,20080725000000,,20110916122544,20110612111250,MRF:locate the Outfall from Google Earth
+2401,,87,Concrete,,,,EXISTING,,,San Jose,98A,San Tomas Aquino Creek,San Tomas,-121.964756,37.300819,,C2,0,DD-2433,,20080725000000,,20110916122544,20110612111251,
+2403,,87,Concrete,,,,EXISTING,,,San Jose,98C,San Tomas Aquino Creek,San Tomas,-121.961288,37.294185,,C2,0,DD-2609,,20080726000000,,20110916122544,20110612111251,MRF:Can't locate the Outfall from Google Earth or Orthophoto
+497,,87,Riprap,,,,EXISTING,,,San Jose,127D,Lone Hill Creek,Guadalupe River,-121.918288,37.243614,,C2,0,MGE,,,,20110916122544,20110612111216,MRF:Can't locate the Outfall from Google Earth or Orthophoto
+498,,87,Riprap,,,,EXISTING,,,San Jose,127D,Lone Hill Creek,Guadalupe River,-121.918228,37.243616,,C2,0,DD-0070,,20010924000000,,20110916122544,20110612111216,MRF:Can't locate the Outfall from Google Earth or Orthophoto
+500,,87,Pipe,,,,EXISTING,,,San Jose,127B,Ross Creek,Guadalupe River,-121.931342,37.245884,,C2,0,MGE,,,,20110916122544,20110612111217,MRF:Can't locate the Outfall from Google Earth or Orthophoto
+572,,87,Pipe,,,,EXISTING,,,San Jose,114D,Guadalupe River,Guadalupe River,-121.873382,37.261136,,C2,0,MGE,,,,20110916122544,20110612111217,MRF:Can't locate the Outfall from Google Earth or Orthophoto
+664,,87,Pipe,,,,EXISTING,,,San Jose,141D,Golf Creek,Guadalupe River,-121.869628,37.213291,,C2,0,MGE,,,,20110916122544,20110612111218,MRF:Can't locate the Outfall from Google Earth or Orthophoto
+991,,87,Pipe,,,,EXISTING,,,San Jose,141B,Golf Creek,Guadalupe River,-121.874863,37.229313,,C2,0,MGE,,,,20110916122544,20110612111218,MRF:Can't locate the Outfall from Google Earth or Orthophoto
+992,,87,Riprap,,,,EXISTING,,,San Jose,141B,Golf Creek,Guadalupe River,-121.874622,37.228169,,C2,0,MGE,,,,20110916122544,20110612111218,
+993,,87,Concrete,,,,EXISTING,Armco,,San Jose,127B,Ross Creek,Guadalupe River,-121.922464,37.247529,,C2,0,MGE,,,,20110916122544,20110612111219,MRF:Can't locate the Outfall from Google Earth or Orthophoto
+995,,87,Concrete,,,,EXISTING,Armco,,San Jose,127B,Ross Creek,Guadalupe River,-121.922466,37.247467,,C2,0,MGE,,,,20110916122544,20110612111219,MRF:Can't locate the Outfall from Google Earth or Orthophoto
+996,,87,Riprap,,,,EXISTING,,,San Jose,141A,Guadalupe Creek,Guadalupe River,-121.906342,37.22297,,C2,0,MGE,,,,20110916122544,20110612111220,MRF:Can't locate the Outfall from Google Earth or Orthophoto
+998,,87,Riprap,,,,EXISTING,,,San Jose,128A,Ross Creek,Guadalupe River,-121.911858,37.250337,,C2,0,MGE,,,,20110916122544,20110617095728,MRF:Can't locate the outfall from Google Earth or Orthophoto
+999,,87,Flapgate,,,,EXISTING,,,San Jose,127B,Ross Creek,Guadalupe River,-121.918516,37.24806,,C2,0,MGE,,,,20110916122544,20110612111221,"MRF:Can't locate the Outfall from Google Earth or Orthophoto,MGE indicates FLAPGATE as ‘Y’ but cannot find record in CSJ  Flapgates List-2011.xls"
+1000,,87,Pipe,,,,EXISTING,Armco,,San Jose,128A,Ross Creek,Guadalupe River,-121.913197,37.249108,,C2,0,MGE,,,,20110916122544,20110612111221,MRF:Can't locate the outfall from Google Earth or Orthophoto
+1001,,87,Pipe,,,,EXISTING,,,San Jose,128A,Ross Creek,Guadalupe River,-121.911586,37.25073,,C2,0,MGE,,,,20110916122544,20110612111221,"MRF:Can't locate the Outfall from Google Earth or Orthophoto,MGE indicates FLAPGATE as ‘Y’ but cannot find record in CSJ  Flapgates List-2011.xls"
+1003,,87,Riprap,,,,EXISTING,Waterman,,San Jose,127B,Ross Creek,Guadalupe River,-121.919418,37.24781,,C2,0,MGE,,,,20110916122544,20110612111222,MRF:Can't locate the Outfall from Google Earth or Orthophoto
+1041,,87,Pipe,,,,EXISTING,Waterman,,San Jose,67B,Lower Silver Creek,Coyote,-121.868749,37.356778,,C2,0,MGE,,,,20110916122544,20110108163729,
+1047,,87,Riprap,,,,EXISTING,,,San Jose,67B,Lower Silver Creek,Coyote,-121.868878,37.356874,,C2,0,MGE,,,,20110916122544,20110105150442,
+1051,,87,Riprap,,,,EXISTING,,,San Jose,51D,Upper Penitencia Creek,Coyote,-121.874256,37.371665,,C2,0,MGE,,,,20110916122544,20110105150442,
+1053,,87,Riprap,,,,EXISTING,,,San Jose,51D,Penitencia Creek-Upr,Coyote,-121.875241,37.372053,,C2,0,MGE,,,,20110916122544,20110105150442,
+1057,,87,Pipe,,,,EXISTING,,,San Jose,51D,Coyote Creek,Coyote,-121.887028,37.371869,,C2,0,TR8247,,,,20110916122544,20110105150442,
+1779,,87,Flapgate,,,,EXISTING,Armco,,San Jose,66B,Guadalupe River,Guadalupe River,-121.922248,37.365886,,D2,0,IM0702,051632,,,20140825160112,20140826094141,DD-0420
+2093,,87,Concrete,,,,EXISTING,,,San Jose,35C,Guadalupe River,Guadalupe River,-121.945237,37.401464,,C2,0,DD-2276,,20100505000000,,20111020103954,20110925142433,
+29,,87,Riprap,,,,EXISTING,,,San Jose,97A,Saratoga Creek,San Tomas,-121.996945,37.306296,,C2,0,MGE,,,,20110916122546,20110612111106,"MRF:Can't locate the Outfall from Google Earth or Orthophoto,MGE indicates FLAPGATE as ‘Y’ but cannot find record in CSJ  Flapgates List-2011.xls"
+30,,87,Pipe,,,,EXISTING,,,San Jose,97A,Saratoga Creek,San Tomas,-121.996587,37.309543,,C2,0,MGE,,,,20110916122546,20110620110957,MRF:Can't locate the Outfall from Google Earth or Orthophoto
+31,,87,Concrete,,,,EXISTING,,,San Jose,97A,Saratoga Creek,San Tomas,-121.996813,37.306047,,C2,0,MGE,,,,20110916122546,20110612111107,MRF:Can't locate the Outfall from Google Earth or Orthophoto
+32,,87,Riprap,,,,EXISTING,,,San Jose,98C,San Tomas Aquino Creek,San Tomas,-121.962479,37.297916,,C2,0,MGE,,,,20110916122546,20110612111108,
+35,,87,Riprap,,,,EXISTING,,,San Jose,112B,,San Tomas,-121.982256,37.273613,,C2,0,MGE,,,,20110916123028,20110612111108,MRF:Can't locate the outfall from Google Earth or Orthophoto
+36,,87,Riprap,,,,EXISTING,,,San Jose,112D,,San Tomas,-121.990703,37.271874,,C2,0,DD-0236,,20031020000000,,20110916123028,20110620113802,MRF:Can't locate the Outfall from Google Earth or Orthophoto
+37,,87,Riprap,,,,EXISTING,,,San Jose,112D,,San Tomas,-121.990927,37.271506,,C2,0,MGE,,,,20110916123028,20110612111110,MRF:Can't locate the outfall from Google Earth or Orthophoto
+40,,87,Riprap,,,,EXISTING,,,San Jose,112D,,San Tomas,-121.990924,37.270228,,C2,0,MGE,,,,20110916123028,20110612111110,
+43,,87,Riprap,,,,EXISTING,,,San Jose,97A,Saratoga Creek,San Tomas,-121.99671,37.30971,,C2,0,MGE,,,,20110916122546,20110612111111,"MRF:Can't locate the Outfall from Google Earth or Orthophoto,MGE indicates FLAPGATE as ‘Y’ but cannot find record in CSJ  Flapgates List-2011.xls"
+46,,87,Flapgate,,,,EXISTING,Armco,,San Jose,98B,Los Gatos Creek,Guadalupe River,-121.916526,37.304049,,C2,0,MGE,,,,20110916122546,20110612111111,MRF:Can't locate the outfall from Google Earth or Orthophoto
+47,,87,Pipe,,,,EXISTING,,,San Jose,98C,San Tomas Aquino Creek,San Tomas,-121.962286,37.297784,,C2,0,MGE,,,,20110916122546,20110612111112,
+48,,87,Riprap,,,,EXISTING,,,San Jose,98B,Los Gatos Creek,Guadalupe River,-121.92094,37.301102,,C2,0,MGE,,,,20110916122546,20110612111113,MRF:Can't locate the Outfall from Google Earth or Orthophoto
+49,,87,Riprap,,,,EXISTING,,,San Jose,98D,Los Gatos Creek,Guadalupe River,-121.923462,37.299496,,C2,0,MGE,,,,20110916122546,20110612111113,
+50,,87,Flapgate,,,,EXISTING,,,San Jose,112B,,San Tomas,-121.983272,37.273363,,C2,0,DD-0228,,20031020000000,,20110916123028,20110612111114,"MRF:Can't locate the Outfall from Google Earth or Orthophoto,MGE indicates FLAPGATE as ‘Y’ but cannot find record in CSJ  Flapgates List-2011.xls"
+51,,87,Riprap,,,,EXISTING,,,San Jose,98D,Los Gatos Creek,Guadalupe River,-121.93196,37.29737,,C2,0,MGE,,,,20110916122546,20110612111114,MRF:Can't locate the Outfall from Google Earth or Orthophoto
+52,,87,Pipe,,,,EXISTING,,,San Jose,112B,,San Tomas,-121.976378,37.277465,,C2,0,DD-0235,,20031010000000,,20110916123028,20150220123019,MRF:locate the Outfall from Google Earth
+53,,87,Riprap,,,,EXISTING,,,San Jose,98D,Los Gatos Creek,Guadalupe River,-121.92282,37.299766,,C2,0,MGE,,,,20110916122546,20110612111116,MRF:Can't locate the Outfall from Google Earth or Orthophoto
+54,,87,Pipe,,,,EXISTING,,,San Jose,112B,,San Tomas,-121.974066,37.27759,,C2,0,MGE,,,,20110916123028,20110620115612,
+55,,87,Riprap,,,,EXISTING,,,San Jose,98B,Los Gatos Creek,Guadalupe River,-121.917772,37.302792,,C2,0,MGE,,,,20110916122546,20110612111117,MRF:locate the Outfall from Google Earth
+58,,87,Riprap,,,,EXISTING,,,San Jose,96B,Calabazas Creek,Calabazas,-122.019784,37.310015,,C2,0,MGE,,,,20110916122546,20110620105336,MRF:Can't locate the Outfall from Google Earth or Orthophoto
+59,,87,Pipe,,,,EXISTING,,,San Jose,112B,San Tomas Aquino Creek,San Tomas,-121.971579,37.277549,,C2,0,MGE,,,,20110916122546,20110620115644,
+60,,87,Riprap,,,,EXISTING,Armco,,San Jose,112B,,San Tomas,-121.987821,37.272808,,C2,0,MGE,,,,20110916123028,20110620115702,MRF:Can't locate the Outfall from Google Earth or Orthophoto
+2096,,87,Concrete,,,,EXISTING,,,San Jose,82C,San Tomas Aquino Creek,San Tomas,-121.964125,37.320921,,C2,-1,963071,DD-3251,19951202000000,,20140124092151,20140124092117,MRF:Can't locate the Outfall from Google Earth or Orthophoto
+2097,,87,Riprap,,,,EXISTING,,,San Jose,51A,Coyote Creek,Coyote,-121.910622,37.39151,,C2,0,NOPLAN,,20000128000000,,20111020103955,20110925152025,
+2099,,87,Riprap,,,,EXISTING,,,San Jose,67D,Coyote Creek,Coyote,-121.874024,37.343461,,C2,0,DD-0081,,20000131000000,,20110916122544,20110105150444,
+2100,,87,Riprap,,,,EXISTING,,,San Jose,34B,,,-121.975039,37.423174,,C2,0,MGE,,20000201000000,,20110916123027,20110906183926,MRF: Can't locate the Outfall from Google Earth or Orthophoto
+2130,,87,Pipe,,,,EXISTING,,,San Jose,34B,,,-121.975017,37.42312,,C2,0,DD-0077,,20010710000000,,20111020103958,20110925145843,"MRF: Can't locate the Outfall from Google Earth or Orthophoto,UPSTREAM STRUCTURE#22567 IS THE LIBERTY PUMP STATION"
+2131,,87,Concrete,,,,EXISTING,Waterman,,San Jose,34B,,,-121.972864,37.421898,,C2,0,DD-0077,,20010710000000,,20111020104004,20110925152045,
+2132,,87,Pipe,,,,EXISTING,,,San Jose,34B,,,-121.970184,37.42114,,C2,0,DD-0077,,20010710000000,,20111020104004,20110925152101,"WATER APPEARS TO BE FLOWING TOWARDS RETENTION POND, MAYBE REVERSE FLOW?"
+2133,,87,Concrete,,,,EXISTING,,,San Jose,34B,,,-121.970168,37.421128,,C2,0,DD-0077,,20010710000000,,20111020104004,20110925152109,"WATER APPEARS TO BE FLOWING TOWARDS RETENTION POND, MAYBE REVERSE FLOW?"
+2134,,87,Pipe,,,,EXISTING,,,San Jose,35A,,,-121.968733,37.419709,,C2,0,DD-0077,,20010710000000,,20111020104004,20110925152122,"WATER APPEARS TO BE FLOWING TOWARDS RETENTION POND, MAYBE REVERSE FLOW?"
+2135,,87,Pipe,,,,EXISTING,,,San Jose,35A,,,-121.968723,37.419695,,C2,0,DD-0077,,20010710000000,,20111020104004,20110925152303,"WATER APPEARS TO BE FLOWING TOWARDS RETENTION POND, MAYBE REVERSE FLOW?"
+2138,,87,Flapgate,,,,EXISTING,Waterman,,San Jose,50D,Guadalupe River,Guadalupe River,-121.933394,37.374496,,D2,-1,89-6725,,19901231000000,,20140310102336,20140310084250,STRUCTURE #30115 IS THE PUMP STATION
+2139,,87,Flapgate,,,,EXISTING,Waterman,,San Jose,50D,Guadalupe River,Guadalupe River,-121.933397,37.374486,,D2,0,89-6725,,20080412000000,,20140310091942,20140310084241,STRUCTURE #30115 IS THE PUMP STATION
+2140,,87,Flapgate,,,,EXISTING,,,Private,50D,Guadalupe River,Guadalupe River,-121.932899,37.376495,,C2,0,DD-0084,,20010717000000,,20110916122544,20110925154106,"MRF: MGE indicates FLAPGATE as 'Y' but cannot find record in CSJ  Flapgates List-2011.xls,UNABLE TO FIND PIPE ORIGIN; MAY BE STUBBED OUT FOR FUTURE DEVELOPMENT"
+2141,,87,Concrete,,,,EXISTING,,,SCCO,50D,Guadalupe River,Guadalupe River,-121.93659,37.377972,,C2,0,DD-0084,,20010717000000,,20110916122544,20110925153811,OUTFALL ORIGINATES FORM CITY OF SANTA CLARA STRUCTURES
+134,,87,Flapgate,,,,EXISTING,Armco,,San Jose,83C,Los Gatos Creek,Guadalupe River,-121.903014,37.321212,,C2,0,MGE,,,,20110916122544,20101104194826,MRF:Outfall isn‘t clearly visible on the orthophoto
+2137,,87,Flapgate,,,,EXISTING,Waterman,,San Jose,99D,Canoas Creek,Guadalupe River,-121.877395,37.287704,,C2,0,DD-0090,,20010716000000,,20110916122544,20101107002253,
+2143,,87,Riprap,,,,EXISTING,,,San Jose,99D,Guadalupe River,Guadalupe River,-121.882709,37.288082,,C2,0,DD-0073,,20010720000000,,20110916122544,20101222170127,
+2144,,87,Riprap,,,,EXISTING,,,San Jose,114B,Guadalupe River,Guadalupe River,-121.883198,37.28699,,C2,0,DD-0073,,20010720000000,,20110916122544,20110610185156,
+2146,,87,Riprap,,,,EXISTING,,,San Jose,83B,Coyote Creek,Coyote,-121.870903,37.34048,,C2,0,DD-0116,,20010809000000,,20110916122544,20101105234924,MRF:Outfall isn‘t clearly visible on the orthophoto
+2263,,87,Riprap,,,,EXISTING,,,San Jose,83C,Guadalupe River,Guadalupe River,-121.890789,37.317774,,C2,0,DD-0195,,20030910000000,,20110916122544,20101106231825,MRF:Outfall isn‘t clearly visible on the orthophoto
+2270,,87,Riprap,,,,EXISTING,,,San Jose,99A,Los Gatos Creek,Guadalupe River,-121.907198,37.309968,,C2,0,DD-0237,,20031020000000,,20110916122544,20101106223447,MRF:Outfall isn‘t clearly visible on the orthophoto
+2271,,87,Pipe,,,,EXISTING,,,San Jose,83C,Los Gatos Creek,Guadalupe River,-121.903866,37.314878,,C2,0,DD-0238,,20031020000000,,20110916122544,20101106234612,MRF:Outfall isn‘t clearly visible on the orthophoto
+2379,,87,Flapgate,,,,EXISTING,Armco,,San Jose,83C,Los Gatos Creek,Guadalupe River,-121.901084,37.326268,,C2,0,DD-2218,,20080619000000,,20111020103201,20101116085716,"MRF:Outfall isn‘t clearly visible on the orthophoto,MGE indicates FLAPGATE as 'Y' but cannot find record in CSJ  Flapgates List-2011.xls"
+2500,,87,Pipe,,,,EXISTING,,SCVWD,San Jose,83A,Guadalupe River,Guadalupe River,-121.902684,37.338377,,D2,-1,3-12873,,20060328000000,,20110113152217,20101105030412,MRF:Outfall isn‘t clearly visible on the orthophoto
+2700,,87,Riprap,,,,EXISTING,,,San Jose,83A,Los Gatos Creek,Guadalupe River,-121.899173,37.332176,,C2,0,MGE,,,,20110916122544,20101107005033,"MRF:Outfall isn‘t clearly visible on the orthophoto,Singe outfall,MGE feature without any attribute"
+2383,,87,Flapgate,,,,EXISTING,,,San Jose,83A,Los Gatos Creek,Guadalupe River,-121.899101,37.332416,,C2,0,DD-2665,,20080708000000,,20110916122544,20101026190900,"MRF:Outfall isn‘t clearly visible on the orthophoto,MGE indicates FLAPGATE as 'Y' but cannot find record in CSJ  Flapgates List-2011.xls"
+1088,,87,Riprap,,,,EXISTING,,,San Jose,99A,Los Gatos Creek,Guadalupe River,-121.908963,37.308978,,C2,0,948125,928844,19960726000000,,20150102150445,20101106224538,
+2101,,87,Flapgate,,,,EXISTING,Waterman,,San Jose,99B,Guadalupe River,Guadalupe River,-121.885438,37.309504,,C2,0,DD-0142,,20021125000000,,20110916122544,20101026192721,
+2104,,87,Riprap,,,,EXISTING,,,San Jose,99D,Guadalupe River,Guadalupe River,-121.880687,37.297375,,C2,0,DD-0056,,20010607000000,,20110916122544,20101107010310,
+2106,,87,Riprap,,,,EXISTING,,,San Jose,99D,Guadalupe River,Guadalupe River,-121.880458,37.292873,,C2,0,DD-0058,,20010607000000,,20110916122544,20101110011119,
+2136,,87,Pipe,,,,EXISTING,,,San Jose,99A,Los Gatos Creek,Guadalupe River,-121.903876,37.312987,,C2,0,DD-0089,,20010713000000,,20110916122544,20101106221200,MRF:Outfall isn‘t clearly visible on the orthophoto
+141,,87,Riprap,,,,EXISTING,Waterman,,San Jose,99B,Guadalupe River,Guadalupe River,-121.884373,37.307141,,C2,0,MGE,,,,20110916122544,20101106222207,
+153,,87,Riprap,,,,EXISTING,,,San Jose,99D,Guadalupe River,Guadalupe River,-121.881015,37.297498,,C2,0,MGE,,,,20110916122544,20101107010217,
+2643,,87,Concrete,,,,EXISTING,,,San Jose,35B,Coyote Creek,Coyote,-121.925449,37.411442,,D2,0,MGE,,,,20111020104124,20110925153746,"MRF:Can't locate the outfall from Google Earth or Orthophoto,UPSTREAM STRUCTURES ARE THREE GRATES GOING INTO THIS OUTFALL"
+2644,,87,Pipe,,,,EXISTING,,,San Jose,20C,,,-121.964503,37.431037,,D2,0,MGE,,,,20111020104124,20110925153737,
+2645,,87,Pipe,,,,EXISTING,,,San Jose,20C,Bay Marsh,,-121.955695,37.43602,,D2,0,MGE,,,,20111020104124,20110925153713,"FOR MORE DETAIL SEE DIPSHEET  ""HIGH-A"""
+2646,,87,Pipe,,,,EXISTING,,,San Jose,20C,Bay Marsh,,-121.955673,37.43603,,D2,0,MGE,,,,20111020104124,20110925153704,"FOR MORE DETAIL SEE DIPSHEET  ""HIGH-A"" "
+2647,,87,Concrete,,,,EXISTING,,,San Jose,20C,Bay Marsh,,-121.955543,37.435863,,D2,0,MGE,,,,20111020104128,20110925153657,
+2650,,87,Pipe,,,,EXISTING,,,San Jose,50D,Guadalupe River,Guadalupe River,-121.937971,37.375692,,D2,0,MGE,,,,20111020104130,20110925153639,0.5' OF DIRT AT MOUTH
+2651,,87,Flapgate,,,,EXISTING,,,San Jose,51C,Coyote Creek,Coyote,-121.891907,37.376001,,D3,0,MGE,DD-3271,,,20140411155959,20140411155242,
+2652,,87,Pipe,,,,EXISTING,,,San Jose,50D,Guadalupe River,Guadalupe River,-121.941123,37.375417,,D2,0,MGE,,,,20111020104115,20110925153617,
+2653,,87,Concrete,,,,EXISTING,,,San Jose,20A,,,-121.958481,37.440208,,D2,0,MGE,,,,20111020104115,20110925153604,"MRF:Can't locate the outfall from Google Earth or Orthophoto,FLAPGATE CLOSED"
+2655,,87,Concrete,,,,EXISTING,,,San Jose,34B,,,-121.976583,37.4224,,D2,0,MGE,,,,20111020104115,20110925153555,
+2634,,87,Water Way,,,,EXISTING,,,San Jose,50D,Guadalupe River,Guadalupe River,-121.932871,37.3741,,D2,0,MGE,,,,20111020104122,20110925153953,
+2635,,87,Concrete,,,,EXISTING,,,San Jose,20C,Bay Marsh,,-121.955418,37.435997,,D2,0,MGE,,,,20111020104123,20110925153939,STAGNANT BECAUSE OUTFALL GATE CLOSED; ALSO THE INVERT IS APPROXIMATE
+2636,,87,Flapgate,,,,EXISTING,,,San Jose,51C,Coyote Creek,Coyote,-121.89189,37.376008,,D3,0,MGE,DD-3271,,,20140411160013,20140411155112,
+2637,,87,Flapgate,,,,EXISTING,,,San Jose,51C,Coyote Creek,Coyote,-121.891926,37.375994,,D3,0,MGE,DD-3271,,,20140411160019,20140411155142,
+2638,,87,Concrete,,,,EXISTING,,,San Jose,20A,,,-121.958487,37.440185,,D2,0,MGE,,,,20111020104123,20110925153900,"MRF:Can't locate the outfall from Google Earth or Orthophoto,FLAPGATE CLOSED"
+2639,,87,Concrete,,,,EXISTING,,,San Jose,20C,Bay Marsh,,-121.950287,37.429221,,D2,0,MGE,,,,20111020104124,20110925153841,MRF:locate the outfall from Google Earth
+2641,,87,Pipe,,,,EXISTING,,,MILPITAS,5D,,,-121.925324,37.453564,,D2,0,3-12384,DD-3181,20040827000000,,20141222114748,20141222114700,
+2642,,87,Flapgate,,,,EXISTING,,,San Jose,5D,,,-121.934275,37.454057,,D3,0,MGE,DD-3263,,,20140224093045,20110925153727,"outfall is a rusted flapgate on the end of an 18"" diameter CMP"
+2211,,87,Riprap,,,,EXISTING,,,San Jose,85D,Quimby Creek,Coyote,-121.774833,37.3209,,C2,0,1-8779,,20030305000000,,20110916122545,20110325143824,
+2212,,87,Pipe,,,,EXISTING,,,San Jose,53A,Upper Penitencia Creek,Coyote,-121.811689,37.394485,,C2,0,DD-0137,,20030312000000,,20110916122545,20110325143825,MRF:Can't locate the outfall from Google Earth or Orthophoto
+2213,,87,Water Way,,,,EXISTING,,,San Jose,53A,Upper Penitencia Creek,Coyote,-121.810477,37.394959,,C2,0,DD-0137,,20030312000000,,20110916122545,20110325143825,MRF:Can't locate the outfall from Google Earth or Orthophoto
+2214,,87,Riprap,,,,EXISTING,,,San Jose,53A,Upper Penitencia Creek,Coyote,-121.809918,37.395138,,C2,0,MGE,,20030312000000,,20110916122545,20110325143826,MRF:Can't locate the outfall from Google Earth or Orthophoto
+2215,,87,Riprap,,,,EXISTING,,,San Jose,53A,Upper Penitencia Creek,Coyote,-121.809866,37.396033,,C2,0,DD-0137,,20030312000000,,20110916122545,20110325143827,MRF:Can't locate the outfall from Google Earth or Orthophoto
+2217,,87,Riprap,,,,EXISTING,,,San Jose,53A,Upper Penitencia Creek,Coyote,-121.80594,37.395595,,C2,0,DD-0137,,20030312000000,,20110916122545,20110325143828,MRF:Can't locate the outfall from Google Earth or Orthophoto
+2218,,87,Riprap,,,,EXISTING,,,San Jose,53A,Upper Penitencia Creek,Coyote,-121.804021,37.395738,,C2,0,DD-0137,,20030312000000,,20110916122545,20110325143828,MRF:Can't locate the outfall from Google Earth or Orthophoto
+2219,,87,Pipe,,,,EXISTING,,,San Jose,68C,Lower Silver Creek,Coyote,-121.849428,37.354731,,C2,0,DD-0135,,20020828000000,,20110916122545,20110325143829,MRF:Can't locate the Outfall from Google Earth or Orthophoto
+2220,,87,Pipe,,,,EXISTING,,,San Jose,68C,Lower Silver Creek,Coyote,-121.848758,37.354785,,C2,0,DD-0135,,20020828000000,,20110916122545,20110325143830,MRF:Can't locate the Outfall from Google Earth or Orthophoto
+2222,,87,Riprap,,,,EXISTING,,,San Jose,53A,Upper Penitencia Creek,Coyote,-121.804653,37.396387,,C2,0,DD-0137,,20030319000000,,20110916122545,20110325143831,MRF:Can't locate the outfall from Google Earth or Orthophoto
+911,,87,Concrete,,,,EXISTING,,,San Jose,114B,Guadalupe River,Guadalupe River,-121.88155,37.28199,,C2,,MGE,DD-3034,,,,20150219124759,
 912,,87,Flapgate,,,,EXISTING,,,San Jose,101C,Upper Silver Creek,Coyote,-121.795455,37.297338,,C2,,MGE,DD-3037,,,,20150219135727,
 919,,87,Riprap,,,,EXISTING,,,San Jose,116C,Coyote Creek,Coyote,-121.797063,37.274207,,C2,0,MGE,DD-2923,,,,20150223114047,
 920,,87,Riprap,,,,EXISTING,,,San Jose,116C,Coyote Creek,Coyote,-121.797063,37.274205,,C2,0,MGE,DD-2923,,,,20150223114113,
@@ -599,6 +600,7 @@ STM_OTF_ID,COMPKEY,COMPTYPE,TYPE,PCD_TYPE,PCD_IN_DAT,PCD_MANUF,STATUS,FLAP_BRAND
 849,,87,Concrete,,,,EXISTING,,,San Jose,102C,Yerba Buena Creek,Coyote,-121.740329,37.292453,,D2,,DD-3299,,,,,20141204122626,
 888,,87,Pipe,,,,EXISTING,,,San Jose,53A,Upper Penitencia Creek,Coyote,-121.812357,37.394363,,D3,0,DD-3196,,,,,20150107153430,
 889,,87,Pipe,,,,EXISTING,,,San Jose,53A,Upper Penitencia Creek,Coyote,-121.812079,37.394277,,D3,0,DD-3196,,,,,20150107154338,
+930,,87,Pipe,,,,EXISTING,,,San Jose,115C,Guadalupe River,Guadalupe River,-121.860375,37.268436,,D2,,CAL-04-487024,,19890119000000,,,20150909154627,
 850,,87,Pipe,,,,EXISTING,,,San Jose,144A,Coyote Creek,Coyote,-121.74861,37.22876,,C2,0,MGE,DD-3296,,,,20141205123251,
 851,,87,Flapgate,,,,EXISTING,,,San Jose,144A,Coyote Creek,Coyote,-121.748853,37.228814,,C2,0,MGE,DD-3296,,,,20141205123408,
 852,,87,Flapgate,,,,EXISTING,,,San Jose,144A,Coyote Creek,Coyote,-121.746457,37.231316,,C2,0,MGE,DD-3296,,,,20141205123814,
@@ -1103,7 +1105,7 @@ STM_OTF_ID,COMPKEY,COMPTYPE,TYPE,PCD_TYPE,PCD_IN_DAT,PCD_MANUF,STATUS,FLAP_BRAND
 2196,,87,Pipe,,,,EXISTING,,,San Jose,68C,Lower Silver Creek,Coyote,-121.846795,37.354197,,C2,0,DD-0135,,20020830000000,,20110916122545,20110325143822,MRF:Can't locate the Outfall from Google Earth or Orthophoto
 515,,87,Riprap,,,,EXISTING,,,San Jose,36D,Sierra Creek,Lower Penitencia,-121.866816,37.405215,,C2,0,MGE,,,,20110916122545,20110105150429,
 2513,,87,Concrete,,,,EXISTING,,,San Jose,37D,Penitencia Creek-Upr,Coyote,-121.831346,37.402404,,D2,0,MGE,,,,20110916122547,20110517102021,
-703,,87,Riprap,,,,EXISTING,,,San Jose,115A,Canoas Creek,Guadalupe River,-121.860198,37.274055,,D2,,MGE,,,,,20120726082936,
+703,,87,Riprap,,,,EXISTING,,,San Jose,115A,Canoas Creek,Guadalupe River,-121.860198,37.274055,,D2,,CAL-04-487024,,19890119000000,,20150910074049,20120726082936,
 704,,87,Riprap,,,,EXISTING,,,San Jose,114B,Canoas Creek,Guadalupe River,-121.866427,37.281962,,D2,-1,CAL087,,,,,20120730111404,
 706,,87,Concrete,,,,EXISTING,,,San Jose,34B,,,-121.976913,37.417133,,D2,-1,3-09290,,20070630000000,,20120815154332,20120815154306,
 710,,87,Riprap,,,,EXISTING,,,San Jose,116B,Upper Silver Creek,Coyote,-121.773809,37.2833,,D2,-1,938031,,19920304000000,19931025000000,20120907143309,20120907142544,
@@ -1117,7 +1119,7 @@ STM_OTF_ID,COMPKEY,COMPTYPE,TYPE,PCD_TYPE,PCD_IN_DAT,PCD_MANUF,STATUS,FLAP_BRAND
 771,,87,Concrete,,,,EXISTING,,,San Jose,100D,Coyote Creek,Coyote,-121.833199,37.293915,,D3,0,MGE,DD-3272,,,20140417130046,20140417144059,
 766,,87,Infall,,,,EXISTING,,,San Jose,50D,Guadalupe River,Guadalupe River,-121.933767,37.374402,,D2,-1,89-6725,DD-2247,19901231000000,,20140310102418,20140310101133,feature is open CMP infall; invert is 28.2
 769,,87,Pipe,,,,EXISTING,,,San Jose,129A,Canoas Creek,Guadalupe River,-121.859869,37.258766,,D3,0,MGE,DD-3274,,,,20140417125741,
-770,,87,Concrete,,,,EXISTING,,,San Jose,129A,Canoas Creek,Guadalupe River,-121.859838,37.259342,,D3,0,MGE,DD-0062,,,20140417130046,20140417125943,further modified by DD-3274
+770,,87,Concrete,,,,EXISTING,,,San Jose,129A,Canoas Creek,Guadalupe River,-121.859837,37.259357,,D3,0,CAL-04-487024,DD-0062,,,20150909135133,20150909134833,further modified by DD-3274
 772,,87,Concrete,,,,EXISTING,,,San Jose,84C,Coyote Creek,Coyote,-121.856739,37.321092,,D3,0,MGE,DD-3272,,,20140417130046,20140417151311,
 777,,87,Pipe,,,,EXISTING,,,San Jose,114C,Ross Creek,Guadalupe River,-121.897872,37.260627,,D2,0,TR2919,DD-2486,19620410000000,,20140530144621,20140530134035,
 778,,87,Pipe,,,,EXISTING,,,San Jose,114C,Ross Creek,Guadalupe River,-121.894471,37.261545,,D2,0,TR2919,DD-2483,19620410000000,,20140530144713,20140530142519,
@@ -1261,7 +1263,6 @@ STM_OTF_ID,COMPKEY,COMPTYPE,TYPE,PCD_TYPE,PCD_IN_DAT,PCD_MANUF,STATUS,FLAP_BRAND
 908,,87,Concrete,,,,EXISTING,,,San Jose,114B,Guadalupe River,Guadalupe River,-121.882259,37.283735,,C2,,MGE,DD-3031,,,,20150219095652,
 909,,87,Concrete,,,,EXISTING,,,San Jose,114B,Guadalupe River,Guadalupe River,-121.882482,37.284106,,C2,,MGE,DD-3031,,,,20150219100843,
 910,,87,Concrete,,,,EXISTING,,,San Jose,114B,Guadalupe River,Guadalupe River,-121.883011,37.284715,,C2,,MGE,DD-3031,,,,20150219120007,
-911,,87,Concrete,,,,EXISTING,,,San Jose,114B,Guadalupe River,Guadalupe River,-121.88155,37.28199,,C2,,MGE,DD-3034,,,,20150219124759,
 2313,,87,Riprap,,,,EXISTING,,,San Jose,144C,Fisher Creek,Coyote,-121.758796,37.214346,,C2,0,3-14777,,20060511000000,,20110916122547,20110902060538,MRF:Can't locate the outfall from Google Earth or Orthophoto
 2314,,87,Riprap,,,,EXISTING,,,San Jose,143D,Fisher Creek,Coyote,-121.760492,37.212815,,C2,0,3-14777,,20060512000000,,20110916122547,20110907180830,MRF:Can't locate the outfall from Google Earth or Orthophoto
 2315,,87,Pipe,,,,EXISTING,,,San Jose,130D,Coyote Creek,Coyote,-121.763607,37.239719,,C2,-1,1-8743,,20060725000000,,20110916122547,20110907164547,

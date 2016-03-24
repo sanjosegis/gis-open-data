@@ -1636,7 +1636,7 @@ Public/Quasi-Public,PQP,,0.6,,"209, 255, 240",12,1936
 Residential Neighborhood,RN,,9.6,,"255, 255, 133",17,10479
 Public/Quasi-Public,PQP,,0.06,,"209, 255, 240",12,1938
 Neighborhood/Community Commercial,NCC,,7.32,Urban Village,"255, 125, 189",7,10489
-Public/Quasi-Public,PQP,,0.38,,"209, 255, 240",12,2037
+Urban Residential,UR,,0.38,,"160, 120, 0",15,2037
 Residential Neighborhood,RN,,3.28,,"255, 255, 133",17,5940
 "Open Space, Parklands and Habitat",OSPH,,0.88,,"96, 160, 0",22,2042
 Mixed Use Commercial,MUC,,0.53,,"255, 177, 96",6,3232
@@ -4310,7 +4310,7 @@ Mixed Use Neighborhood,MUN,,13.6,,"207, 161, 22",16,4246
 Mixed Use Neighborhood,MUN,,10.11,,"207, 161, 22",16,4247
 Mixed Use Neighborhood,MUN,,8.12,,"207, 161, 22",16,4248
 Mixed Use Neighborhood,MUN,,7.25,,"207, 161, 22",16,4249
-Residential Neighborhood,RN,,0.91,,"255, 255, 133",0,11829
+Residential Neighborhood,RN,,0.91,,"255, 255, 133",17,11829
 Residential Neighborhood,RN,,5.38,,"255, 255, 133",17,4309
 Residential Neighborhood,RN,,2.67,,"255, 255, 133",17,4310
 Residential Neighborhood,RN,,2.56,,"255, 255, 133",17,4311
@@ -4771,11 +4771,11 @@ Residential Neighborhood,RN,,3.04,,"255, 255, 133",17,4649
 Residential Neighborhood,RN,,7.41,,"255, 255, 133",17,4656
 Downtown,DT,,1.26,,"232, 208, 255",7,4981
 Downtown,DT,,1.26,,"255, 125, 189",7,4982
-Neighborhood/Community Commercial,NCC,,1.17,,"255, 125, 189",7,4983
+Downtown,DT,,1.17,,"232, 208, 255",1,4983
 Downtown,DT,,0.92,,"232, 208, 255",7,4984
 Downtown,DT,,0.91,,"255, 125, 189",7,4985
 Downtown,DT,,0.63,,"232, 208, 255",7,4986
-Neighborhood/Community Commercial,NCC,,0.36,,"255, 125, 189",7,4987
+Downtown,DT,,0.36,,"232, 208, 255",1,4987
 Neighborhood/Community Commercial,NCC,,2.52,Urban Village,"255, 125, 189",7,5048
 Neighborhood/Community Commercial,NCC,,2.49,Urban Village,"255, 125, 189",7,5049
 Neighborhood/Community Commercial,NCC,,2.19,Urban Village,"255, 125, 189",7,5050
@@ -9947,7 +9947,7 @@ Residential Neighborhood,RN,,0.15,,"255, 255, 133",17,11297
 "Open Space, Parklands and Habitat",OSPH,,5.39,,"96, 160, 0",22,11786
 Industrial Park,IP,,5.02,,"138, 194, 230",9,11768
 Industrial Park,IP,,6.38,,"138, 194, 230",9,11769
-Downtown,DT,,0.24,,"232, 208, 255",0,11822
+Downtown,DT,,0.24,,"232, 208, 255",1,11822
 Downtown,DT,,0.39,,"232, 208, 255",7,11823
 Neighborhood/Community Commercial,NCC,,0.39,,"255, 125, 189",7,11824
 Combined Industrial/Commercial,CIC,,28,,"212, 97, 252",8,11680
@@ -9977,9 +9977,9 @@ Residential Neighborhood,RN,,1.8,,"255, 255, 133",17,11797
 Light Industrial,LI,,38.13,,"207, 224, 217",10,11783
 Industrial Park,IP,,10.46,,"138, 194, 230",9,11767
 Downtown,DT,,3.66,,"232, 208, 255",17,11826
-Downtown,DT,,3.66,,"232, 208, 255",17,11827
+Residential Neighborhood,RN,,3.66,,"255, 255, 133",17,11827
 Downtown,DT,,3.66,,"232, 208, 255",17,11828
 Mixed Use Neighborhood,MUN,,1,Alviso Specific Plan Area,"207, 161, 22",16,11817
 Downtown,DT,,1.26,,"232, 208, 255",1,11818
-Mixed Use Neighborhood,MUN,,35,,"207, 161, 22",0,11819
-Urban Residential,UR,,10,,"160, 120, 0",0,11820
+Mixed Use Neighborhood,MUN,,35,,"207, 161, 22",16,11819
+Urban Residential,UR,,10,,"160, 120, 0",15,11820
